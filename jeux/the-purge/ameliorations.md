@@ -10,6 +10,6 @@
 
 **⦁ Posture défensive:** Cette amélioration diminue les dégats que vous prenez de 1% par achat de l'amélioration.
 
-**⦁ Maître du build:** Cette amélioration augmente la durée de vie de vos blocs de 60% par amélioration.
+**⦁ Maître du build:** Cette amélioration augmente la durée de vie de vos blocs de 60% par amélioration.g
 
 **⦁ Vol à la tire:** Cette amélioration vous donne 1 exp et 1 golds en plus au premier kill après votre respawn par achat de l'amélioration.
