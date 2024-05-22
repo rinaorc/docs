@@ -1,6 +1,6 @@
 # 🏹 Nous Rejoindre
 
-## Comment jouer à Rinaorc ?
+## Comment se connecter à Rinaorc ?
 
 #### 1. Téléchargez le launcher officiel de Mojang : [https://www.minecraft.net/fr-fr/download](https://www.minecraft.net/fr-fr/download) !
 
