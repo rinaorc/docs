@@ -23,3 +23,6 @@ voulez équiper et insérez là dans un emplacement vide.
 
 **Obtention et Dépense de Beacons**
 > Les **Beacons** sont une ressource passe-partout très précieuse. Vous pouvez en obtenir dans vos **kits journaliers** *(/kits)*, en complétant vos **quêtes quotidiennes** *(/defis)*, dans les **coffres cosmiques** (obtenus en minant), dans la **mine PvP** et de **manière passive en récoltant vos récompenses AFK** *(/afk)*. Vous pouvez les utiliser pour acheter des **paliers de Pass** *(/pass)* (8000 beacons par palier acheté), des **pets et des robots**, réparer la **durabilité de vos armures** (5000 beacons pour 10 de durabilité) ou contre des **fragments d'étoiles et des boosters dans le shop** *(/shop)*.
+
+**La Chance Critique d'Enchantements, ça sert à quoi ?**
+> La **Chance Critique d'Enchantements** est une statistique qui vous donne une chance de **provoquer un enchantement deux fois de suite**. Il est important de noter que ce pourcentage de chance ne peut pas aller au dessus de **10%** à moins d'avoir **l'artéfact Horizon des Evenements actif.**
