@@ -22,7 +22,6 @@
 - **Dans le shop** : On peut utiliser ses riozs pour acheter des beacons dans le /shop.
 - **Dans la boutique** : Les Beacons sont également achetables sur la [boutique](https://store.rinaorc.com).
 
--   
 
 
 ➺ Une fois les bases acquises, entrons dans le vif du sujet. Il existe différents moyens d'augmenter ses statistiques afin de gagner davantage de RinaCoins/Tokens mais également d'autres bonus utiles. Les voici :
