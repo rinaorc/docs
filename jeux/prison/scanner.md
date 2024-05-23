@@ -27,7 +27,7 @@ La quantité de fragments demandée augmente entre chaque niveau, voici la liste
 | Niveau 2       | 10.3K  |
 | Niveau 3       | 21K    |
 | Niveau 4       | 32.5K  |
-| Niveau 5       |        |
+| Niveau 5       | 45.3K  |
 | Niveau 6       | 53.8k  |
 | Niveau 7       | 63.5K  |
 | Niveau 8       | 75K    |
