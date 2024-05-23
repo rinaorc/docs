@@ -9,7 +9,7 @@ Votre pioche sera amené à évoluer à quelques reprises, elle évolue en fonct
 
 | Rareté       | Valeur        |
 |--------------|---------------|
-| Commun       |               |
+| Commun       | 31.200 blocs  |
 | Rare         |               |
 | Épique       | 480.000 blocs |
 | Légendaire   | 1.200.000 blocs|
