@@ -1,4 +1,4 @@
-Questions Fréquentes
+# Questions Fréquentes
 
 **A quoi sert le Mana ?**
 > Le Mana est une unité qui n'a pas encore d'intéret pour les capacités actives dans le jeu. Le pet **légendaire** Requin vous accorde un bonus de Tokens et de Rinacoins selon votre quantité de Mana.
