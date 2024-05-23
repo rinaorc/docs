@@ -15,6 +15,6 @@ Votre pioche sera amené à évoluer à quelques reprises, elle évolue en fonct
 | Légendaire   | 1.200.000 blocs  |
 | Divin        | 2.400.000 blocs  |
 | Mythique     | 4.100.000 blocs  |
-| Cosmique     | 6.080.000 blocs  |
+| Cosmique     | 6.190.000 blocs  |
 | Primordial   | 9.500.000 blocs  |
 | Transcendant | 15.900.000 blocs |
