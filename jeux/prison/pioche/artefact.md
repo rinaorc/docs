@@ -3,8 +3,9 @@
 
 ## **➺** Comment obtenir un artéfact ?
 Pour obtenir un artéfact, il faut parvenir à réunir 200 fragments d'artéfacts.  
-Pour cela les fragments d'artéfacts s'obtiennent dans les coffres cosmiques, dans le kit voyageur et dans le /pass : 
+Pour cela les fragments d'artéfacts s'obtiennent dans les coffres cosmiques, dans le kit voyageur et dans le /pass.   
 
+## **➺** Quels sont les artéfacts
 ### Supprimer l'objet
 Comme son nom l'indique, cette option permet de supprimer un object, le forgeron vous l'échangera contre des fragments d'étoiles.
 ### Recalculer une statistique *(Entre 2 et 5 durabilités)*
