@@ -1,5 +1,5 @@
 # 🪀 Scanner
-Le scanner est un outil utilisable en utilisant la commande /scanner. Il permet d'obtenir des objets rares (armures ou gemmes) et en l'améliorant il permet d'obtenir des objects de rareté supérieure.
+Le scanner est un outil utilisable en utilisant la commande /scanner. Il permet d'obtenir des objets rares (armures ou gemmes) et en l'améliorant il permet d'améliorer la qualité et la chance d'obtenir de meilleurs objets.
 
 ## **➺** Comment l'améliorer ?
 Pour l'améliorer vous avez besoin d'un certain nombre de fragments d'étoiles qui s'obtiennent en recyclant ses objets rares. [Cliqué ici :lien vers le /forge ?]
