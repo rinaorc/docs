@@ -3,7 +3,7 @@
 
 ## **➺** 💰 Enchantements nécessitant uniquement des tokens
 
-- Fortune : Il permet d'obtenir plusieurs blocs en n'en cassant qu'un seul.
+- Fortune : Il permet d'obtenir plusieurs blocs en n'en cassant qu'un seul (n'affecte que les RinaCoins).  
 - Efficacité : Il permet de casser les blocs plus rapidement.
 - Chercheur de tokens : Il permet d'obtenir plus de tokens en cassent les blocs.
 - Vein miner : Il permet de casser les blocs d'un même type dans un rayon donné.
