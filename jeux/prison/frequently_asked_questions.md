@@ -1,4 +1,4 @@
-# Questions Fréquentes
+# Questions Fréquentes... et Astuces
 *Cette page sert de mémo/index très général sur les différentes mécaniques du Prison. Si vous recherchez des informations plus détaillées sur un des points suivants, merci de vous reporter aux pages qui leur sont dédiées.*
 
 **A quoi sert le Mana ?**
@@ -22,8 +22,8 @@ voulez équiper et insérez là dans un emplacement vide.
 **Tokens et Enchantements, quésaco?**
 > Les **Tokens** s'obtiennent en minant. Ils vous permettent d'améliorer et de débloquer des enchantements plus ou moins puissants qui vous permettent de casser plus de blocs et ainsi produire plus de Rinacoins. Pour accéder à la page des enchantements, vous devez ouvrir **le menu de votre pioche** (clic droit sur votre pioche).
 
-**Obtention et Dépense de Beacons**
-> Les **Beacons** sont une ressource passe-partout très précieuse. Vous pouvez en obtenir dans vos **kits journaliers** *(/kits)*, en complétant vos **quêtes quotidiennes** *(/defis)*, dans les **coffres cosmiques** (obtenus en minant), dans la **mine PvP** et de **manière passive en récoltant vos récompenses AFK** *(/afk)*. Vous pouvez les utiliser pour acheter des **paliers de Pass** *(/pass)* (8000 beacons par palier acheté), des **pets et des robots**, réparer la **durabilité de vos armures** (5000 beacons pour 10 de durabilité) ou contre des **fragments d'étoiles et des boosters dans le shop** *(/shop)*.
+**Utiliser ses Beacons de manière efficace**
+> Les **Beacons** sont une ressource passe-partout très précieuse, et ils doivent donc être utilisés avec parcimonie pour que vous en fassiez le meilleur investissement. Les **paliers de Pass** *(/pass)* sont à prioriser: chaque palier coûte **8000 beacons** mais vous permet de récupérer des récompenses précieuses et très utiles tout au long de votre partie (ADN d'oeufs, Schémas de Robots, Fragments d'Etoile...). Les beacons servent également à récupérer de la **durabilité** sur les gemmes et armures (**5000 beacons pour 10 de durabilité**), mais il est conseillé d'attendre  **l'obtention d'objets rares** (mythiques, cosmiques...) avant de les utiliser à cet effet. L'achat de pets/robots et de boosters est peu recommandé en début ou milieu de partie et n'est pas une priorité absolue (le pass, le minage et les kits en octroient un nombre conséquent). L'échange de **beacons contre des fragments** *(/shop)* est à **éviter** (1 beacon = 1 fragment, cela peut aider sur les tous premiers scanners mais les prix montent très vite). 
 
 **La Chance Critique d'Enchantements, ça sert à quoi ?**
 > La **Chance Critique d'Enchantements** est une statistique qui vous donne une chance de **provoquer un enchantement deux fois de suite**. Il est important de noter que ce pourcentage de chance ne peut pas aller au dessus de **10%** à moins d'avoir **l'artéfact Horizon des Evenements actif.**
