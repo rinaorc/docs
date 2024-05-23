@@ -1,7 +1,8 @@
 # 🪀 Scanner
-> Le scanner est un outil utilisable en utilisant la commande /scanner. Il permet d'obtenir des objets rares (armures ou gemmes) et en l'améliorant il permet d'améliorer la qualité et la chance d'obtenir de meilleurs objets.
+> Le scanner est un outil utilisable en utilisant la commande /scanner. Il permet d'obtenir des objets rares (armures ou gemmes) ainsi que des schémas de robots, des adn d'oeufs et des coffres cosmiques.
 
 ## **➺** Comment l'améliorer ?
+L'amélioration du scanner augmente seulement les chances d'obtenir de meilleurs objets d'une meilleure rareté.  
 Pour l'améliorer, vous avez besoin d'un certain nombre de fragments d'étoiles qui s'obtiennent en recyclant ses objets rares. [Cliqué ici :lien vers le /forge ?]()  
 
 Vous pouvez voir votre avancée de fragments d'étoiles pour le scanner avec le pourcentage écrit en violet au dessus de votre nourriture. 
