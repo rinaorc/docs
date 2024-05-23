@@ -15,7 +15,7 @@ voulez équiper et insérez là dans un emplacement vide.
 > Le Scanner **(/scanner ou clic droit sur le beacon dans votre inventaire)** , est un outil qui vous permet de trouver des objets en minant (armures et gemmes) ! Chaque nouvelle amélioration de scanner vous permet de trouver des objets de rareté supérieur, ou augmente vos chances de trouver des objets rares.
 
 **A quoi servent les Rinacoins ?**
-> Les Rinacoins sont le nerf de guerre du Prison ! Ils servent à améliorer le **rang de votre mine** (/ru pour monter d'un rang ou /ru all pour dépenser tous vos Rinacoins). Améliorer la mine permet d'augmenter sa taille et d'améliorer les blocs qui s'y trouvent pour gagner encore plus de Rinacoins !
+> Les Rinacoins sont le nerf de guerre du Prison ! Ils servent à améliorer le **rang de votre mine** (/ru pour monter d'un rang ou /ru all pour dépenser tous vos Rinacoins). Améliorer la mine permet d'augmenter sa taille *(taille maximale au rang 2250)* et d'améliorer les blocs qui s'y trouvent pour gagner encore plus de Rinacoins *(blocs les plus chers dès le rang 1600)*!
 > Les Rinacoins servent aussi à améliorer votre **Sac** (clic droit sur le coffre dans votre inventaire). Vous pouvez améliorer le **nombre de blocs vendus à la seconde**, le **prix de la vente**, ou la **taille maximale de stockage de votre sac**.
 
 **Tokens et Enchantements, quésaco?**
