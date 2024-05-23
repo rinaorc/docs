@@ -8,7 +8,7 @@
 - Vein miner : Il permet de casser les blocs d'un même type dans un rayon donné.
 - XP : Il permet d'obtenir plus d'exp en cassant des blocs (Le pourcentage se cumule à celui de vos statistiques actuelles).
 - Explosion : Permet de créer une explosion cassant les blocs dans un rayon donné.
-- JackHammer : Permet de cacher un nombre de blocs donné autour de vous sur une seule couche.
+- JackHammer : Permet de casser un nombre de blocs donné autour de vous sur une seule couche.
 - Excavation : Permet de casser une zone autour de vous.
 - Laser : Permet de faire apparaitre des lasers dans votre mine qui casse des colonnes de bloc
 - Vitesse : Permet de vous déplacer plus vite.
