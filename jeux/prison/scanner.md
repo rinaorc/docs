@@ -14,7 +14,8 @@ Attention lors de l'utilisation de capsules si vous en avez beaucoup, il n'y a p
 ## **➺** Le Recyclage automatique
 Le recyclage automatique est simple à utiliser, dans le /scanner cliquer sur le hopper/entonnoir enchanté vous ouvrant un second menu.  
 ![img.png](ressources/img.png)  
-Il suffit ensuite de sélectionner la rareté minimale que vous voulez garder.
+Il suffit ensuite de sélectionner la rareté minimale que vous voulez garder.  
+
 ![img.png](ressources/img_2.png)
 
 ## **➺** Quantité de fragments pour chaque niveau (en cours)
