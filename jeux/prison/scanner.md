@@ -20,27 +20,30 @@ Il suffit ensuite de sélectionner la rareté minimale que vous voulez garder.
 
 ## **➺** Quantité de fragments pour chaque niveau (en cours)
 La quantité de fragments demandée augmente entre chaque niveau, voici la liste de coût de chaque amélioration :
-- Passage niveau 2: 10.3K  
-- Passage niveau 3: 21K
-- Passage niveau 4: 32.5K
-- Passage niveau 5:
-- Passage niveau 6:
-- Passage niveau 7: 63.5K
-- Passage niveau 8:
-- Passage niveau 9: 91.5K
-- Passage niveau 10: 110K
-- Passage niveau 11: 129K
-- Passage niveau 12: 151K
-- Passage niveau 13:
-- Passage niveau 14: 210k
-- Passage niveau 15: 248K
-- Passage niveau 16: 382K
-- Passage niveau 17:
-- Passage niveau 18: 921.7K
-- Passage niveau 19:  
-- Passage niveau 20: 2.24M  
-- Passage niveau 21: 3.54M   
-- Passage niveau 22: 5.52M   
-- Passage niveau 23: 8.60M   
-- Passage niveau 24: 13.33M   
-- Passage niveau 25: 20.80M
+
+| Passage Niveau | Valeur  |
+|----------------|---------|
+| Niveau 2       | 10.3K   |
+| Niveau 3       | 21K     |
+| Niveau 4       | 32.5K   |
+| Niveau 5       |         |
+| Niveau 6       |         |
+| Niveau 7       | 63.5K   |
+| Niveau 8       | 75K     |
+| Niveau 9       | 91.5K   |
+| Niveau 10      | 110K    |
+| Niveau 11      | 129K    |
+| Niveau 12      | 151K    |
+| Niveau 13      |         |
+| Niveau 14      | 210K    |
+| Niveau 15      | 248K    |
+| Niveau 16      | 382K    |
+| Niveau 17      | 593K    |
+| Niveau 18      | 921.7K  |
+| Niveau 19      |         |
+| Niveau 20      | 2.24M   |
+| Niveau 21      | 3.54M   |
+| Niveau 22      | 5.52M   |
+| Niveau 23      | 8.60M   |
+| Niveau 24      | 13.33M  |
+| Niveau 25      | 20.80M  |
