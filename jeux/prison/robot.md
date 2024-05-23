@@ -17,3 +17,4 @@ Quand vous créez des robots, ils possèdent une étoile, vous pouvez améliorer
 
 Par exemple, deux robots d'une rareté Rare, avec une étoile chaqu'un, vous donneras un robot Rare avec deux étoiles avec un petit boost de ses stats.
 
+## **➺** Quels sont les différences entre les raretés ?
