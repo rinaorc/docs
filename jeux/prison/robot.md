@@ -1,4 +1,4 @@
-# �​ Robot [remplacer X par un emoji]
+# 🤖 Robot [remplacer X par un emoji]
 > Cette page a pour but de vous expliquer comment obtenir des robots et aussi comment procéder pour les améliorer.
 
 ## **➺** Comment obtenir des robots ?
