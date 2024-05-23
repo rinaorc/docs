@@ -4,7 +4,8 @@ Le scanner est un outil utilisable en utilisant la commande /scanner. Il permet 
 ## **➺** Comment l'améliorer ?
 Pour l'améliorer vous avez besoin d'un certain nombre de fragments d'étoiles qui s'obtiennent en recyclant ses objets rares. [Cliqué ici :lien vers le /forge ?]
 Vous pouvez voir votre avancée de fragments d'étoiles pour le scanner avec le pourcentage écrit en violet au dessus de votre nourriture [photo ?]
-Une fois l'amélioration lancée, vous devrez attendre avant que l'évolution de votre scanner soit effectué. La durée de celle-ci sera indiquée à la place de votre pourcentage pour l'améliorer.
+Une fois l'amélioration lancée, vous devrez attendre avant que l'évolution de votre scanner soit effectué. La durée de celle-ci sera indiquée à la place de votre pourcentage pour l'améliorer. Vous pouvez aussi diminuer le temps de celui-ci avec des capsules temporelles (-5min par capsule) ou des beacons.
+Attention lors de l'utilisation de capsules si vous en avez beaucoup, il n'y a pas de confirmation pour utiliser les beacons (faite donc gaffe à ne pas les dépenser sans le vouloir).
 
 ## **➺** Le Recyclage automatique
 Le recyclage automatique est simple à utiliser, dans le /scanner cliquer sur le hopper/entonnoir enchanté vous ouvrant un second menu.
@@ -23,7 +24,7 @@ Passage niveau 6:
 Passage niveau 7: 63.5K
 Passage niveau 8: 
 Passage niveau 9: 91.5K
-Passage niveau 10:
+Passage niveau 10: 110K
 Passage niveau 11: 129K
 Passage niveau 12: 151K
 Passage niveau 13:
