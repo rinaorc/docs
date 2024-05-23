@@ -11,8 +11,8 @@ L'objet alors obtenu possédera une rareté, allant de normal à transcendant. L
 Pour modifier des objets, il vous suffit de faire la commande **/forge** qui vous ouvrira un menu, une fois dans celui-ci vous suffit de cliquer sur l'objet que vous souhaitez modifier. Une fois cela fait, plusieurs options s'offre à vous: 
 ### Supprimer l'objet
 Comme son nom l'indique, cette option permet de supprimer un object, le forgeron vous l'échangera contre des fragments d'étoiles.
-### Recalculer une statistique aléatoire *(Entre 2 et 5 durabilités)*
-Cette option permet de modifier le taux de bonus d'une statistique aléatoire. C'est-à-dire qu'à un tier donné le bonus peut se situer par exemple entre 300% et 350%, cette option resituera votre pourcentage entre ces deux valeurs. 
+### Recalculer une statistique *(Entre 2 et 5 durabilités)*
+Cette option permet de modifier le taux de bonus d'une statistique aléatoire. Sachant que le pourcentage donné d'une statistique se trouve dans un intervalle qui dépend de la rareté de l'objet, recalculer la statistique permettrait d'optimiser ce que l'objet peut nous apporter. à noter que le choix de la statistique ainsi que sa modification est choisie de façon aléatoire. 
 ### Améliorer une statistique *(Entre 5 et 15 durabilités)*
 Cette option permet d'améliorer une statistique **au hazard** sur votre object, le maximum d'amélioration sur une statistique est de 6 (On dira Tier 6 ou T6).
 ### Ajouter une statistique *(Entre 15 et 30 durabilités)*
