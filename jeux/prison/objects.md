@@ -1,5 +1,5 @@
 # 🔮 Objets
-Cette page a pour but de vous expliquer comment obtenir des objets (Armures & Gemmes) mais aussi comment procéder pour les améliorer.
+> Cette page a pour but de vous expliquer comment obtenir des objets (Armures & Gemmes) mais aussi comment procéder pour les améliorer.
 
 ## **➺** Comment obtenir des objets ?
 Pour obtenir des objets, il vous suffit de miner dans votre mine, vous obtenez un objet en moyenne à chaque 100 blocs minés.
