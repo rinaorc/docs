@@ -7,7 +7,7 @@ Vous obtenez aléatoirement une des six gemmes existantes (Rubis, Topaz, Améthy
 
 L'objet alors obtenu possédera une rareté, allant de normal à transcendant. Le scanner est l'outil définissant la rareté des objets que vous allez obtenir, pour en savoir plus, [cliquez ici](./scanner.md).
 
-## **➺** Comment modifier les objects obtenu ?
+## **➺** Comment modifier les objets obtenu ?
 Pour modifier des objets, il vous suffit de faire la commande **/forge** qui vous ouvrira un menu, une fois dans celui-ci vous suffit de cliquer sur l'objet que vous souhaitez modifier. Une fois cela fait, plusieurs options s'offrent à vous : 
 ### Supprimer l'objet
 Comme son nom l'indique, cette option permet de supprimer un object, le forgeron vous l'échangera contre des fragments d'étoiles.
