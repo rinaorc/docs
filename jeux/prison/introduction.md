@@ -6,10 +6,6 @@
 ➺ Avant de rentrer dans les détails de ce mode, il faut savoir que le mode possède un Pass Galactique (/pass) ainsi qu'un pass premium (achetable sur la [boutique](https://store.rinaorc.com)). Ce pass permet d'obtenir énormément de ressources utiles pour le joueur, mais également des grades allant de Soleil jusqu'à Celeste, obtenables de façon F2P. On peut également acheter des grades sur la boutique, allant du grade Supernova à Cosmique, qui ne sont pas obtenables de façon F2P.  
 
 
-
-  
-
-
 ➺ Pour obtenir des RinaCoins, il suffit de miner les blocs de votre mine. Les blocs minés sont ensuite stockés dans votre sac à dos (coffre en bois dans votre inventaire). Comme expliqué ci-dessus, les RinaCoins nous permettent d'améliorer notre rang, mais également notre sac à dos. Pour plus de détails sur les RinaCoins (utilité pour rankup, améliorer son sac...), cliquez ici : [RinaCoins](redirection).  
 
 
