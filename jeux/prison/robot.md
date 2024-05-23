@@ -12,6 +12,8 @@ Il existe 3 types de robots différents :
 
 ## **➺** Comment améliorer les robots ?
 Comme pour les objets, les robots possèdent eux aussi une rareté. En augmentant son niveau d'expertise dans le /voeux à force de créer de nouveaux robots, la rareté des robots obtenables augmentent (un peu comme pour le scanner).  
+
 Quand vous créez des robots, ils possèdent une étoile, vous pouvez améliorer les robots d'une même rareté et du meme nombre d'étoiles en les fusionnant avec le hopper/entonnoir présent dans le menu /robot. A partir du rang 100, l'amélioration éclair (le hopper/entonnoir enchanté) permet de fusionner automatiquement vos robots.  [photo des entonnoirs ?]  
+
 Par exemple, deux robots d'une rareté Rare, avec une étoile chaqu'un, vous donneras un robot Rare avec deux étoiles avec un petit boost de ses stats.
 
