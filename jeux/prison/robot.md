@@ -18,3 +18,15 @@ Quand vous créez des robots, ils possèdent une étoile, vous pouvez améliorer
 Par exemple, deux robots d'une rareté Rare, avec une étoile chaqu'un, vous donneras un robot Rare avec deux étoiles avec un petit boost de ses stats.
 
 ## **➺** Quels sont les différences entre les raretés ?
+Les statistiques données sont celle des robots avec une seule étoile :
+
+  - Normal : + 21%
+  - Commum : + 61%
+  - Rare : + 126%
+  - Epique : + 197%
+  - Legendaire : + 279%
+  - Divin : + 509 %
+  - Mythique : + 561%
+  - Cosmique : Pas encore drop
+  - Primordial : Pas encore drop
+  - Transcendant : Pas encore drop
