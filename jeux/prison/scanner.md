@@ -47,5 +47,5 @@ La quantité de fragments demandée augmente entre chaque niveau, voici la liste
 | Niveau 21      | 3.54M  |   PRIMORDIAL    |
 | Niveau 22      | 5.52M  |   PRIMORDIAL    |
 | Niveau 23      | 8.60M  |   PRIMORDIAL    |
-| Niveau 24      | 13.33M |   PRIMORDIAL    |
-| Niveau 25      | 20.80M |   PRIMORDIAL    |
+| Niveau 24      | 13.33M |  TRANSCENDANT   |
+| Niveau 25      | 20.80M |  TRANSCENDANT   |
