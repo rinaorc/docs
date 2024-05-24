@@ -55,4 +55,3 @@ Pour améliorer le niveaux des pets, vous pouvez en faire xp en minant 1 à 3 (s
 |Doge|Primordial|Augmente considérablement votre bonus de RinaCoins|
 |Loup Enflammé|Transcendant|Augmente la chance de déclenchement de l'enchantement Nuke|
 |Elephant cosmique|Transcendant|Augmente la quantité de fragments d'étoiles que vous receves lorsque vous recyclez un équipement|
-|       |  ||
