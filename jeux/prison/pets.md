@@ -22,7 +22,7 @@ Une fois absorbé dans l'enclos, un message s'afficheras dans le tchat:
   ![img.png](ressources/PetsAbsoTchat.png)
 
 ## **➺** Comment améliorer des pets ?
-Comme pour les objets, les robots possèdent, eux aussi, une rareté. En augmentant son niveau d'expertise dans le /voeux à force de créer de nouveaux robots, la rareté des robots obtenables augmente (la rareté fonctionne de manière similaire à celle du scanner).
+Comme pour les objets, les robots possèdent, eux aussi, une rareté. En augmentant son niveau d'expertise dans le /voeux à force de créer de nouveaux robots, la rareté des robots obtenables augmente (la rareté fonctionne de manière similaire à celle du scanner).  
 Pour améliorer le niveaux des pets, vous pouvez en faire xp en minant 1 à 3 (selon votre rang /rang) dans l'incubateur du menu /pet ou en mettant dans l'enclos un pet que vous avez déjà, cela lui fera gagner de l'xp.
 
 ## **➺** Quels sont les différences entre chaque pets ?
