@@ -29,13 +29,30 @@ Pour améliorer le niveaux des pets, vous pouvez en faire xp en minant 1 à 3 (s
 
 |  Nom  | Rareté       | Effet     |
 |-------|--------------|-----------|
-|       | Normal       | +21%      |
-|       | Commun       | +61%      |
-|       | Rare         | +126%     |
-|       | Épique       | +197%     |
-|       | Légendaire   | +279%     |
-|       | Divin        | +509%     |
-|       | Mythique     | +561%     |
-|       | Cosmique     | N/A       |
-|       | Primordial   | N/A       |
-|       | Transcendant | N/A       |
+|Moustique| Normal       | Augmente votre bonus de tokens |
+|Pigeon| Normal | Augmente votre bonus de RinaCoins|
+|Souris| Normal | Augmente la chance de déclenchement de l'enchantemant Veine Miner|
+|Cochon| Commun |Augmente la quantité de fragments d'étoiles que vous receves lorsque vous recyclez un équipement|
+|Grenouille|Commun|Augmente la chance de déclenchement de l'enchantement Explosion|
+|Hibou arc-en-ciel|Commun|Augmente les bonus de Tokens/Rinacoins des autres joueurs présents dans vore mine|
+|Panda| Rare|Augmente la quantité de Beacons que vous pouvez trouver dans la Mine Pvp|
+|Lapin| Rare| Offre une chance de monter de deux rangs au lieu d'un lors d'un rankup|
+|Singe| Rare| Augmente le bonus de Token de vos Enchantements|
+|Renard|Epique|Diminue le prix pour rankup|
+|Tortue|Epique|Augmente vos bonus de Tokens/Rinacoins en foction de votre statistique de vitesse|
+|Taupe| Epique|Augmente la chance de déclenchement de l'enchantement Excavation|
+|Requin|Legendaire|Augmente vos bonus de Tokens/RinaCoins en fonction de votre maximum de Mana|
+|Chat|Legendaire|Augmente votre vitesse de déplacement|
+|Gorille|Legendaire|Augmente les bonus de Tokens/Rinacoins des autres joueurs présents dans vore mine|
+|Abeille|Divin|Augmente le bonus de la surcharge d'énergie mais aussi l'énergie requis pour l'activer ! **A VENIR**|
+|Pengouin|Divin|Augmente la quantité de fragments d'étoiles que vous receves lorsque vous recyclez un équipement|
+|Phoenix|Divin|augmente la durée des prochains boosters que vous activez|
+|Mamouth|Mythique|augmente considérablement la taille de votre sac à dos|
+|Ours|Mythique|Augmente les statistiques de tous vos robots|
+|Wumpus|Cosmique|Augmente les bonus de Tokens/Rinacoins des autres joueurs présents dans vore mine|
+|Axolotl|Cosmique|augmente la quantité de noyaux d'étoiles que vous recevez lors d'une Ascension|
+|Rocket|Primordial|Augmente votre chance d'obtenir des statistiques déjà améliorées sur les équipements que vous trouvez|
+|Doge|Primordial|Augmente considérablement votre bonus de RinaCoins|
+|Loup Enflammé|Transcendant|Augmente la chance de déclenchement de l'enchantement Nuke|
+|Elephant cosmique|Transcendant|Augmente la quantité de fragments d'étoiles que vous receves lorsque vous recyclez un équipement|
+|       |  ||
