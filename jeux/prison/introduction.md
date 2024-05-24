@@ -5,7 +5,7 @@
 
 ## 🔭 Préambule
 
-Avant de rentrer dans les détails de ce mode, il faut savoir qu'il possède un Pass Galactique (/pass) ainsi qu'un pass premium (achetable sur la [boutique](https://store.rinaorc.com)). Ce pass permet d'obtenir énormément de ressources utiles pour le joueur, mais également des grades allant de Soleil jusqu'à Celeste, obtenables de façon Free to Play. Des grades supplémentaires allant de Supernova à Cosmique, qui ne sont pas obtenables de façon Free to Play sont aussi achetables sur la boutique. Pour plus de détails sur les grades du prison, cliquez ici : [Grades](redirection). 
+Avant de rentrer dans les détails de ce mode, il faut savoir qu'il possède un Pass Galactique (/pass) ainsi qu'un pass premium (achetable sur la [boutique](https://store.rinaorc.com/category/pass-galactique)). Ce pass permet d'obtenir énormément de ressources utiles pour le joueur, mais également des grades allant de Soleil jusqu'à Celeste, obtenables de façon Free to Play. Des grades supplémentaires allant de Supernova à Cosmique, qui ne sont pas obtenables de façon Free to Play sont aussi achetables sur la boutique. Pour plus de détails sur les grades du prison, cliquez ici : [Grades](redirection). 
 
 ## ⭐ Monnaies du jeu  
 
