@@ -6,3 +6,4 @@ Pour obtenir des noyaux d'étoiles, vous devez accumuler des niveaux de pioche e
 
 ## **➺** Comment utiliser les noyaux d'étoiles ?
 Vous pouvez les utiliser pour améliorer certains enchantements en bas de la pioche (Voir [enchantements](./enchants.md))
+![img.png](ressources/noyau.png)
