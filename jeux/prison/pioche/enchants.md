@@ -3,28 +3,31 @@
 
 ## **➺** 💰 Enchantements nécessitant uniquement des tokens
 
-| Effet                  | Niveau requis | Description                                                                                                              |
-|------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------|
-| Fortune                | 0             | Permet d'obtenir plusieurs blocs en n'en cassant qu'un seul (n'affecte que les RinaCoins).                               |
-| Efficacité             | 0             | Permet de casser les blocs plus rapidement.                                                                              |
-| Chercheur de tokens    | 5             | Permet d'obtenir plus de tokens en cassant les blocs.                                                                    |
-| Vein miner             | 15            | Permet de casser les blocs d'un même type dans un rayon donné.                                                           |
-| XP                     | 30            | Permet d'obtenir plus d'expérience en cassant des blocs (Le pourcentage s'ajoute à celui de vos statistiques actuelles). |
-| Explosion              | 45            | Permet de créer une explosion cassant les blocs dans un rayon donné.                                                     |
-| JackHammer             | 50            | Permet de casser un nombre de blocs donné autour de vous sur une seule couche.                                           |
-| Excavation             | 55            | Permet de casser une zone autour de vous.                                                                                |
-| Laser                  | 60            | Permet de faire apparaître des lasers dans votre mine qui cassent des colonnes de blocs.                                 |
-| Vitesse                | 70            | Permet de vous déplacer plus vite.                                                                                       |
-| Détecteur de mana      | 85            | Permet de générer du mana pendant que vous minez.                                                                        |
-| Fracture               | 90            | Permet de créer des éclairs dans votre mine qui provoquent des explosions.                                               |
-| Trou noir              | 125           | Permet de détruire une zone arrondie autour de vous.                                                                     |
-| Haste                  | 150           | Permet de miner de manière nettement plus rapide.                                                                        |
+| Enchantement        | Niveau requis | Description                                                                                                              |
+|---------------------|---------------|--------------------------------------------------------------------------------------------------------------------------|
+| Fortune             | 0             | Permet d'obtenir plusieurs blocs en n'en cassant qu'un seul (n'affecte que les RinaCoins).                               |
+| Efficacité          | 0             | Permet de casser les blocs plus rapidement.                                                                              |
+| Chercheur de tokens | 5             | Permet d'obtenir plus de tokens en cassant les blocs.                                                                    |
+| Vein miner          | 15            | Permet de casser les blocs d'un même type dans un rayon donné.                                                           |
+| XP                  | 30            | Permet d'obtenir plus d'expérience en cassant des blocs (Le pourcentage s'ajoute à celui de vos statistiques actuelles). |
+| Explosion           | 45            | Permet de créer une explosion cassant les blocs dans un rayon donné.                                                     |
+| JackHammer          | 50            | Permet de casser un nombre de blocs donné autour de vous sur une seule couche.                                           |
+| Excavation          | 55            | Permet de casser une zone autour de vous.                                                                                |
+| Laser               | 60            | Permet de faire apparaître des lasers dans votre mine qui cassent des colonnes de blocs.                                 |
+| Vitesse             | 70            | Permet de vous déplacer plus vite.                                                                                       |
+| Détecteur de mana   | 85            | Permet de générer du mana pendant que vous minez.                                                                        |
+| Fracture            | 90            | Permet de créer des éclairs dans votre mine qui provoquent des explosions.                                               |
+| Trou noir           | 125           | Permet de détruire une zone arrondie autour de vous.                                                                     |
+| Haste               | 150           | Permet de miner de manière nettement plus rapide.                                                                        |
 
 ## **➺** ⭐ Enchantements nécessitant des tokens et des noyaux d'étoiles
 #### Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](./noyaux.md)
+> Les niveaux d'ascension correspondant au total des niveaux de votre pioche que vous avez sacrifié au cours de la saison
 
-- Astro-Flambée : Permet de faire apparaître des boules de feu partant dans de nombreuses directions, qui cassent de nombreux blocs.
-- Nuée : Permet de faire apparaître des chauves-souris qui vous aident à miner pendant une dizaine de secondes.
-- Astre-Céleste : Permet de faire apparaître au-dessus de votre mine un astre qui aspire de nombreux blocs.
-- Gemmologue stellaire : Permet de débloquer la deuxième ligne de gemmes de votre pioche (1 emplacement de gemme supplémentaire par niveau).
-- Transcendance Galactique : Permet d'améliorer globalement les statistiques de votre pioche.
+| Enchantement               | Niveau d'ascension requis | Description                                                                                   |
+|----------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Astro-Flambée              | 100                       | Permet de faire apparaître des boules de feu partant dans de nombreuses directions, qui cassent de nombreux blocs. |
+| Nuée                       | 100                       | Permet de faire apparaître des chauves-souris qui vous aident à miner pendant une dizaine de secondes.                  |
+| Astre-Céleste              | 150                       | Permet de faire apparaître au-dessus de votre mine un astre qui aspire de nombreux blocs.      |
+| Gemmologue stellaire       | 200                       | Permet de débloquer la deuxième ligne de gemmes de votre pioche (1 emplacement de gemme supplémentaire par niveau).      |
+| Transcendance Galactique   | 500                       | Permet d'améliorer globalement les statistiques de votre pioche.                              |
