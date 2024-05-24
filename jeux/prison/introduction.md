@@ -23,9 +23,9 @@ Avant de rentrer dans les détails de ce mode, il faut savoir qu'il possède un 
 
 ➺ Une fois les bases acquises, entrons dans le vif du sujet. Il existe différents moyens d'augmenter ses statistiques afin de gagner davantage de RinaCoins/Tokens mais également d'autres bonus utiles. Les voici :
 
-- **Les objets (armures/gemmes)** : En minant, vous allez obtenir des armures et des gemmes. Ce sont des objets permettant d'augmenter vos statistiques (que vous pouvez voir grâce à la commande /stat ou encore dans le tab du jeu). Ils peuvent vous donner un ou plusieurs bonus (dépendant de la rareté de l'objet). Ils peuvent augmenter votre bonus de RinaCoins, de Tokens, d'XP de Pioche, de Chances Critique d'Enchants ou encore de Mana. Pour plus de détails sur les objets, cliquez ici : [Objets](redirection).
+- **Les objets (armures/gemmes)** : En minant, vous allez obtenir des armures et des gemmes. Ce sont des objets permettant d'augmenter vos statistiques (que vous pouvez voir grâce à la commande /stat ou encore dans le tab du jeu). Ils peuvent vous donner un ou plusieurs bonus (dépendant de la rareté de l'objet). Ils peuvent augmenter votre bonus de RinaCoins, de Tokens, d'XP de Pioche, de Chances Critique d'Enchants ou encore de Mana. Pour plus de détails sur les objets, cliquez ici : [Objets](../warps/objects.md).
 
-Pour obtenir des objets plus rares, il suffit d'améliorer son scanner. Pour plus de détails sur le scanner, cliquez ici : [Scanner](redirection).  
+Pour obtenir des objets plus rares, il suffit d'améliorer son scanner. Pour plus de détails sur le scanner, cliquez ici : [Scanner](../).  
 
 - **Les robots** : En minant, vous allez également obtenir des schémas de robots. Ces schémas permettent d'invoquer des robots (/robot), qui permettent d'augmenter drastiquement vos statistiques, le bonus qu'ils octroient dépend de leur rareté. Pour plus de détails sur les robots, cliquez ici : [Robots](redirection).
 - **Les familiers** : Toujours en minant, vous allez obtenir des ADN d'oeufs. Ces ADN d'oeufs permettent d'invoquer des familiers (/pet), qui pourront ensuite être placés dans un enclos, où ils seront actifs. Vous pourrez donc profiter de leur bonus constamment. Pour plus de détails sur les familiers, cliquez ici : [Familiers](redirection).
