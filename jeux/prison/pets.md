@@ -5,7 +5,7 @@
 Pour obtenir des pets, vous avez besoin d'obtenir premièrement des "ADN d'Oeuf", ils permettent d'invoquer de nouveaux pets à partir de la commande /voeux.
 Vous pouvez obtenir ces derniers en minant, dans les coffres cosmiques, mais aussi dans le /afk et dans le /pass.
 
-**Pour les Rendres actifs, il faut les faires rentrer dans l'enclos (/pet)⬇**  
+**Pour les Rendres actifs, il faut les faires rentrer dans l'enclos (/pet) ↓**  
 
 [IMAGE MENU PET]  
 
