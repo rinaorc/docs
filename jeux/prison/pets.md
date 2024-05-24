@@ -11,7 +11,7 @@ Pour améliorer des pets,
 ## **➺** Quels sont les différences entre chaque pets ?
 
 |  Nom  | Rareté       | Effet     |
-|       |--------------|-----------|
+|-------|--------------|-----------|
 |       | Normal       | +21%      |
 |       | Commun       | +61%      |
 |       | Rare         | +126%     |
