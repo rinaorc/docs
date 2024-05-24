@@ -9,4 +9,4 @@ Vous pouvez les utiliser pour améliorer certains enchantements en bas de la pio
 
 ![img.png](../ressources/noyau.png) ![img.png](../ressources/sacrifice.png)
 
-### Nous vous conseillons d'attendre le niveau 150 pour commencer son premier sacrifice.
+### Nous vous conseillons d'attendre le niveau 150 pour commencer son premier sacrifice afin de débloquer l'enchantement "Astre Céleste".
