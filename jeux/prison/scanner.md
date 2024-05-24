@@ -22,29 +22,30 @@ Il suffit ensuite de sélectionner la rareté minimale que vous voulez garder.
 ## **➺** Quantité de fragments pour chaque niveau (en cours)
 La quantité de fragments demandée augmente entre chaque niveau, voici la liste de coût de chaque amélioration :
 
-| Passage Niveau | Valeur |
-|----------------|--------|
-| Niveau 2       | 10.3K  |
-| Niveau 3       | 21K    |
-| Niveau 4       | 32.5K  |
-| Niveau 5       | 45.3K  |
-| Niveau 6       | 53.8k  |
-| Niveau 7       | 63.5K  |
-| Niveau 8       | 75K    |
-| Niveau 9       | 91.5K  |
-| Niveau 10      | 110K   |
-| Niveau 11      | 129K   |
-| Niveau 12      | 151K   |
-| Niveau 13      | 177.5K |
-| Niveau 14      | 210K   |
-| Niveau 15      | 248K   |
-| Niveau 16      | 382K   |
-| Niveau 17      | 593K   |
-| Niveau 18      | 921.7K |
-| Niveau 19      | 1.45M  |
-| Niveau 20      | 2.24M  |
-| Niveau 21      | 3.54M  |
-| Niveau 22      | 5.52M  |
-| Niveau 23      | 8.60M  |
-| Niveau 24      | 13.33M |
-| Niveau 25      | 20.80M |
+| Passage Niveau | Valeur | Rareté Maximale |
+|----------------|--------|-----------------|
+| Niveau 1       |   x    |      RARE       | 
+| Niveau 2       | 10.3K  |     EPIQUE      |
+| Niveau 3       | 21K    |     EPIQUE      |
+| Niveau 4       | 32.5K  |   LEGENDAIRE    |
+| Niveau 5       | 45.3K  |   LEGENDAIRE    |
+| Niveau 6       | 53.8k  |   LEGENDAIRE    |
+| Niveau 7       | 63.5K  |     DIVIN       | 
+| Niveau 8       | 75K    |     DIVIN       |
+| Niveau 9       | 91.5K  |    MYTHIQUE     |
+| Niveau 10      | 110K   |    MYTHIQUE     |
+| Niveau 11      | 129K   |    MYTHIQUE     |
+| Niveau 12      | 151K   |    MYTHIQUE     |
+| Niveau 13      | 177.5K |    COSMIQUE     |
+| Niveau 14      | 210K   |    COSMIQUE     |
+| Niveau 15      | 248K   |    COSMIQUE     |  
+| Niveau 16      | 382K   |    COSMIQUE     |
+| Niveau 17      | 593K   |    COSMIQUE     |
+| Niveau 18      | 921.7K |    COSMIQUE     |
+| Niveau 19      | 1.45M  |    COSMIQUE     |
+| Niveau 20      | 2.24M  |   PRIMORDIAL    |
+| Niveau 21      | 3.54M  |   PRIMORDIAL    |
+| Niveau 22      | 5.52M  |   PRIMORDIAL    |
+| Niveau 23      | 8.60M  |   PRIMORDIAL    |
+| Niveau 24      | 13.33M |   PRIMORDIAL    |
+| Niveau 25      | 20.80M |   PRIMORDIAL    |
