@@ -7,14 +7,14 @@ Lorsque votre pioche évolue vous gagnez des avantages conséquents. Jusqu'à l'
 ## **➺** A quel moment ma pioche évolue-t-elle ?
 Votre pioche sera amenée à évoluer à quelques reprises, elle évolue en fonction du nombre de blocs minés. (Entre une évolution, il y a trois micros évolution qui améliorent légèrement vos statistiques actuelles).
 
-| Rareté       | Valeur           |
-|--------------|------------------|
-| Commun       | 31.200 blocs     |
-| Rare         | 138.7K blocs     |
-| Épique       | 480.000 blocs    |
-| Légendaire   | 1.200.000 blocs  |
-| Divin        | 2.400.000 blocs  |
-| Mythique     | 4.100.000 blocs  |
-| Cosmique     | 6.190.000 blocs  |
-| Primordial   | 9.500.000 blocs  |
+| Rareté       | Valeur          |
+|--------------|-----------------|
+| Commun       | 31.200 blocs    |
+| Rare         | 138.700 blocs   |
+| Épique       | 480.000 blocs   |
+| Légendaire   | 1.200.000 blocs |
+| Divin        | 2.400.000 blocs |
+| Mythique     | 4.100.000 blocs |
+| Cosmique     | 6.190.000 blocs |
+| Primordial   | 9.500.000 blocs |
 | Transcendant | 15.900.000 blocs |
