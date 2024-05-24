@@ -16,7 +16,7 @@ Et pour les rentrer, cliquez sur "Entrer dans l'enclos"
 [IMAGE DU BOUTON]
 
 ## **➺** Comment améliorer des pets ?
-Pour améliorer des pets, vous pouvez en faire xp en minant 1 à 3 (selon votre rang /rang) dans l'incubateur du menu /pet ou en mettant dans l'enclos un pet que vous avez déjà, cela lui ferra gagner de l'xp.
+Pour améliorer des pets, vous pouvez en faire xp en minant 1 à 3 (selon votre rang /rang) dans l'incubateur du menu /pet ou en mettant dans l'enclos un pet que vous avez déjà, cela lui fera gagner de l'xp.
 
 ## **➺** Quels sont les différences entre chaque pets ?
 
