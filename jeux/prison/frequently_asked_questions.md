@@ -34,3 +34,8 @@ Les **Beacons** sont une ressource passe-partout très précieuse, et ils doiven
 > **La Chance Critique d'Enchantements, ça sert à quoi ?**
 
 La **Chance Critique d'Enchantements** est une statistique qui vous donne une chance de **provoquer un enchantement deux fois de suite**. Il est important de noter que ce pourcentage de chance ne peut pas aller au dessus de **10%** à moins d'avoir **l'artéfact Horizon des Evenements actif.**
+
+> **Mon inventaire est plein, comment puis-je libérer de l'espace ?**
+
+Vous pouvez recycler vos armures et gemmes auprès du **forgeron** *(/forge)* en échange de fragments d'étoile. Tout le reste (robots non-désirables, pommes dorées, armures de pvp et armures de départ) doivent êtres supprimés via la **poubelle** *(/trash)*. Il est important de noter que les objets forment une file et ne se suppriment que si vous excédez cette file ou que vous vous déconnectez, afin d'éviter un accident et la perte d'un objet que vous souhaitez garder.
+Les **blocs que vous minez** s'accumulent dans un **Sac** différent de votre inventaire (icône du coffre). Si celui-ci affiche "plein", il se videra progressivement grâce à la fonction "Vente Automatique" que vous pouvez améliorer.
