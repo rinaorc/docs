@@ -21,31 +21,32 @@ Il suffit ensuite de sélectionner la rareté minimale que vous voulez garder.
 
 ## **➺** Quantité de fragments pour chaque niveau (en cours)
 La quantité de fragments demandée augmente entre chaque niveau, voici la liste de coût de chaque amélioration :
+Voici un texte en <span style="color: #FFAA00;">rouge</span>.
 
-| Passage Niveau | Valeur | Rareté Maximale |
-|----------------|--------|-----------------|
-| Niveau 1       |   x    |      RARE       | 
-| Niveau 2       | 10.3K  |     EPIQUE      |
-| Niveau 3       | 21K    |     EPIQUE      |
-| Niveau 4       | 32.5K  |   LEGENDAIRE    |
-| Niveau 5       | 45.3K  |   LEGENDAIRE    |
-| Niveau 6       | 53.8k  |   LEGENDAIRE    |
-| Niveau 7       | 63.5K  |     DIVIN       | 
-| Niveau 8       | 75K    |     DIVIN       |
-| Niveau 9       | 91.5K  |    MYTHIQUE     |
-| Niveau 10      | 110K   |    MYTHIQUE     |
-| Niveau 11      | 129K   |    MYTHIQUE     |
-| Niveau 12      | 151K   |    MYTHIQUE     |
-| Niveau 13      | 177.5K |    COSMIQUE     |
-| Niveau 14      | 210K   |    COSMIQUE     |
-| Niveau 15      | 248K   |    COSMIQUE     |  
-| Niveau 16      | 382K   |    COSMIQUE     |
-| Niveau 17      | 593K   |    COSMIQUE     |
-| Niveau 18      | 921.7K |    COSMIQUE     |
-| Niveau 19      | 1.45M  |    COSMIQUE     |
-| Niveau 20      | 2.24M  |   PRIMORDIAL    |
-| Niveau 21      | 3.54M  |   PRIMORDIAL    |
-| Niveau 22      | 5.52M  |   PRIMORDIAL    |
-| Niveau 23      | 8.60M  |   PRIMORDIAL    |
-| Niveau 24      | 13.33M |  TRANSCENDANT   |
-| Niveau 25      | 20.80M |  TRANSCENDANT   |
+| Passage Niveau | Valeur | Rareté Maximale                                   |
+|----------------|--------|---------------------------------------------------|
+| Niveau 1       |   x    | <span style="color: #5555FF;">RARE</span>         |
+| Niveau 2       | 10.3K  | <span style="color: #AA00AA;">ÉPIQUE</span>       |
+| Niveau 3       | 21K    | <span style="color: #AA00AA;">ÉPIQUE</span>       |
+| Niveau 4       | 32.5K  | <span style="color: #FFAA00;">LÉGENDAIRE</span>   |
+| Niveau 5       | 45.3K  | <span style="color: #FFAA00;">LÉGENDAIRE</span>   |
+| Niveau 6       | 53.8k  | <span style="color: #FFAA00;">LÉGENDAIRE</span>   |
+| Niveau 7       | 63.5K  | <span style="color: #FFFF55;">DIVIN</span>        | 
+| Niveau 8       | 75K    | <span style="color: #FFFF55;">DIVIN</span>        |
+| Niveau 9       | 91.5K  | <span style="color: #FF5555;">MYTHIQUE</span>     |
+| Niveau 10      | 110K   | <span style="color: #FF5555;">MYTHIQUE</span>     |
+| Niveau 11      | 129K   | <span style="color: #FF5555;">MYTHIQUE</span>     |
+| Niveau 12      | 151K   | <span style="color: #FF5555;">MYTHIQUE</span>     |
+| Niveau 13      | 177.5K | <span style="color: #55FFFF;">COSMIQUE</span>     |
+| Niveau 14      | 210K   | <span style="color: #55FFFF;">COSMIQUE</span>     |
+| Niveau 15      | 248K   | <span style="color: #55FFFF;">COSMIQUE</span>     |  
+| Niveau 16      | 382K   | <span style="color: #55FFFF;">COSMIQUE</span>     |
+| Niveau 17      | 593K   | <span style="color: #55FFFF;">COSMIQUE</span>     |
+| Niveau 18      | 921.7K | <span style="color: #55FFFF;">COSMIQUE</span>     |
+| Niveau 19      | 1.45M  | <span style="color: #55FFFF;">COSMIQUE</span>     |
+| Niveau 20      | 2.24M  | PRIMORDIAL                                        |
+| Niveau 21      | 3.54M  | PRIMORDIAL                                        |
+| Niveau 22      | 5.52M  | PRIMORDIAL                                        |
+| Niveau 23      | 8.60M  | PRIMORDIAL                                        |
+| Niveau 24      | 13.33M | <span style="color: #AA0000;">TRANSCENDANT</span> |
+| Niveau 25      | 20.80M | <span style="color: #AA0000;">TRANSCENDANT</span> |
