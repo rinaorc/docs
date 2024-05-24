@@ -5,4 +5,4 @@
 Pour obtenir des noyaux d'étoiles, vous devez accumuler des niveaux de pioche en minant afin de les sacrifier pour obtenir des noyaux d'étoiles.
 
 ## **➺** Comment utiliser les noyaux d'étoiles ?
-Vous pouvez les utiliser pour améliorer certains enchantements en bas de la pioche (Voir [gemme](./enchants.md))
+Vous pouvez les utiliser pour améliorer certains enchantements en bas de la pioche (Voir [enchantements](./enchants.md))
