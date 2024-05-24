@@ -16,10 +16,10 @@ Une fois invoquez, les pets seront dans votre inventaire.
 
 Et pour les rentrer, cliquez sur "Faire évoluer mes familiers"  
 
-![img.png](ressources/EnclosEVOPets.png)
+![img.png](ressources/EnclosEVOPets.png)  
 Une fois absorbé dans l'enclos, un message s'afficheras dans le tchat:  
-
-![img.png](ressources/PetsAbsoTchat.png)
+  
+  ![img.png](ressources/PetsAbsoTchat.png)
 
 ## **➺** Comment améliorer des pets ?
 Comme pour les objets, les robots possèdent, eux aussi, une rareté. En augmentant son niveau d'expertise dans le /voeux à force de créer de nouveaux robots, la rareté des robots obtenables augmente (la rareté fonctionne de manière similaire à celle du scanner).
