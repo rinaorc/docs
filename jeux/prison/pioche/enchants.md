@@ -21,7 +21,7 @@
 | Haste                  | 150           | Permet de miner de manière nettement plus rapide.                                                                        |
 
 ## **➺** ⭐ Enchantements nécessitant des tokens et des noyaux d'étoiles
-#### Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : **METTRE LE CHEMIN**
+#### Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](./noyaux.md)
 
 - Astro-Flambée : Permet de faire apparaître des boules de feu partant dans de nombreuses directions, qui cassent de nombreux blocs.
 - Nuée : Permet de faire apparaître des chauves-souris qui vous aident à miner pendant une dizaine de secondes.
