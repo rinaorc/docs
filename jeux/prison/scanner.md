@@ -35,7 +35,7 @@ La quantité de fragments demandée augmente entre chaque niveau, voici la liste
 | Niveau 10      | 110K   |
 | Niveau 11      | 129K   |
 | Niveau 12      | 151K   |
-| Niveau 13      |        |
+| Niveau 13      | 177.5K |
 | Niveau 14      | 210K   |
 | Niveau 15      | 248K   |
 | Niveau 16      | 382K   |
