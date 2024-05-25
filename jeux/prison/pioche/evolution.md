@@ -5,7 +5,8 @@
 Lorsque votre pioche évolue vous gagnez des avantages conséquents. Jusqu'à l'évolution légendaire, vous débloquerez un emplacement de [gemme](./gemmes.md), mais une évolution vous octroie aussi de nouvelles statistiques sur votre pioche (meilleures que les précédentes).
 
 ## **➺** A quel moment ma pioche évolue-t-elle ?
-Votre pioche sera amenée à évoluer à quelques reprises, elle évolue en fonction du nombre de blocs minés. (Entre une évolution, il y a trois micros évolution qui améliorent légèrement vos statistiques actuelles).
+Votre pioche sera amenée à évoluer à quelques reprises, elle évolue en fonction du nombre de blocs minés. (Entre une évolution, il y a trois micros évolution qui améliorent légèrement vos statistiques actuelles).  
+**Note**: les valeurs indiquées ci-dessous sont approximatives car l'évolution de pioche peut varier de quelques milliers de blocs selon les joueurs.
 
 | Rareté       | Valeur          |
 |--------------|-----------------|
