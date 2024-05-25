@@ -1,4 +1,5 @@
 # Coffres Cosmiques
+![img.png](ressources/coffre_cosmique2.png)
 ## Obtention, récompenses et utilité
 
 > **Les Coffres Cosmiques, c'est quoi?**
