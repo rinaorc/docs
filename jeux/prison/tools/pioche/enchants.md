@@ -1,10 +1,11 @@
 # 📚 Enchantements
->Cette page a pour but de vous présenter les différents enchantements possibles sur votre pioche.
+
+> Cette page a pour but de vous présenter les différents enchantements possibles sur votre pioche.
 
 ## **➺** 💰 Enchantements nécessitant uniquement des tokens
 
 | Enchantement        | Niveau requis | Description                                                                                                              |
-|---------------------|---------------|--------------------------------------------------------------------------------------------------------------------------|
+| ------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Fortune             | 0             | Permet d'obtenir plusieurs blocs en n'en cassant qu'un seul (n'affecte que les RinaCoins).                               |
 | Efficacité          | 0             | Permet de casser les blocs plus rapidement.                                                                              |
 | Chercheur de tokens | 5             | Permet d'obtenir plus de tokens en cassant les blocs.                                                                    |
@@ -21,13 +22,15 @@
 | Haste               | 150           | Permet de miner de manière nettement plus rapide.                                                                        |
 
 ## **➺** ⭐ Enchantements nécessitant des tokens et des noyaux d'étoiles
-#### Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](noyaux.md)
+
+\{% hint style="info" %\} Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](noyaux.md) \{% endhint %\}
+
 > Les niveaux d'ascension correspondent au total des niveaux de votre pioche que vous avez sacrifié au cours de la saison
 
-| Enchantement               | Niveau d'ascension requis | Description                                                                                   |
-|----------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
-| Astro-Flambée              | 100                       | Permet de faire apparaître des boules de feu partant dans de nombreuses directions, qui cassent de nombreux blocs. |
-| Nuée                       | 100                       | Permet de faire apparaître des chauves-souris qui vous aident à miner pendant une dizaine de secondes.                  |
-| Astre-Céleste              | 150                       | Permet de faire apparaître au-dessus de votre mine un astre qui aspire de nombreux blocs.      |
-| Gemmologue stellaire       | 200                       | Permet de débloquer la deuxième ligne de gemmes de votre pioche (1 emplacement de gemme supplémentaire par niveau).      |
-| Transcendance Galactique   | 500                       | Permet d'améliorer globalement les statistiques de votre pioche.                              |
+| Enchantement             | Niveau d'ascension requis | Description                                                                                                         |
+| ------------------------ | ------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Astro-Flambée            | 100                       | Permet de faire apparaître des boules de feu partant dans de nombreuses directions, qui cassent de nombreux blocs.  |
+| Nuée                     | 100                       | Permet de faire apparaître des chauves-souris qui vous aident à miner pendant une dizaine de secondes.              |
+| Astre-Céleste            | 150                       | Permet de faire apparaître au-dessus de votre mine un astre qui aspire de nombreux blocs.                           |
+| Gemmologue stellaire     | 200                       | Permet de débloquer la deuxième ligne de gemmes de votre pioche (1 emplacement de gemme supplémentaire par niveau). |
+| Transcendance Galactique | 500                       | Permet d'améliorer globalement les statistiques de votre pioche.                                                    |
