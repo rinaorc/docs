@@ -8,18 +8,18 @@ Vous pouvez en invoquez 5 en cliquant dessus avec le clique gauche, et 15 avec l
 
 Vous pouvez obtenir ces derniers en minant, dans les coffres cosmiques, mais aussi dans le /afk et dans le /pass.
 Une fois invoquez, les pets seront dans votre inventaire.  
-![img.png](ressources/pets/PetsINV.png)
+![img.png](ressources/pets/PetsINVRedem.png)
 
 **Pour les Rendres actifs, il faut les faires rentrer dans l'enclos (/pet) ↓**  
 
-![img.png](ressources/pets/EnclosPets.png)
+![img.png](ressources/pets/EnclosPetsRedem.png)
 
 Et pour les rentrer, cliquez sur "Faire évoluer mes familiers"  
 
-![img.png](ressources/pets/EnclosEVOPets.png)  
+![img.png](ressources/pets/EnclosEVOPetsRedem.png)  
 Une fois absorbé dans l'enclos, un message s'afficheras dans le tchat:  
   
-  ![img.png](ressources/pets/PetsAbsoTchat.png)
+  ![img.png](ressources/pets/PetsAbsoTchatRedem.png)
 
 ## **➺** Comment améliorer des pets ?
 Comme pour les objets, les robots possèdent, eux aussi, une rareté. En augmentant son niveau d'expertise dans le /voeux à force de créer de nouveaux robots, la rareté des robots obtenables augmente (la rareté fonctionne de manière similaire à celle du scanner).  
