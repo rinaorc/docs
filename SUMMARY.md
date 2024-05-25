@@ -33,7 +33,7 @@
   * [🛒 Ressources](jeux/prison/rsc/README.md)
     * [🪁 Beacons](jeux/prison/rsc/beacons.md)
     * [🎰 Coffres Cosmiques](jeux/prison/rsc/coffres_cosmiques.md)
-    * [🔮 Objects](jeux/prison/rsc/objects.md)
+    * [🔮 Objets](jeux/prison/rsc/objects.md)
   * [🧪 Invocations](jeux/prison/invocations/README.md)
     * [🐈 Pets](jeux/prison/invocations/pets.md)
     * [🤖 Robots](jeux/prison/invocations/robot.md)
