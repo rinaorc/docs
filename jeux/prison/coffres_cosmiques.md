@@ -3,7 +3,7 @@
 
 > **Les Coffres Cosmiques, c'est quoi?**
  
-Les **Coffres Cosmiques** sont des récompenses qui prennent la forme d'un **Ender-Chest** dans votre inventaire. Ils ne peuvent être obtenus qu'en **minant** ou en achetant directement sur la [boutique](https://store.rinaorc.com/)] [Rinaorc](https://store.rinaorc.com/). L'obtention
+Les **Coffres Cosmiques** sont des récompenses qui prennent la forme d'un **Ender-Chest** dans votre inventaire. Ils ne peuvent être obtenus qu'en **minant** ou en achetant directement sur la [boutique](https://store.rinaorc.com/) [Rinaorc](https://store.rinaorc.com/). L'obtention
 d'un coffre cosmique se fait de manière semi-aléatoire, attendez-vous à en recevoir un tous les 3500 à **5000 blocs physiques minés**.
 
 > **Récompenses**
