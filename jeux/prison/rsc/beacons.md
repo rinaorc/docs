@@ -21,4 +21,4 @@ Une fois les beacons obtenus, il y a différentes façons de les utiliser :
 - **Temps d'amélioration du scanner** : Lorsque votre scanner est en cours d'amélioration, vous pouvez utiliser des beacons pour écourter le temps d'amélioration.
 - **Dans le shop** : Vous pouvez également utiliser vos beacons pour acheter des fragments d'étoiles, utile pour améliorer le scanner, ainsi que des booster primordiaux, utiles pour booster vos statistiques RC/Tokens/XP Pioche.
 
-Pour savoir comment utiliser vos beacons de manière optimale, [cliquez-ici](../frequently_asked_questions.md)
+Pour savoir comment utiliser vos beacons de manière optimale, [cliquez-ici](../frequently_asked_questions.md).
