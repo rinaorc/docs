@@ -4,7 +4,7 @@
 Cette page à comme objectif de vous apprendre comment obtenir des coffres cosmique et vous présenter les récompenses qu'ils proposent.
 {% endhint %}
 
-![img.png](../ressources/coffre\_cosmique2.png)
+![](../ressources/coffre\_cosmique2.png)
 
 ## **➺** Obtention et récompenses
 
