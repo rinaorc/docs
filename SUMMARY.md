@@ -5,7 +5,7 @@
 * [🏹 Nous Rejoindre](nous-rejoindre.md)
 * [📨 Support](https://discord.gg/rinaorc)
 
-## \* ⚔️ The Purge
+## ⚔️ The Purge
 
 * [📜 Introduction](jeux/the-purge/introduction.md)
 * [🔮 Gagner de l'expérience](jeux/the-purge/gagner-de-lexperience.md)
