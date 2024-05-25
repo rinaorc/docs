@@ -1,8 +1,10 @@
 # 📚 Enchantements
 
-> Cette page a pour but de vous présenter les différents enchantements possibles sur votre pioche.
+{% hint style="info" %}
+Cette page a pour but de vous présenter les différents enchantements possibles sur votre pioche.
+{% endhint %}
 
-## **➺** 💰 Enchantements nécessitant uniquement des tokens
+## **➺** Enchantements nécessitant uniquement des tokens
 
 | Enchantement        | Niveau requis | Description                                                                                                              |
 | ------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -21,9 +23,11 @@
 | Trou noir           | 125           | Permet de détruire une zone arrondie autour de vous.                                                                     |
 | Haste               | 150           | Permet de miner de manière nettement plus rapide.                                                                        |
 
-## **➺** ⭐ Enchantements nécessitant des tokens et des noyaux d'étoiles
+## **➺** Enchantements nécessitant des tokens et des noyaux d'étoiles
 
-\### Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](noyaux.md)
+{% hint style="info" %}
+Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](noyaux.md)
+{% endhint %}
 
 > Les niveaux d'ascension correspondent au total des niveaux de votre pioche que vous avez sacrifié au cours de la saison
 
