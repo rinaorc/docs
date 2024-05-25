@@ -9,7 +9,7 @@ Chaque artéfact a un effet actif et un effet passif (l'effet passif étant comm
 ## **➺** Quels sont les artéfacts ?
 
 ### Eclipse éternelle  
-Actif : Toutes les 20 secondes, une compétence active (enchantement) sur la pioche est déclenchée de manière aléatoire.  
+Actif : Toutes les 20 secondes, un enchantement actif de la pioche est déclenché de manière aléatoire.  
 Cette activation se produit 2 secondes après avoir commencé à miner.  
 Passif : Bonus de Tokens / RinaCoins / XP Pioche +50 %  
 
