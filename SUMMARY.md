@@ -34,10 +34,10 @@
     * [🪁 Beacons](jeux/prison/rsc/beacons.md)
     * [🎰 Coffres Cosmiques](jeux/prison/rsc/coffres\_cosmiques.md)
     * [🔮 Objets](jeux/prison/rsc/objects.md)
-  * [🧪 Invocations](prison/invocations/README.md)
+  * [🧪 Invocations](jeux/prison/invocations/README.md)
     * [🐈 Pets](jeux/prison/invocations/pets.md)
     * [🤖 Robots](jeux/prison/invocations/robot.md)
-  * [🖋️ Contributeurs](prison/contributeurs.md)
+  * [🖋️ Contributeurs](jeux/prison/contributeurs.md)
 
 ## 💻 Développeurs
 
