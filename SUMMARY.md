@@ -19,6 +19,18 @@
   * [📈 Boutique des renommées](jeux/the-purge/boutique-des-renommees.md)
   * [💰 CashShop](jeux/the-purge/cashshop.md)
 
+ * [⛏️​ Prison Odyssey](jeux/prison/introduction.md)
+  * [📜 Introduction](jeux/prison/introduction.md)
+  * [🔮 Gagner de l'expérience](jeux/the-purge/gagner-de-lexperience.md)
+  * [⛏️ La pioche](jeux/prison/pioche)
+         * [⛏️ Les artéfacts](jeux/prison/pioche/artefacts.md)
+         * [⛏️ Les enchantement](jeux/prison/pioche/enchants.md)
+         * [⛏️ Les evolutions](jeux/prison/pioche/evolution.md)
+         * [⛏️ Les gemmes](jeux/prison/pioche/gemmes.md)
+         * [⛏️ Les noyaux](jeux/prison/pioche/noyaux.md)
+  * [📌 Les warps](jeux/prison/warps)
+         * [📌 Mine pvp](jeux/prison/warps/mine_pvp.md)
+
 ## 💻 Développeurs
 
 * [🔌 API Publique V1](developpeurs/api-publique-v1/README.md)
