@@ -16,7 +16,7 @@ Avant de rentrer dans les détails de ce mode, il faut savoir qu'il possède un 
 ➺ Pour obtenir des Tokens, il suffit également de miner les blocs de votre mine. Contrairement aux Rinacoins, les Tokens ne dépendent pas des blocs vendus, mais des blocs que vous minez (que ce soit des blocs physiquement minés, c'est-à-dire à la pioche, ou des blocs minés grâce aux enchantements débloquables sur la pioche). Les Tokens servent à acheter et à améliorer des enchantements sur votre pioche. Pour plus de détails sur la pioche (liste des enchants, conseils...), cliquez ici : [Pioche](redirection).  
 
 
-➺ Il existe également une troisième monnaie virtuelle du jeu, les Beacons. Les Beacons ne s'obtiennent pas aussi facilement que les RinaCoins et les Tokens, et n'ont pas non plus la même fonctionnalité. Ils servent à rendre la progression dans le jeu plus rapide. Pour plus de détails sur les Beacons (obtention, utilisation...), cliquez ici : [Beacons](redirection).  
+➺ Il existe également une troisième monnaie virtuelle du jeu, les Beacons. Les Beacons ne s'obtiennent pas aussi facilement que les RinaCoins et les Tokens, et n'ont pas non plus la même fonctionnalité. Ils servent à rendre la progression dans le jeu plus rapide. Pour plus de détails sur les Beacons (obtention, utilisation...), cliquez ici : [Beacons](https://github.com/MatDvlp/prison/edit/main/jeux/prison/tools/scanner.md).  
 
 
 ##  📈 Augmenter ses Statistiques et Obtenir des Bonus
