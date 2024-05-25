@@ -26,6 +26,6 @@ Les <span style="color: #AA00AA;">**Coffres Cosmiques**</span> proposent un pane
 
 
 Il n'y a pas de rareté dans les récompenses, mais certaines sont plus profitables que d'autres comme les **Beacons** ou les **Fragments d'Artéfacts**.
-Les <span style="color: #AA00AA;">**Coffres Cosmiques**</span> sont un outil clé pour progresser dans le Prison. Il vous récompense simplement pour le fait de **miner** et donne des récompenses non négligeables (les fragments d'artéfacts n'étant pour le moment disponibles que dans ces coffres ou via le kit Voyageur de la boutique pour  les joueurs Free to Play).
+Les <span style="color: #AA00AA;">**Coffres Cosmiques**</span> sont un outil clé pour progresser dans le Prison. Ils vous récompensent simplement pour le fait de **miner** et donnent des récompenses non négligeables (les fragments d'artéfacts n'étant pour le moment disponibles que dans ces coffres ou via le kit Voyageur de la boutique pour  les joueurs Free to Play).
 
 ![img.png](../ressources/coffre_cosmique.png)
