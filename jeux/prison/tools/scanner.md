@@ -6,7 +6,7 @@ L'amélioration du scanner augmente seulement les chances d'obtenir des objets d
 Pour l'améliorer, vous avez besoin d'un certain nombre de fragments d'étoiles qui s'obtiennent en recyclant les objets octroyés par le scanner.
 Vous pouvez voir votre avancée de fragments d'étoiles pour le scanner avec le pourcentage inscrit en rose au dessus de votre barre de nourriture. 
 
-![img_1.png](../ressources/scanner_remain_time.png)  
+![img_1.png](../ressources/scanner_pourcent.png)  
 
 Une fois l'amélioration lancée, vous devrez attendre avant que l'évolution de votre scanner soit effectuée. La durée de celle-ci sera indiquée à la place de votre pourcentage pour l'améliorer. Vous pouvez aussi diminuer le temps d'amélioration avec des capsules temporelles (Une capsule retire 5 minutes) ou des beacons.
 **Attention:** lors de l'utilisation de capsules, si vous en possédez beaucoup, il n'y a pas de confirmation pour utiliser les beacons lorsque vous épuisez votre dernière capsule (faites donc attention à ne pas les dépenser sans le vouloir).
