@@ -22,7 +22,7 @@
 
 ## **➺** ⭐ Enchantements nécessitant des tokens et des noyaux d'étoiles
 #### Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](noyaux.md)
-> Les niveaux d'ascension correspondant au total des niveaux de votre pioche que vous avez sacrifié au cours de la saison
+> Les niveaux d'ascension correspondent au total des niveaux de votre pioche que vous avez sacrifié au cours de la saison
 
 | Enchantement               | Niveau d'ascension requis | Description                                                                                   |
 |----------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
