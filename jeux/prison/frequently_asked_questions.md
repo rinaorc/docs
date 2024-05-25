@@ -12,7 +12,7 @@ Les gemmes sont des objets qui augmentent vos statistiques (Tokens/Rinacoins/XP 
 
 > **J'ai trop de gemmes/armures, qu'est-ce que j'en fais ?**
 
-Le surplus de gemmes et armures peut être recyclé auprès du **Forgeron (/forge)**, sélectionnez l'objet dont vous souhaitez vous débarasser puis cliquez sur l'option **"Détruire l'objet"**. Vous serez récompensés avec des **Fragments d'étoile** qui vous permettront d'améliorer votre **Scanner**.
+Le surplus de gemmes et armures peut être recyclé auprès du **Forgeron (/forge)**, sélectionnez l'objet dont vous souhaitez vous débarasser puis cliquez sur l'option **"Détruire l'objet"**. Vous serez récompensé avec des **Fragments d'étoile** qui vous permettront d'améliorer votre **Scanner**.
 
 > **A quoi sert le Scanner ?**
 
@@ -25,7 +25,7 @@ Les Rinacoins servent aussi à améliorer votre **Sac** (clic droit sur le coffr
 
 > **Tokens et Enchantements, quésaco?**
 
-Les **Tokens** s'obtiennent en minant. Ils vous permettent d'améliorer et de débloquer des enchantements plus ou moins puissants qui vous permettent de casser plus de blocs et ainsi produire plus de Rinacoins. Pour accéder à la page des enchantements, vous devez ouvrir **le menu de votre pioche** (clic droit sur votre pioche). Il est **primordial** de se concentrer sur l'amélioration de l'enchantement **"Chercheur de Tokens** pour vous faciliter le reste des améliorations d'enchantements qui seront nettement plus coûteuses, sans pour autant délaisser les **autres enchantements**.
+Les **Tokens** s'obtiennent en minant. Ils vous permettent d'améliorer et de débloquer des enchantements plus ou moins puissants qui vous permettent de casser plus de blocs et ainsi produire plus de Rinacoins. Pour accéder à la page des enchantements, vous devez ouvrir **le menu de votre pioche** (clic droit sur votre pioche). Il est **primordial** de se concentrer sur l'amélioration de l'enchantement **"Chercheur de Tokens"** pour vous faciliter le reste des améliorations d'enchantements qui seront nettement plus coûteuses, sans pour autant délaisser les **autres enchantements**.
 
 > **Utiliser ses Beacons de manière efficace**
 
@@ -37,5 +37,5 @@ La **Chance Critique d'Enchantements** est une statistique qui vous donne une ch
 
 > **Mon inventaire est plein, comment puis-je libérer de l'espace ?**
 
-Vous pouvez recycler vos armures et gemmes auprès du **forgeron** *(/forge)* en échange de fragments d'étoile. Tout le reste (robots non-désirables, pommes dorées, armures de pvp et armures de départ) doivent être supprimés via la **poubelle** *(/trash)*. Il est important de noter que les objets forment une file et ne se suppriment que si vous excédez cette file ou que vous vous déconnectez, afin d'éviter un accident et la perte d'un objet que vous souhaitez garder.
+Vous pouvez recycler vos armures et gemmes auprès du **forgeron** *(/forge)* en échange de fragments d'étoile. Tout le reste (robots non-désirables, pommes dorées, armures de pvp et armures de départ) doit être supprimé via la **poubelle** *(/trash)*. Il est important de noter que les objets forment une file et ne se suppriment que si vous excédez cette file ou que vous vous déconnectez, afin d'éviter un accident et la perte d'un objet que vous souhaitiez garder.
 Les **blocs que vous minez** s'accumulent dans un **Sac** différent de votre inventaire (icône du coffre). Si celui-ci affiche "plein", il se videra progressivement grâce à la fonction "Vente Automatique" que vous pouvez améliorer.
