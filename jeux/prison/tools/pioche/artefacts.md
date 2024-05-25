@@ -22,7 +22,7 @@ Actif : Confère 10% de chance de doubler les récompenses obtenues en ouvrant u
 Passif : Bonus de Tokens / RinaCoins / XP Pioche +50 %  
 
 ### Vortex Galactique  
-Actif : Confère 20% de chance de doubler l'activation de votre scanner quantique (l'obtention d'une gemme/armure).  
+Actif : Confère 20% de chance de doubler l'activation de votre (scanner)[scanner.md] quantique..  
 Passif : Bonus de Tokens / RinaCoins / XP Pioche +50 %  
 
 ### Constellations Oubliées  
