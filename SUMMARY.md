@@ -7,7 +7,7 @@
 
 ## 🕹️ Jeux
 
-* [⚔️ The Purge](jeux/the-purge/README.md)
+## * [⚔️ The Purge](jeux/the-purge/README.md)
   * [📜 Introduction](jeux/the-purge/introduction.md)
   * [🔮 Gagner de l'expérience](jeux/the-purge/gagner-de-lexperience.md)
   * [🎈 Evènements](jeux/the-purge/evenements.md)
@@ -19,7 +19,7 @@
   * [📈 Boutique des renommées](jeux/the-purge/boutique-des-renommees.md)
   * [💰 CashShop](jeux/the-purge/cashshop.md)
 
- * [⛏️​ Prison Odyssey](jeux/prison/introduction.md)
+ ## [⛏️​ Prison Odyssey](jeux/prison/introduction.md)
   * [📜 Introduction](jeux/prison/introduction.md)
   * [🔮 Gagner de l'expérience](jeux/the-purge/gagner-de-lexperience.md)
   * [⛏️ La pioche](jeux/prison/pioche)
