@@ -25,7 +25,7 @@ Les Rinacoins servent aussi à améliorer votre **Sac** (clic droit sur le coffr
 
 > **Tokens et Enchantements, quésaco?**
 
-Les **Tokens** s'obtiennent en minant. Ils vous permettent d'améliorer et de débloquer des enchantements plus ou moins puissants qui vous permettent de casser plus de blocs et ainsi produire plus de Rinacoins. Pour accéder à la page des enchantements, vous devez ouvrir **le menu de votre pioche** (clic droit sur votre pioche).
+Les **Tokens** s'obtiennent en minant. Ils vous permettent d'améliorer et de débloquer des enchantements plus ou moins puissants qui vous permettent de casser plus de blocs et ainsi produire plus de Rinacoins. Pour accéder à la page des enchantements, vous devez ouvrir **le menu de votre pioche** (clic droit sur votre pioche). Il est **primordial** de se concentrer sur l'amélioration de l'enchantement **"Chercheur de Tokens** pour vous faciliter le reste des améliorations d'enchantements qui seront nettement plus coûteuses, sans pour autant délaisser les **autres enchantements**.
 
 > **Utiliser ses Beacons de manière efficace**
 
@@ -33,7 +33,7 @@ Les **Beacons** sont une ressource passe-partout très précieuse, et ils doiven
 
 > **La Chance Critique d'Enchantements, ça sert à quoi ?**
 
-La **Chance Critique d'Enchantements** est une statistique qui vous donne une chance de **provoquer un enchantement deux fois de suite**. Il est important de noter que ce pourcentage de chance ne peut pas aller au-dessus de **10%** à moins d'avoir **l'artéfact Horizon des Évenements actif.**
+La **Chance Critique d'Enchantements** est une statistique qui vous donne une chance de **provoquer un enchantement deux fois de suite**. Il est important de noter que ce pourcentage de chance ne peut pas aller au-dessus de **10%** à moins d'avoir **l'artéfact Horizon des Évenements actif.** C'est une statistique quasi-insignifiante en début de partie, mais qui s'avère être très utile pour accroître votre **minage de blocs**.
 
 > **Mon inventaire est plein, comment puis-je libérer de l'espace ?**
 
