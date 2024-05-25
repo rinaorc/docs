@@ -19,7 +19,7 @@
   * [📈 Boutique des renommées](jeux/the-purge/boutique-des-renommees.md)
   * [💰 CashShop](jeux/the-purge/cashshop.md)
 
-* ⛏️ [Prison Odyssey](jeux/prison/README.md)
+* [⛏️ Prison Odyssey](jeux/prison/README.md)
   * [📜 Introduction](jeux/prison/introduction.md)
   * [🃏 Questions fréquentes & Astuces](jeux/prison/frequently\_asked\_questions.md)
   * [📐 Outils](jeux/prison/tools/README.md)
