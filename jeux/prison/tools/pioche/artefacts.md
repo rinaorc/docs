@@ -18,7 +18,7 @@ Actif : Augmente la limite de chance de "Coup Critique Enchants" à 12% (limite 
 Passif : Bonus de Tokens / RinaCoins / XP Pioche +50 %  
 
 ### Clair de Lune Sidéral  
-Actif : Confère 10% de chance de doubler les récompenses obtenues en ouvrant un coffre cosmique.   
+Actif : Confère 10% de chance de doubler les récompenses obtenues en ouvrant un [coffre cosmique](../rsc/coffres_cosmiques.md).   
 Passif : Bonus de Tokens / RinaCoins / XP Pioche +50 %  
 
 ### Vortex Galactique  
