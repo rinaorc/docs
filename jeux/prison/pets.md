@@ -4,7 +4,7 @@
 ## **➺** Comment obtenir des pets ?
 Pour obtenir des pets, vous avez besoin d'obtenir premièrement des "ADN d'Oeuf", ils permettent d'invoquer de nouveaux pets à partir de la commande /voeux.  
 Vous pouvez en invoquez 5 en cliquant dessus avec le clique gauche, et 15 avec le clique droit.
-![img.png](ressources/pets/VoeuxPets.png)
+![img.png](ressources/pets/VoeuxPetsRedem.png)
 
 Vous pouvez obtenir ces derniers en minant, dans les coffres cosmiques, mais aussi dans le /afk et dans le /pass.
 Une fois invoquez, les pets seront dans votre inventaire.  
