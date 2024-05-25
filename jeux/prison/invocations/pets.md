@@ -39,22 +39,22 @@ Pour améliorer le niveaux des pets, vous pouvez augmenter leur expérience en m
 
 |  Nom  | Rareté       | Effet     |
 |-------|--------------|-----------|
-|Moustique| Normal       | Augmente votre bonus de tokens |
+|Moustique| Normal       | Augmente votre bonus de Tokens |
 |Pigeon| Normal | Augmente votre bonus de RinaCoins|
-|Souris| Normal | Augmente la chance de déclenchement de l'enchantement Veine Miner|
+|Souris| Normal | Augmente la chance de déclenchement de l'enchantement Vein Miner|
 |Cochon| Commun |Augmente la quantité de fragments d'étoiles que vous recevez lorsque vous recyclez un équipement|
 |Grenouille|Commun|Augmente la chance de déclenchement de l'enchantement Explosion|
 |Hibou arc-en-ciel|Commun|Augmente les bonus de Tokens/Rinacoins des autres joueurs présents dans vore mine|
 |Panda| Rare|Augmente la quantité de Beacons que vous pouvez trouver dans la Mine Pvp|
 |Lapin| Rare| Offre une chance de monter de deux rangs au lieu d'un lors d'un rankup|
-|Singe| Rare| Augmente le bonus de Token de vos Enchantements|
+|Singe| Rare| Augmente le bonus de Tokens de vos Enchantements|
 |Renard|Epique|Diminue le prix pour rankup|
-|Tortue|Epique|Augmente vos bonus de Tokens/Rinacoins en foction de votre statistique de vitesse|
+|Tortue|Epique|Augmente vos bonus de Tokens/Rinacoins en fonction de votre statistique de vitesse|
 |Taupe| Epique|Augmente la chance de déclenchement de l'enchantement Excavation|
 |Requin|Legendaire|Augmente vos bonus de Tokens/RinaCoins en fonction de votre maximum de Mana|
 |Chat|Legendaire|Augmente votre vitesse de déplacement|
 |Gorille|Legendaire|Augmente les bonus de Tokens/Rinacoins des autres joueurs présents dans vore mine|
-|Abeille|Divin|Augmente le bonus de la surcharge d'énergie mais aussi l'énergie requis pour l'activer ! **A VENIR**|
+|Abeille|Divin|Augmente le bonus de la surcharge d'énergie mais aussi l'énergie requise pour l'activer ! **A VENIR**|
 |Pengouin|Divin|Augmente la quantité de fragments d'étoiles que vous recevez lorsque vous recyclez un équipement|
 |Phoenix|Divin|Augmente la durée des prochains boosters que vous activez|
 |Mamouth|Mythique|Augmente considérablement la taille de votre sac à dos|
