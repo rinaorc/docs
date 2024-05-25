@@ -10,6 +10,7 @@ d'un coffre cosmique se fait de manière semi-aléatoire, attendez-vous à en re
 
 Les Coffres Cosmiques proposent un panel divers de récompenses, et vous en octroie une au hasard parmi la liste suivante:
 
+|-----------------------------------------|
 | Booster de Rinacoins Commun 1h (25%)    | 
 | Booster de Tokens Commun 1h (25%)       |
 | Booster d'EXP de Pioche Commun 1h (25%) |
