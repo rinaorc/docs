@@ -20,7 +20,6 @@
 
 ## ⛏️ Prison Odyssey
 
-* [🖋️ Contributeurs](prison-odyssey/contributeurs.md)
 * [📜 Introduction](jeux/prison/introduction.md)
 * [🃏 Questions fréquentes & Astuces](jeux/prison/frequently\_asked\_questions.md)
 * [📐 Outils](jeux/prison/tools/README.md)
@@ -38,6 +37,7 @@
 * [🧪 Invocations](prison-odyssey/invocations/README.md)
   * [🐈 Pets](jeux/prison/invocations/pets.md)
   * [🤖 Robots](jeux/prison/invocations/robot.md)
+* [🖋️ Contributeurs](prison-odyssey/contributeurs.md)
 
 ## 💻 Développeurs
 
