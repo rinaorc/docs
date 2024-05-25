@@ -13,23 +13,23 @@ Vous pouvez en invoquer 5 en cliquant dessus avec le clic gauche, et 15 avec le 
 Néanmoins, nous vous conseillons d'attendre d'avoir 13 ADN pour économiser.
 {% endhint %}
 
-![img.png](../ressources/pets/VoeuxPetsRedem.png)
+![](../ressources/pets/VoeuxPetsRedem.png)
 
 Vous pouvez obtenir ces derniers en minant, dans les coffres cosmiques, mais aussi dans le /afk et dans le /pass. Une fois invoqués, les pets seront dans votre inventaire.
 
-![img.png](../ressources/pets/PetsINVRedem.png)
+![](../ressources/pets/PetsINVRedem.png)
 
 **Pour les rendre actifs, il faut les faire rentrer dans l'enclos (/pet) ↓**
 
-![img.png](../ressources/pets/EnclosPetsRedem.png)
+![](../ressources/pets/EnclosPetsRedem.png)
 
 Et pour les rentrer, cliquez sur "Faire évoluer mes familiers"
 
-![img.png](../ressources/pets/EnclosEVOPetsRedem.png)
+![](../ressources/pets/EnclosEVOPetsRedem.png)
 
 Une fois les pets absorbés dans l'enclos, un message s'afficheras dans le chat:
 
-![img.png](../ressources/pets/PetsAbsoTchatRedem.png)
+![](../ressources/pets/PetsAbsoTchatRedem.png)
 
 ## **➺** Comment améliorer des pets ?
 
