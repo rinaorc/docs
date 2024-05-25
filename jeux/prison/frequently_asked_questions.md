@@ -1,4 +1,4 @@
-# Questions Fréquentes et Astuces
+# ❓ Questions Fréquentes et Astuces
 *Cette page sert de mémo/index très général sur les différentes mécaniques du Prison. Si vous recherchez des informations plus détaillées sur un des points suivants, merci de vous reporter aux pages qui leur sont dédiées.*
 
 > **A quoi sert le Mana ?**
