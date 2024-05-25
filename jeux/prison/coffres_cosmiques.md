@@ -23,5 +23,6 @@ Les Coffres Cosmiques proposent un panel divers de récompenses, et vous en octr
 | 1 Fragment d'Artéfacts                  |
 
 ![img.png](ressources/coffre_cosmique.png)
+
 Il n'y a pas de rareté dans les récompenses, mais certaines sont plus profitables que d'autres comme les **Beacons** ou le **Fragment d'Artéfact**.
 Les coffres cosmiques sont un outil clé pour progresser dans le Prison. Il vous récompense simplement pour le fait de **miner** et donne des récompenses non négligeables (les fragments d'artéfact n'étant pour le moment disponibles que dans ces coffres ou via le kit Voyageur de la boutique pour  les joueurs Free to Play).
