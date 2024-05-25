@@ -3,7 +3,7 @@
 
 > **A quoi sert le Mana ?**
 
-Le **Mana** est une unité qui n'a pas encore d'intéret pour les capacités actives dans le jeu. Le pet **légendaire Requin** vous accorde un bonus de Tokens et de Rinacoins selon votre quantité de Mana.
+Le **Mana** est une unité qui n'a pas encore d'intéret pour les capacités actives dans le jeu. Le pet <span style="color: #FFAA00;">**légendaire Requin**</span> vous accorde un bonus de Tokens et de Rinacoins selon votre quantité de Mana.
 
 > **Comment puis-je obtenir une gemme ? Comment l'équiper ?**
 
