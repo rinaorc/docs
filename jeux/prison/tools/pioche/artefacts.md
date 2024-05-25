@@ -2,8 +2,8 @@
 > Cette page a pour but de vous expliquer comment obtenir des artéfacts.  
 
 ## **➺** Comment obtenir un artéfact ?
-Pour obtenir un artéfact, il faut parvenir à réunir 200 fragments d'artéfacts. L'artéfact obtenu est aléatoire.  
-Les fragments d'artéfacts s'obtiennent dans les coffres cosmiques, dans le kit voyageur et dans le /pass.   
+Pour obtenir un artéfact, vous devez réunir 200 fragments d'artéfacts qui vous offrira un artéfact aléatoire.
+Les fragments d'artéfacts s'obtiennent dans les coffres cosmiques, dans le kit voyageur (A récupérer dans la [boutique](https://store.rinaorc.com/category/kits) et dans le /pass.   
 Chaque artéfact a un effet actif et un effet passif (l'effet passif étant commun à tout les artéfacts). Il est possible d'obtenir une deuxième fois un artéfact et ainsi d'améliorer ses effets.  
 
 ## **➺** Quels sont les artéfacts ?
