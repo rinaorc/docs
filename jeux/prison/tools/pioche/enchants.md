@@ -21,7 +21,7 @@
 | Haste               | 150           | Permet de miner de manière nettement plus rapide.                                                                        |
 
 ## **➺** ⭐ Enchantements nécessitant des tokens et des noyaux d'étoiles
-#### Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](./noyaux.md)
+#### Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur cette page : [Noyaux](noyaux.md)
 > Les niveaux d'ascension correspondant au total des niveaux de votre pioche que vous avez sacrifié au cours de la saison
 
 | Enchantement               | Niveau d'ascension requis | Description                                                                                   |

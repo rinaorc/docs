@@ -5,7 +5,7 @@
 Pour obtenir des objets, il vous suffit de miner dans votre mine, vous obtenez un objet en moyenne tous les 100 blocs minés.
 Vous obtenez aléatoirement une des six gemmes existantes (Rubis, Topaz, Améthyste, Saphire, Émeraude, Opale) ou une pièce d'armure.
 
-L'objet alors obtenu possédera une rareté, allant de normal à transcendant. Le scanner est l'outil définissant la rareté des objets que vous allez obtenir, pour en savoir plus, [cliquez ici](./scanner.md).
+L'objet alors obtenu possédera une rareté, allant de normal à transcendant. Le scanner est l'outil définissant la rareté des objets que vous allez obtenir, pour en savoir plus, [cliquez ici](../tools/scanner.md).
 
 ## **➺** Comment modifier les objets obtenus ?
 Pour modifier des objets, il vous suffit de faire la commande **/forge** qui vous ouvrira un menu, une fois dans celui-ci, il vous suffit de cliquer sur l'objet que vous souhaitez modifier. Une fois cela fait, plusieurs options s'offrent à vous :

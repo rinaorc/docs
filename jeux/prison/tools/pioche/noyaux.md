@@ -6,9 +6,9 @@ Pour obtenir des noyaux d'étoiles, vous devez accumuler des niveaux de pioche e
 Sacrifier les niveaux de sa pioche ne supprime pas les enchantements, il les bloqueras juste, jusqu'à atteindre le niveau nécessaire pour les réutiliser.
 
 ## **➺** Comment utiliser les noyaux d'étoiles ?
-Vous pouvez les utiliser pour améliorer certains enchantements en bas de la pioche (Voir [enchantements](./enchants.md))
+Vous pouvez les utiliser pour améliorer certains enchantements en bas de la pioche (Voir [enchantements](enchants.md))
 Notez qu'à partir du niveau 100 vous avez un bonus de 1% par tranche de 10 niveaux.
 
-![img.png](../ressources/noyau.png) ![img.png](../ressources/sacrifice.png)
+![img.png](../../ressources/noyau.png) ![img.png](../../ressources/sacrifice.png)
 
 ### Nous vous conseillons d'attendre le niveau 150 pour commencer son premier sacrifice afin de débloquer l'enchantement "Astre Céleste".
