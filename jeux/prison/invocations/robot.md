@@ -15,10 +15,10 @@ Comme pour les objets, les robots possèdent, eux aussi, une rareté. En augment
 Quand vous créez des robots, ils possèdent une étoile, vous pouvez améliorer les robots d'une même rareté et du meme nombre d'étoiles en les fusionnant avec le hopper/entonnoir présent dans le menu /robot. A partir du rang 100, l'amélioration éclair (premier hopper/entonnoir enchanté) permet de fusionner automatiquement vos robots.  
 ![img.png](../ressources/robots/robot_menu.PNG)
 
-Par exemple, deux robots d'une rareté Rare, avec une étoile chacun vous donnera un robot Rare avec deux étoiles avec un petit boost de ses statistiques.
+Par exemple, deux robots d'une rareté Rare, avec une étoile chacun vous donneront un robot Rare avec deux étoiles avec un petit boost de statistiques.
 
-## **➺** Quels sont les différences entre les raretés ?
-Les statistiques données sont celle des robots avec une seule étoile :
+## **➺** Quelles sont les différences entre les raretés ?
+Les statistiques données sont celles des robots possédant une seule étoile :
 
 | Rareté       | Boost (%) |
 |--------------|-----------|
