@@ -1,4 +1,4 @@
-# <span style="color: #AA00AA;">Coffres Cosmiques</span> 
+# 🎰 Coffres Cosmiques
 ![img.png](ressources/coffre_cosmique2.png)
 ## Obtention, récompenses et utilité
 
@@ -8,7 +8,7 @@ Les <span style="color: #AA00AA;">**Coffres Cosmiques**</span> sont des récompe
 
 > **Récompenses**
 
-Les <span style="color: #AA00AA;">**Coffres Cosmiques**</span> proposent un panel divers de récompenses, et vous en octroie une au hasard parmi la liste suivante:
+Les <span style="color: #AA00AA;">**Coffres Cosmiques**</span> proposent un panel divers de récompenses, et vous en octroie une au hasard parmi la liste suivante :
 
 | Récompenses possibles                   |   
 |-----------------------------------------|

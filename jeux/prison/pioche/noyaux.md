@@ -1,4 +1,4 @@
-#  Noyaux d'étoiles
+#  🌟 Noyaux d'étoiles
 > Cette page a pour but de vous expliquer le fonctionnement des noyaux d'étoiles.
 
 ## **➺** Comment obtenir des noyaux d'étoiles ?

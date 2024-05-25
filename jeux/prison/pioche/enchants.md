@@ -1,4 +1,4 @@
-# 📚 Enchantements de la pioche
+# 📚 Enchantements
 >Cette page a pour but de vous présenter les différents enchantements possibles sur votre pioche.
 
 ## **➺** 💰 Enchantements nécessitant uniquement des tokens
