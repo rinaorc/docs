@@ -64,4 +64,4 @@ Pour améliorer le niveaux des pets, vous pouvez augmenter leur expérience en m
 |Rocket|Primordial|Augmente votre chance d'obtenir des statistiques déjà améliorées sur les équipements que vous trouvez|
 |Doge|Primordial|Augmente considérablement votre bonus de RinaCoins|
 |Loup Enflammé|Transcendant|Augmente la chance de déclenchement de l'enchantement Nuke|
-|Elephant cosmique|Transcendant|Augmente la quantité de fragments d'étoiles que vous receves lorsque vous recyclez un équipement|
+|Élephant cosmique|Transcendant|Augmente la quantité de fragments d'étoiles que vous receves lorsque vous recyclez un équipement|
