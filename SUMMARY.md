@@ -19,7 +19,7 @@
   * [📈 Boutique des renommées](jeux/the-purge/boutique-des-renommees.md)
   * [💰 CashShop](jeux/the-purge/cashshop.md)
 
-* ⛏️ Prison Odyssey()[jeux/prison/README.md]
+* ⛏️ [Prison Odyssey](jeux/prison/README.md)
   * [📜 Introduction](jeux/prison/introduction.md)
   * [🃏 Questions fréquentes & Astuces](jeux/prison/frequently\_asked\_questions.md)
   * [📐 Outils](jeux/prison/tools/README.md)
@@ -34,10 +34,10 @@
     * [🪁 Beacons](jeux/prison/rsc/beacons.md)
     * [🎰 Coffres Cosmiques](jeux/prison/rsc/coffres\_cosmiques.md)
     * [🔮 Objets](jeux/prison/rsc/objects.md)
-  * [🧪 Invocations](prison-odyssey/invocations/README.md)
+  * [🧪 Invocations](prison/invocations/README.md)
     * [🐈 Pets](jeux/prison/invocations/pets.md)
     * [🤖 Robots](jeux/prison/invocations/robot.md)
-  * [🖋️ Contributeurs](prison-odyssey/contributeurs.md)
+  * [🖋️ Contributeurs](prison/contributeurs.md)
 
 ## 💻 Développeurs
 
