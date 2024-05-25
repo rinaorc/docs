@@ -20,7 +20,7 @@ Le recyclage automatique est simple à utiliser, dans le /scanner, cliquez sur l
 Il suffit ensuite de sélectionner la rareté minimale que vous voulez garder.  
 ![img.png](../ressources/emnu_recyclage.png)
 
-## **➺** Quantité de fragments pour chaque niveau (en cours)
+## **➺** Quantité de fragments requis pour augmenter de niveau son scanner.
 La quantité de fragments demandée augmente entre chaque niveau, voici la liste de coût de chaque amélioration :
 
 | Passage Niveau | Valeur | Rareté Maximale                                   |
