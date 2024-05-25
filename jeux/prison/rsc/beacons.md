@@ -9,7 +9,7 @@
 - **Avec la commande /afk** : En étant afk sur le jeu ou tout simplement déconnecté, le jeu transforme votre (in)activité en ressource obtenable grâce à cette commande, qui contient des beacons.
 - **Dans la mine PVP** : La mine PVP est une mine publique où l'on trouve des beacons que l'on peut miner. Miner un beacon peut rapporter aléatoirement entre 1 et 20 Beacons. Pour y accéder, il faut utiliser la commande /warp pvp.
 - **Dans le shop** : Les riozs peuvent être convertis en beacons dans le /shop.
-- **Dans la boutique** : Les Beacons sont également achetables sur la [boutique](https://store.rinaorc.com).
+- **Dans la boutique** : Les Beacons sont également achetables sur la [boutique](https://store.rinaorc.com/category/beacons).
 
 ## 🛒 **➺** Comment utiliser les beacons : 
 
