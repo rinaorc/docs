@@ -1,4 +1,4 @@
-# ✨ Artéfacts
+# 🧬 Artéfacts
 > Cette page a pour but de vous expliquer comment obtenir des artéfacts.  
 
 ## **➺** Comment obtenir un artéfact ?

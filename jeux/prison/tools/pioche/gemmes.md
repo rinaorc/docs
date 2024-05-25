@@ -1,4 +1,4 @@
-# 💎 Gemmes
+# 💍 Gemmes
 >Cette page a pour but de vous faire comprendre le fonctionnement des gemmes.
 
 ## **➺** Comment obtenir des gemmes ?
