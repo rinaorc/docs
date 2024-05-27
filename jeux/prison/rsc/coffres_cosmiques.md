@@ -10,26 +10,41 @@ Cette page à comme objectif de vous apprendre comment obtenir des coffres cosmi
 
 > **Les Coffres Cosmiques, c'est quoi?**
 
-Les **Coffres Cosmiques** sont des récompenses qui prennent la forme d'un **Ender-Chest** dans votre inventaire. Ils ne peuvent être obtenus qu'en **minant** ou en en achetant directement sur la [boutique Rinaorc](https://store.rinaorc.com/). L'obtention d'un coffre cosmique se fait de manière semi-aléatoire, attendez-vous à en recevoir un tous les 3500 à **5000 blocs physiques minés**.
+Les **Coffres Cosmiques** sont des récompenses qui se stackent sous forme de **clés**. Ils ne peuvent être obtenus qu'en **minant** ou en en achetant directement sur la [boutique Rinaorc](https://store.rinaorc.com/). L'obtention d'un coffre cosmique se fait de manière semi-aléatoire, attendez-vous à en recevoir un tous les 3500 à **5000 blocs physiques minés**.
 
 > **Récompenses**
 
+Il existe **3 raretés différentes de Coffres Cosmiques**, qui peuvent être obtenues en minant.
 Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en octroient une au hasard parmi la liste suivante :
 
-| Récompenses possibles                    |
-| ---------------------------------------- |
-| Booster de Rinacoins Commun 1h (25%)     |
-| Booster de Tokens Commun 1h (25%)        |
-| Booster d'EXP de Pioche Commun 1h (25%)  |
-| 1 Schéma de Robots                       |
-| 1 ADN d'Oeufs                            |
-| 1 capsule temporelle                     |
-| 1 capsule de durabilité                  |
-| 150 Beacons                              |
-| 400 Beacons                              |
-| 10 apparitions d'objets (gemmes/armures) |
-| 1 Fragment d'Artéfacts                   |
+| Lunaire - Tier 1 (1 étoile)              | Astral - Tier 2 (2 étoiles)              | Nébuleux - Tier 3 (3 étoiles)                |
+| ---------------------------------------- |------------------------------------------|----------------------------------------------|
+| Sac de Rinacoins Commun                  | Sac de Rinacoins Rare                    | Sac de Rinacoins Légendaire                  |
+| Sac de Rinacoins Rare                    | Sac de Rinacoins Epique                  | Sac de Rinacoins Mythique                    |
+| Sac de Rinacoins Epique                  | Sac de Rinacoins Légendaire              | Sac de Rinacoins Primordial                  |
+| Booster de Rinacoins Rare 1h (50%)       | Booster de Rinacoins Epique 1h (75%)     | Booster de Rinacoins Légendaire 1h (100%)    |
+| Booster de Tokens Rare 1h (50%)          | Booster de Tokens Epique 1h (75%)        | Booster de Tokens Légendaire 1h (100%)       |
+| Booster d'EXP de Pioche Rare 1h (50%)    | Booster d'EXP de Pioche Epique 1h (75%)  | Booster d'EXP de Pioche Légendaire 1h (100%) |
+| 1 Schéma de Robots                       | 5 Schémas de Robots                      | 15 Schémas de Robots                         |
+| 1 ADN d'Oeufs                            | 5 ADN d'Oeufs                            | 15 ADN d'Oeufs                               |
+| 1 capsule temporelle                     | 3 capsules temporelles                   | 10 capsules temporelles                      |
+| 1 capsule de durabilité                  | 2 capsules de durabilité                 | 3 capsules de durabilité                     |
+| 150 Beacons                              | 200 Beacons                              | 250 Beacons                                  |
+| 400 Beacons                              | 500 Beacons                              | 750 Beacons                                  |
+| +1 niveau max Jackhammer                 | 5x +1 niveau max Jackhammer              | x                                            |
+| +1 niveau max Explosion                  | 5x +1 niveau max Explosion               | x                                            |
+| x                                        | 5x +1 niveau max Excavation              | x                                            |
+| x                                        | x                                        | +100 niveaux max Nuke                        |
+| 10 apparitions d'objets (gemmes/armures) | 25 apparitions d'objets (gemmes/armures) | 50 apparitions d'objets                      |
+| 1 Fragment d'Artéfacts                   | 5 Fragments d'Artéfacts                  | 10 Fragments d'artéfacts                     |
+| 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)      |
+| Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                    |
+| x                                        | x                                        | Rang GALACTIQUE (**RARE**)                   |
 
 Il n'y a pas de rareté dans les récompenses, mais certaines sont plus profitables que d'autres comme les **Beacons** ou les **Fragments d'Artéfacts**. Les **Coffres Cosmiques** sont un outil clé pour progresser dans le Prison. Ils vous récompensent simplement pour le fait de **miner** et donnent des récompenses non négligeables (les fragments d'artéfacts n'étant pour le moment disponibles que dans ces coffres ou via le kit Voyageur de la boutique pour les joueurs Free to Play).
+
+> **Coffres Cosmiques du PASS**
+
+Les Coffres Cosmiques obtenus dans le **pass** *(/pass)* sont différents de ceux obtenus en minant et octroient des récompenses similaires aux **Coffres Lunaires (T1)** (cf screenshot ci-dessous)
 
 ![](../ressources/ouverture\_coffres.gif)
