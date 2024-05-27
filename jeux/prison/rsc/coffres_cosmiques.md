@@ -19,21 +19,27 @@ Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en 
 
 | Lunaire - Tier 1 (1 étoile)              | Astral - Tier 2 (2 étoiles)              | Nébuleux - Tier 3 (3 étoiles)                |
 | ---------------------------------------- |------------------------------------------|----------------------------------------------|
-| Sac de Rinacoins Rare                    | Sac de Rinacoins Epique                  | Sac de Rinacoins Légendaire                  |
+| Sac de Rinacoins Commun                  | Sac de Rinacoins Rare                    | Sac de Rinacoins Légendaire                  |
+| Sac de Rinacoins Rare                    | Sac de Rinacoins Epique                  | Sac de Rinacoins Mythique                    |
+| Sac de Rinacoins Epique                  | Sac de Rinacoins Légendaire              | Sac de Rinacoins Primordial                  |
 | Booster de Rinacoins Rare 1h (50%)       | Booster de Rinacoins Epique 1h (75%)     | Booster de Rinacoins Légendaire 1h (100%)    |
 | Booster de Tokens Rare 1h (50%)          | Booster de Tokens Epique 1h (75%)        | Booster de Tokens Légendaire 1h (100%)       |
 | Booster d'EXP de Pioche Rare 1h (50%)    | Booster d'EXP de Pioche Epique 1h (75%)  | Booster d'EXP de Pioche Légendaire 1h (100%) |
 | 1 Schéma de Robots                       | 5 Schémas de Robots                      | 15 Schémas de Robots                         |
 | 1 ADN d'Oeufs                            | 5 ADN d'Oeufs                            | 15 ADN d'Oeufs                               |
-| 1 capsule temporelle                     | 5 capsules temporelles                   | 15 capsules temporelles                      |
-| 1 capsule de durabilité                  | 5 capsules de durabilité                 | 15 capsules de durabilité                    |
-| 150 Beacons                              | TBA                                      | TBA                                          |
-| 400 Beacons                              | TBA                                      | TBA                                          |
+| 1 capsule temporelle                     | 5 capsules temporelles                   | 10 capsules temporelles                      |
+| 1 capsule de durabilité                  | 5 capsules de durabilité                 | 3 capsules de durabilité                     |
+| 150 Beacons                              | 200 Beacons                              | 250 Beacons                                  |
+| 400 Beacons                              | 500 Beacons                              | 750 Beacons                                  |
+| +1 niveau max Jackhammer                 | 5x +1 niveau max Jackhammer              | x                                            |
+| +1 niveau max Explosion                  | 5x +1 niveau max Explosion               | x                                            |
+| x                                        | 5x +1 niveau max Excavation              | x                                            |
+| x                                        | x                                        | +100 niveaux max Nuke                        |
 | 10 apparitions d'objets (gemmes/armures) | 25 apparitions d'objets (gemmes/armures) | 50 apparitions d'objets                      |
 | 1 Fragment d'Artéfacts                   | 5 Fragments d'Artéfacts                  | 10 Fragments d'artéfacts                     |
 | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)      |
 | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                    |
-| x | x | Rang GALACTIQUE (**RARE**)                   |
+| x                                        | x                                        | Rang GALACTIQUE (**RARE**)                   |
 
 Il n'y a pas de rareté dans les récompenses, mais certaines sont plus profitables que d'autres comme les **Beacons** ou les **Fragments d'Artéfacts**. Les **Coffres Cosmiques** sont un outil clé pour progresser dans le Prison. Ils vous récompensent simplement pour le fait de **miner** et donnent des récompenses non négligeables (les fragments d'artéfacts n'étant pour le moment disponibles que dans ces coffres ou via le kit Voyageur de la boutique pour les joueurs Free to Play).
 
