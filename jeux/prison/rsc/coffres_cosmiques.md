@@ -27,8 +27,8 @@ Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en 
 | Booster d'EXP de Pioche Rare 1h (50%)    | Booster d'EXP de Pioche Epique 1h (75%)  | Booster d'EXP de Pioche Légendaire 1h (100%) |
 | 1 Schéma de Robots                       | 5 Schémas de Robots                      | 15 Schémas de Robots                         |
 | 1 ADN d'Oeufs                            | 5 ADN d'Oeufs                            | 15 ADN d'Oeufs                               |
-| 1 capsule temporelle                     | 5 capsules temporelles                   | 10 capsules temporelles                      |
-| 1 capsule de durabilité                  | 5 capsules de durabilité                 | 3 capsules de durabilité                     |
+| 1 capsule temporelle                     | 3 capsules temporelles                   | 10 capsules temporelles                      |
+| 1 capsule de durabilité                  | 2 capsules de durabilité                 | 3 capsules de durabilité                     |
 | 150 Beacons                              | 200 Beacons                              | 250 Beacons                                  |
 | 400 Beacons                              | 500 Beacons                              | 750 Beacons                                  |
 | +1 niveau max Jackhammer                 | 5x +1 niveau max Jackhammer              | x                                            |
