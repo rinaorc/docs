@@ -33,7 +33,7 @@ Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en 
 | 1 Fragment d'Artéfacts                   | 5 Fragments d'Artéfacts                  | 10 Fragments d'artéfacts                     |
 | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)      |
 | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                    |
-| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx | Rang GALACTIQUE (**RARE**)                   |
+| x | x | Rang GALACTIQUE (**RARE**)                   |
 
 Il n'y a pas de rareté dans les récompenses, mais certaines sont plus profitables que d'autres comme les **Beacons** ou les **Fragments d'Artéfacts**. Les **Coffres Cosmiques** sont un outil clé pour progresser dans le Prison. Ils vous récompensent simplement pour le fait de **miner** et donnent des récompenses non négligeables (les fragments d'artéfacts n'étant pour le moment disponibles que dans ces coffres ou via le kit Voyageur de la boutique pour les joueurs Free to Play).
 
