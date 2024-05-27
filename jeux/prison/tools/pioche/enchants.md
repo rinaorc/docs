@@ -26,7 +26,7 @@ Cette page a pour but de vous présenter les différents enchantements possibles
 | Blizzard            | 200           | Provoque une pluie de boules de neige qui cassent les blocs.                                                                             |
 | Géosphore           | 250           | Ronge les blocs de votre mine dans une direction aléatoire                                                                               |
 
-**NOTE Importante**: les niveaux des enchantements **Jackhammer, Explosion, Excavation et Nuke** peuvent excéder leur limite de niveau grâce aux [coffres cosmiques](/rsc/coffres_cosmiques.md)
+**NOTE Importante**: les niveaux des enchantements **Jackhammer, Explosion, Excavation et Nuke** peuvent excéder leur limite de niveau grâce aux [coffres cosmiques](jeux/prison/rsc/coffres_cosmiques.md)
 
 
 ## **➺** Enchantements nécessitant des tokens et des noyaux d'étoiles
