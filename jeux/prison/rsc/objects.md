@@ -14,6 +14,11 @@ L'objet alors obtenu possédera une rareté, allant de Normal à Transcendant.
 &#x20;Le scanner est l'outil définissant la rareté des objets que vous allez obtenir, pour en savoir plus, [cliquez ici](../tools/scanner.md).
 {% endhint %}
 
+# **➺** Objets étoilés 
+
+Chaque objet a une chance de posséder **une ou plusieurs étoile(s)** lors de son obtention. Elles s'attachent à une statistique aléatoire de votre pioche (une étoile par statistique). Elles octroient un bonus de **20%** de statistiques à l'affixe sur laquelle elles sont attachées. Les étoiles ne peuvent pas être ajoutées ou retirées.
+![img.png](ressources/étoilée.png)
+
 ## **➺** Comment modifier les objets obtenus ?
 
 Pour modifier des objets, il vous suffit de faire la commande **/forge** qui vous ouvrira un menu, une fois dans celui-ci, il vous suffit de cliquer sur l'objet que vous souhaitez modifier. Une fois cela fait, plusieurs options s'offrent à vous :
