@@ -17,7 +17,7 @@ L'objet alors obtenu possédera une rareté, allant de Normal à Transcendant.
 # **➺** Objets étoilés 
 
 Chaque objet a une chance de posséder **une ou plusieurs étoile(s)** lors de son obtention. Elles s'attachent à une statistique aléatoire de votre pioche (une étoile par statistique). Elles octroient un bonus de **20%** de statistiques à l'affixe sur laquelle elles sont attachées. Les étoiles ne peuvent pas être ajoutées ou retirées.
-![img.png](ressources/étoilée.png)
+![img.png](../ressources/etoile.png)
 
 ## **➺** Comment modifier les objets obtenus ?
 
