@@ -1,4 +1,4 @@
-# 🔮 Objets
+# 🔮 Forge
 
 {% hint style="info" %}
 Cette page a pour but de vous expliquer comment obtenir des objets (Armures & Gemmes) mais aussi comment procéder pour les améliorer.
