@@ -40,7 +40,7 @@ Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en 
 | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                    |
 | x                                        | x                                        | Rang GALACTIQUE (**RARE**)                   |
 
-Comme vu sur le tableau, certaines récompenses sont plus profitable que d'autres tel que les beacons, les capsules, apparaitions d'objets, fragments d'artéfact ou encore des grades.
+Comme vu sur le tableau, certaines récompenses sont plus profitable que d'autres telles que les beacons, capsules, apparaitions d'objets, fragments d'artéfact ou encore des grades.  
 Les **Coffres Cosmiques** sont importante dans votre progression, qui vous offrira certains boosts voir des artéfacts ou des grades au long terme.
 
 > **Coffres Cosmiques du PASS**
