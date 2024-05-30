@@ -10,7 +10,7 @@ Cette page à comme objectif de vous apprendre comment obtenir des coffres cosmi
 
 > **Les Coffres Cosmiques, c'est quoi?**
 
-Les **Coffres Cosmiques** sont des récompenses qui se stackent sous forme de **clés**. Ils ne peuvent être obtenus qu'en **minant** ou en en achetant directement sur la [boutique Rinaorc](https://store.rinaorc.com/). L'obtention d'un coffre cosmique se fait de manière semi-aléatoire, attendez-vous à en recevoir un tous les 3500 à **5000 blocs physiques minés**.
+Les **Coffres Cosmiques** sont des récompenses qui se stackent sous forme de **clés**. Ils ne peuvent être obtenus qu'en **minant** ou en en achetant directement sur la [boutique Rinaorc](https://store.rinaorc.com/). L'obtention d'un coffre cosmique se fait de manière semi-aléatoire, attendez-vous à en recevoir un environ tous les **6000 blocs physiques minés**.
 
 > **Récompenses**
 
