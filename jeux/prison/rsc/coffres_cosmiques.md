@@ -37,8 +37,8 @@ Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en 
 | 10 apparitions d'objets (gemmes/armures) | 25 apparitions d'objets (gemmes/armures) | 50 apparitions d'objets                      |
 | 1 Fragment d'Artéfacts                   | 5 Fragments d'Artéfacts                  | 10 Fragments d'artéfacts                     |
 | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)      |
-| Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                    |
-| x                                        | x                                        | Rang GALACTIQUE (**RARE**)                   |
+| Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang GALACTIQUE (**RARE**)                    |
+
 
 Comme vu sur le tableau, certaines récompenses sont plus profitable que d'autres telles que les beacons, capsules, apparaitions d'objets, fragments d'artéfact ou encore des grades.  
 Les **Coffres Cosmiques** sont importante dans votre progression, qui vous offrira certains boosts voir des artéfacts ou des grades au long terme.
