@@ -26,9 +26,9 @@ Certaines **mines temporelles** octroient des boosts **au choix** lorsque vous o
 | Cryptolithe (10)   |   201x201    | Chances de Géophore / Blizzard / Pyroclaste doublées |
 | Ferraxon (12)      |   241x241    | 1% boost de Rinacoins / XP pioche / Tokens par 10 Mana (max 100%) |
 
-**Remarque** : Vous ne pouvez choisir qu'un seul des 3 boosts proposés. Si vous souhaiter changer de boost, il vous faudra débourser **10000 beacons.**
+**Remarque** : Vous ne pouvez choisir qu'un seul des 3 boosts proposés. Si vous souhaitez changer de boost, il vous faudra débourser **10000 beacons.**
 
 ### Stratégies et coups de pouce
 
-- Concentrez vous sur les mines les plus **petites** au départ, vos enchantements feront 95% du travail, alors assurez vous d'avoir des enchantements puissants (Nuke, Astro-Flambée, Astre Céleste) avant de vous attaquer aux mines plus imposantes.
+- Concentrez-vous sur les mines les plus **petites** au départ, vos enchantements feront 95% du travail, alors assurez vous d'avoir des enchantements puissants (Nuke, Astro-Flambée, Astre Céleste) avant de vous attaquer aux mines plus imposantes.
 - Si vous cherchez uniquement les récompenses, ne vous occupez que des mines ci-dessus, les autres n'octroient rien à part un sentiment de satisfaction une fois passé sous la barre des 2 minutes :) !
