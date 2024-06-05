@@ -1,4 +1,4 @@
-# MINES TEMPORELLES
+# ⏱️ - MINES TEMPORELLES
 ## Un contre-la-montre très avantageux
 
 ### **Les mines temporelles, c'est quoi?**
