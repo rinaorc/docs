@@ -10,7 +10,7 @@ Il existe 4  classifications pour chaque mine:
 - Médaille  d'Or: mine terminée en moins de **2 minutes**.
 - Médaille d'Argent: mine terminée en moins de **3 minutes**.
 - Médaille de Bronze: mine terminée en moins de **5 minutes**.
-- Non-Classé: mine terminé en **plus de 5 minutes**.
+- Non-Classé: mine terminée en **plus de 5 minutes**.
 
 ### **Récompenses et avantages**
 
