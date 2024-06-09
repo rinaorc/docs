@@ -24,7 +24,7 @@ est aléatoire, il est donc conseillé de ne changer de rareté de robot que sur
 
 ![](../ressources/robots/robots_forge.png)
 
-Par exemple, deux robots d'une rareté Rare, avec une étoile chacun vous donneront un robot Rare avec deux étoiles avec un petit boost de statistiques.
+Par exemple, sur l'image ci-dessus, il vous faut 878 microprocesseurs pour améliorer ce robot 1 étoile et lui conférer une deuxième étoile, qui lui octroiera un bonus d'XP de pioche plus conséquent.
 
 ## **➺** Quelles sont les différences entre les raretés ?
 
