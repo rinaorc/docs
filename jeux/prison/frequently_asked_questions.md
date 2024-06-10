@@ -40,3 +40,8 @@ La **Chance Critique d'Enchantements** est une statistique qui vous donne une ch
 > **Mon inventaire est plein, comment puis-je libérer de l'espace ?**
 
 Vous pouvez recycler vos armures et gemmes auprès du **forgeron** _(/forge)_ en échange de fragments d'étoile. Tout le reste (robots non-désirables, pommes dorées, armures de pvp et armures de départ) doit être supprimé via la **poubelle** _(/trash)_. Il est important de noter que les objets forment une file et ne se suppriment que si vous excédez cette file ou que vous vous déconnectez, afin d'éviter un accident et la perte d'un objet que vous souhaitiez garder. Les **blocs que vous minez** s'accumulent dans un **Sac** différent de votre inventaire (icône du coffre). Si celui-ci affiche "plein", il se videra progressivement grâce à la fonction "Vente Automatique" que vous pouvez améliorer.
+
+> **J'ai gagné des titres dans le /pass, comment les mettres ?**
+
+Grâce à la commande **/titles**, vous pouvez lister les titres disponible dans le prison.
+Actuellement il y a les titres suivants : Fondateur et Pionnier

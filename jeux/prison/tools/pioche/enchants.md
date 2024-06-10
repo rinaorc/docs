@@ -8,6 +8,7 @@ Cette page a pour but de vous présenter les différents enchantements possibles
 
 | Enchantement        | Niveau requis | Description                                                                                                                              |
 | ------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Nuke                | 0             | Déclenche un déluge de TNT dans votre mine !                                                                                             |
 | Fortune             | 0             | Permet d'obtenir plusieurs blocs en n'en cassant qu'un seul (n'affecte que les RinaCoins).                                               |
 | Efficacité          | 0             | Permet de casser les blocs plus rapidement.                                                                                              |
 | Chercheur de tokens | 5             | Permet d'obtenir plus de tokens en cassant les blocs.                                                                                    |

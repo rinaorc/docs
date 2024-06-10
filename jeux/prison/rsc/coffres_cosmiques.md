@@ -10,7 +10,7 @@ Cette page à comme objectif de vous apprendre comment obtenir des coffres cosmi
 
 > **Les Coffres Cosmiques, c'est quoi?**
 
-Les **Coffres Cosmiques** sont des récompenses qui se stackent sous forme de **clés**. Ils ne peuvent être obtenus qu'en **minant** ou en en achetant directement sur la [boutique Rinaorc](https://store.rinaorc.com/). L'obtention d'un coffre cosmique se fait de manière semi-aléatoire, attendez-vous à en recevoir un tous les 3500 à **5000 blocs physiques minés**.
+Les **Coffres Cosmiques** sont des récompenses qui se stackent sous forme de **clés**. Ils ne peuvent être obtenus qu'en **minant** ou en en achetant directement sur la [boutique Rinaorc](https://store.rinaorc.com/). L'obtention d'un coffre cosmique se fait de manière semi-aléatoire, attendez-vous à en recevoir un environ tous les **6000 blocs physiques minés**.
 
 > **Récompenses**
 
@@ -33,15 +33,15 @@ Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en 
 | 400 Beacons                              | 500 Beacons                              | 750 Beacons                                  |
 | +1 niveau max Jackhammer                 | 5x +1 niveau max Jackhammer              | x                                            |
 | +1 niveau max Explosion                  | 5x +1 niveau max Explosion               | x                                            |
-| x                                        | 5x +1 niveau max Excavation              | x                                            |
-| x                                        | x                                        | +100 niveaux max Nuke                        |
+| x                                        | 5x +1 niveau max Excavation              | +100 niveaux max Nuke                        |
 | 10 apparitions d'objets (gemmes/armures) | 25 apparitions d'objets (gemmes/armures) | 50 apparitions d'objets                      |
 | 1 Fragment d'Artéfacts                   | 5 Fragments d'Artéfacts                  | 10 Fragments d'artéfacts                     |
 | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)      |
-| Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                    |
-| x                                        | x                                        | Rang GALACTIQUE (**RARE**)                   |
+| Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang GALACTIQUE (**RARE**)                    |
 
-Il n'y a pas de rareté dans les récompenses, mais certaines sont plus profitables que d'autres comme les **Beacons** ou les **Fragments d'Artéfacts**. Les **Coffres Cosmiques** sont un outil clé pour progresser dans le Prison. Ils vous récompensent simplement pour le fait de **miner** et donnent des récompenses non négligeables (les fragments d'artéfacts n'étant pour le moment disponibles que dans ces coffres ou via le kit Voyageur de la boutique pour les joueurs Free to Play).
+
+Comme vu sur le tableau, certaines récompenses sont plus profitable que d'autres telles que les beacons, capsules, apparaitions d'objets, fragments d'artéfact ou encore des grades.  
+Les **Coffres Cosmiques** sont importante dans votre progression, qui vous offrira certains boosts voir des artéfacts ou des grades au long terme.
 
 > **Coffres Cosmiques du PASS**
 
