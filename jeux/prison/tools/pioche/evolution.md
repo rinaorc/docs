@@ -1,4 +1,4 @@
-# ⛏️ Évolutions
+# 💎 Évolutions
 
 {% hint style="info" %}
 Votre pioche peut être amenée à évoluer à différents moments, cette page a pour but de vous expliquer quels sont les bénéfices de l'évolution et quand elle évolue.
@@ -10,8 +10,11 @@ Lorsque votre pioche évolue vous gagnez des avantages conséquents. Jusqu'à l'
 
 ## **➺** A quel moment ma pioche évolue-t-elle ?
 
-Votre pioche sera amenée à évoluer à quelques reprises, elle évolue en fonction du nombre de blocs minés. (Entre une évolution, il y a trois micros évolution qui améliorent légèrement vos statistiques actuelles).\
-**Note**: les valeurs indiquées ci-dessous sont approximatives car l'évolution de pioche peut varier de quelques milliers de blocs selon les joueurs.
+Votre pioche sera amenée à évoluer à quelques reprises, elle évolue en fonction du nombre de blocs minés. (Entre une évolution, il y a trois micros évolution qui améliorent légèrement vos statistiques actuelles).
+
+{% hint style="warning" %}
+&#x20;les valeurs indiquées ci-dessous sont approximatives car l'évolution de pioche peut varier de quelques milliers de blocs selon les joueurs.
+{% endhint %}
 
 | Rareté       | Valeur           |
 | ------------ | ---------------- |

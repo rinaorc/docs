@@ -14,11 +14,10 @@ Les **Coffres Cosmiques** sont des récompenses qui se stackent sous forme de **
 
 > **Récompenses**
 
-Il existe **3 raretés différentes de Coffres Cosmiques**, qui peuvent être obtenues en minant.
-Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en octroient une au hasard parmi la liste suivante :
+Il existe **3 raretés différentes de Coffres Cosmiques**, qui peuvent être obtenues en minant. Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en octroient une au hasard parmi la liste suivante :
 
 | Lunaire - Tier 1 (1 étoile)              | Astral - Tier 2 (2 étoiles)              | Nébuleux - Tier 3 (3 étoiles)                |
-| ---------------------------------------- |------------------------------------------|----------------------------------------------|
+| ---------------------------------------- | ---------------------------------------- | -------------------------------------------- |
 | Sac de Rinacoins Commun                  | Sac de Rinacoins Rare                    | Sac de Rinacoins Légendaire                  |
 | Sac de Rinacoins Rare                    | Sac de Rinacoins Epique                  | Sac de Rinacoins Mythique                    |
 | Sac de Rinacoins Epique                  | Sac de Rinacoins Légendaire              | Sac de Rinacoins Primordial                  |
@@ -37,14 +36,13 @@ Les **Coffres Cosmiques** proposent un panel divers de récompenses, et vous en 
 | 10 apparitions d'objets (gemmes/armures) | 25 apparitions d'objets (gemmes/armures) | 50 apparitions d'objets                      |
 | 1 Fragment d'Artéfacts                   | 5 Fragments d'Artéfacts                  | 10 Fragments d'artéfacts                     |
 | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)      |
-| Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang GALACTIQUE (**RARE**)                    |
+| Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang GALACTIQUE (**RARE**)                   |
 
-
-Comme vu sur le tableau, certaines récompenses sont plus profitable que d'autres telles que les beacons, capsules, apparaitions d'objets, fragments d'artéfact ou encore des grades.  
+Comme vu sur le tableau, certaines récompenses sont plus profitable que d'autres telles que les beacons, capsules, appariations d'objets, fragments d'artéfact ou encore des grades.\
 Les **Coffres Cosmiques** sont importante dans votre progression, qui vous offrira certains boosts voir des artéfacts ou des grades au long terme.
 
 > **Coffres Cosmiques du PASS**
 
-Les Coffres Cosmiques obtenus dans le **pass** *(/pass)* sont différents de ceux obtenus en minant et octroient des récompenses similaires aux **Coffres Lunaires (T1)** (cf screenshot ci-dessous)
+Les Coffres Cosmiques obtenus dans le **pass** _(/pass)_ sont différents de ceux obtenus en minant et octroient des récompenses similaires aux **Coffres Lunaires (T1)** (cf GIF ci-dessous)
 
 ![](../ressources/ouverture\_coffres.gif)
