@@ -1,4 +1,4 @@
-# ⛏️ Artéfacts
+# 🧬 Artéfacts
 
 {% hint style="info" %}
 Cette page a pour but de vous expliquer comment obtenir des artéfacts.
@@ -12,6 +12,10 @@ Chaque artéfact a un effet actif et un effet passif (l'effet passif étant comm
 ## **➺** Quels sont les artéfacts ?
 
 ### Eclipse éternelle
+
+{% hint style="danger" %}
+Il n'est actuellement plus possible d'obtenir cet artéfact.&#x20;
+{% endhint %}
 
 Actif : Toutes les 20 secondes, un enchantement actif de la pioche est déclenché de manière aléatoire.\
 Cette activation se produit 2 secondes après avoir commencé à miner.\
