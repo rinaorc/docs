@@ -12,27 +12,27 @@ IMAGE COMPETENCES
 Evidemment, plus la mine est grande, plus il est difficile de la compléter. Cependant, plus vous allez être avancé dans le jeu, plus vous allez avoir des avantages (enchantements, compétences...) qui vous permettront de compléter les mines plus facilement.
 
 ## Compétences
-| Mine (chiffre/nom) | Compétences à prioriser selon nous |
-| ------------------  | ----------- |
-| 1 / Tatooth | N/A |
-| 2 / Pandoro | Ce dont vous avez besoin en priorité entre RC, tokens ou XP pioche |
-| 3 / Zygex | Fracture |
-| 4 / Hothe | Bonus de vente |
-| 5 / Endon | Trou noir |
-| 6 / Scarife | N/A |
-| 7 / Kaminoth | Fragments d'artéfact |
-| 8 / Aurionis | Multiclonage |
-| 9 / Vespera | N/A |
-| 10 / Cryptolithe | Geophore |
-| 11 / Géodenos | N/A |
-| 12 / Ferraxon | Ce dont vous avez besoin en priorité entre RC, tokens ou XP pioche |
-| 13 / Crystara | Vente de 50% du sac |
-| 14 / Galamin | Vitesse de déplacement et de minage des clones |
-| 15 / Telluris | Geophore |
-| 16 / Astromine | N/A |
-| 17 / Veinatia | Explosion / Excavation |
-| 18 / Pyritar | Nuke |
-| 19 / Ombrion | N/A |
-| 20 / Quartzara | Effet Excavation! |
+| Mine (chiffre/nom) | Taille | Compétences à prioriser selon nous |
+| ------------------  | ------- | ---------------------------------|
+| 1 / Tatooth | 21x21 | N/A |
+| 2 / Pandoro | 41x41 | Ce dont vous avez besoin en priorité entre RC, tokens ou XP pioche |
+| 3 / Zygex | 61x61 | Fracture |
+| 4 / Hothe | 81x81 | Bonus de vente |
+| 5 / Endon | 101x101 |Trou noir |
+| 6 / Scarife | 121x121 | N/A |
+| 7 / Kaminoth | 141x141 | Fragments d'artéfact |
+| 8 / Aurionis | 161x161 | Multiclonage |
+| 9 / Vespera | 181x181 | N/A |
+| 10 / Cryptolithe | 201x201 | Geophore |
+| 11 / Géodenos | 221x221 | N/A |
+| 12 / Ferraxon | 241x241 | Ce dont vous avez besoin en priorité entre RC, tokens ou XP pioche |
+| 13 / Crystara | 261x261 | Vente de 50% du sac |
+| 14 / Galamin | 281x281 | Vitesse de déplacement et de minage des clones |
+| 15 / Telluris | 301x301 | Geophore |
+| 16 / Astromine | 321x321 | N/A |
+| 17 / Veinatia | 341x341 | Explosion / Excavation |
+| 18 / Pyritar | 361x361 | Nuke |
+| 19 / Ombrion | 381x381 | N/A |
+| 20 / Quartzara | 401x401 | Effet Excavation! |
 
 Ces choix sont purement subjectifs, si vous trouvez une autre compétence plus adapté à votre style de jeu prenez là et testez !
