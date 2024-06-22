@@ -1,15 +1,18 @@
 # ⌛ Les Mines Temporelles
-Cette page a pour but d'expliquer le principe des mine temporelles
+{% hint style="info" %}
+Cette page a pour but d'expliquer le principe des mines temporelles
+{% endhint %}
+
 ## Introduction
-En faisant **/mine travel**, il vous sera possible de vous déplacer dans toutes les mines que vous avez débloquées. A la complétion de celles-ci, vous recevrez une médaille, plus ou moins rare, en fonction du temps que vous avez mis pour miner 90% de la mine (miner jusqu'à 10%)
+En faisant **/mine travel**, il vous sera possible de vous déplacer dans toutes les mines que vous avez débloquées. À la complétion de celles-ci, vous recevrez une médaille, plus ou moins rare, en fonction du temps que vous avez mis pour miner 90% de la mine (miner jusqu'à 10%)
 
-IMAGES MEDAILLES
+![](./ressources/minetemporel/medailles.png)
 
-Si vous obtenez la médaille d'or (miner 90% de la mine en moins de 2 minutes) vous débloquerez un choix de compétences dans le **/mine time**. Il faudrat choisir 1 des 3 compétences ! Pas d'inquiétudes, si vous faites un mauvais choix, il vous sera toujours possible de changer la compétence choisie en dépensant 10.000 beacons.
+Si vous obtenez la médaille d'or (miner 90% de la mine en moins de 2 minutes) vous débloquerez un choix de compétences dans le **/mine time**. Il faudra choisir 1 des 3 compétences ! Pas d'inquiétudes, si vous faites un mauvais choix, il vous sera toujours possible de changer la compétence choisie en dépensant 10.000 beacons.
 
-IMAGE COMPETENCES
+![](./ressources/minetemporel/competences.png)
 
-Evidemment, plus la mine est grande, plus il est difficile de la compléter. Cependant, plus vous allez être avancé dans le jeu, plus vous allez avoir des avantages (enchantements, compétences...) qui vous permettront de compléter les mines plus facilement.
+Évidemment, plus la mine est grande, plus il est difficile de la compléter. Cependant, plus vous allez être avancé dans le jeu, plus vous allez avoir des avantages (enchantements, compétences...) qui vous permettront de compléter les mines plus facilement.
 
 ## Compétences
 | Mine (chiffre/nom) | Taille | Compétences à prioriser selon nous |
@@ -35,4 +38,7 @@ Evidemment, plus la mine est grande, plus il est difficile de la compléter. Cep
 | 19 / Ombrion | 381x381 | N/A |
 | 20 / Quartzara | 401x401 | Effet Excavation! |
 
-Ces choix sont purement subjectifs, si vous trouvez une autre compétence plus adapté à votre style de jeu prenez là et testez !
+{% hint style="warning" %}
+Ces choix sont purement subjectifs, si vous trouvez une autre compétence plus adaptée à votre style de jeu, prenez là et testez !
+{% endhint %}
+
