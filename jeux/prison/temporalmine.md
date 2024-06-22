@@ -6,11 +6,13 @@ Cette page a pour but d'expliquer le principe des mines temporelles
 ## Introduction
 En faisant **/mine travel**, il vous sera possible de vous déplacer dans toutes les mines que vous avez débloquées. À la complétion de celles-ci, vous recevrez une médaille, plus ou moins rare, en fonction du temps que vous avez mis pour miner 90% de la mine (miner jusqu'à 10%)
 
-![](./ressources/minetemporel/medailles.png)
+![](./ressources/minetemporel/medailles.png)  
+
 
 Si vous obtenez la médaille d'or (miner 90% de la mine en moins de 2 minutes) vous débloquerez un choix de compétences dans le **/mine time**. Il faudra choisir 1 des 3 compétences ! Pas d'inquiétudes, si vous faites un mauvais choix, il vous sera toujours possible de changer la compétence choisie en dépensant 10.000 beacons.
 
-![](./ressources/minetemporel/competences.png)
+![](./ressources/minetemporel/competences.png)  
+
 
 Évidemment, plus la mine est grande, plus il est difficile de la compléter. Cependant, plus vous allez être avancé dans le jeu, plus vous allez avoir des avantages (enchantements, compétences...) qui vous permettront de compléter les mines plus facilement.
 
