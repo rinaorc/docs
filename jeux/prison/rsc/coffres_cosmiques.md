@@ -44,7 +44,7 @@ Les **Coffres Cosmiques** sont importants pour votre progression, ils vous offri
 
 > **Chances de Drop**
 
-Chances de Base: Tier 1 94% / Tier 2 5% / Tier 3 1%
+Chances de Base: Tier 1 94% / Tier 2 5% / Tier 3 1%    
 Avec Keyfinder Pro 3000 niveau max : Tier 1 50% / Tier 2 40% / Tier 3 10%
 
 > **Coffres Cosmiques du PASS**
