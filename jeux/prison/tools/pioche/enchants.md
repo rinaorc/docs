@@ -28,7 +28,7 @@ Cette page a pour but de vous présenter les différents enchantements possibles
 | Géosphore           | 225           | Ronge les blocs de votre mine dans une direction aléatoire                                                               |
 | Multiclonage        | 250           | Permet d'invoquer des clones de vous-même qui minent tout en déclenchant vos enchantements.                              |
 | Fissure             | 275           | Permet de faire apparaitre fissure se forme sur vous et grandie en mangeant les blocs autour de vous.                    |
-| Kamehameha          | 300e          | Forme un rayon là où vous visez pendant le temps de l'enchantement qui détruit tout sur son passage.                     |
+| Kamehameha          | 300          | Forme un rayon là où vous visez pendant le temps de l'enchantement qui détruit tout sur son passage.                      |
 
 {% hint style="success" %}
 **NOTE Importante**: les niveaux des enchantements **Jackhammer, Explosion, Excavation et Nuke (Uniquement coffre nébuleux)** peuvent excéder leur limite de niveau grâce aux [coffres cosmiques](../../rsc/coffres\_cosmiques.md).
@@ -49,6 +49,6 @@ Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur c
 | Astre-Céleste            | 150                       | Permet de faire apparaître au-dessus de votre mine un astre qui aspire de nombreux blocs.                           |
 | Gemmologue stellaire     | 200                       | Permet de débloquer la deuxième ligne de gemmes de votre pioche (1 emplacement de gemme supplémentaire par niveau). |
 | Transcendance Galactique | 500                       | Permet d'améliorer globalement les statistiques de votre pioche.                                                    |
-| KeyFinder Pro 300        | ?                         | Permet d'augmenter les probabilités d'obtenir des clés plus rares.                                                   |
+| KeyFinder Pro 3000       | ?                         | Permet d'augmenter les probabilités d'obtenir des clés plus rares.                                                   |
 | StellarClean X5000       | ?                         | Permet de faure apparaître des mini-balises qui permettent de vendre automatiquement une partie des blocks de votre inventaire|
 
