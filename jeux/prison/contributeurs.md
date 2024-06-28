@@ -9,5 +9,6 @@ Cette page recense les différentes personnes à avoir participé à la créatio
 * Fellnia
 * Tchouraa
 * herliste
-* HeIsGood
+* HeWaitsForAdrien
 * KneaXy
+* Voxid

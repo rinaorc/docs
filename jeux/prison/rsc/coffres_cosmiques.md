@@ -28,8 +28,8 @@ Il existe **3 raretés différentes de Coffres Cosmiques**, qui peuvent être ob
 | 1 ADN d'Oeufs                            | 5 ADN d'Oeufs                            | 15 ADN d'Oeufs                               |
 | 1 capsule temporelle                     | 3 capsules temporelles                   | 10 capsules temporelles                      |
 | 1 capsule de durabilité                  | 2 capsules de durabilité                 | 3 capsules de durabilité                     |
-| 150 Beacons                              | 200 Beacons                              | 250 Beacons                                  |
-| 400 Beacons                              | 500 Beacons                              | 750 Beacons                                  |
+| 150 Beacons                              | 400 Beacons                              | 750 Beacons                                  |
+| 250 Beacons                              | 750 Beacons                              | 1200 Beacons                                  |
 | +1 niveau max Jackhammer                 | 5x +1 niveau max Jackhammer              | x                                            |
 | +1 niveau max Explosion                  | 5x +1 niveau max Explosion               | x                                            |
 | x                                        | 5x +1 niveau max Excavation              | +100 niveaux max Nuke                        |
@@ -37,9 +37,15 @@ Il existe **3 raretés différentes de Coffres Cosmiques**, qui peuvent être ob
 | 1 Fragment d'Artéfacts                   | 5 Fragments d'Artéfacts                  | 10 Fragments d'artéfacts                     |
 | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)  | 1 Ticket de rename de pioche (**RARE**)      |
 | Rang SUPERNOVA (**RARE**)                | Rang SUPERNOVA (**RARE**)                | Rang GALACTIQUE (**RARE**)                   |
+| x                                        | Rang **GALACTIQUE** (**RARE**)           | Rang COSMIQUE (**TRES RARE**)
 
 Comme vu sur le tableau, certaines récompenses sont plus profitable que d'autres telles que les beacons, capsules, appariations d'objets, fragments d'artéfact ou encore des grades.\
-Les **Coffres Cosmiques** sont importante dans votre progression, qui vous offrira certains boosts voir des artéfacts ou des grades au long terme.
+Les **Coffres Cosmiques** sont importants pour votre progression, ils vous offriront certains boosts voire des artéfacts ou des grades sur le long terme.
+
+> **Chances de Drop**
+
+Chances de Base: Tier 1 94% / Tier 2 5% / Tier 3 1%    
+Avec Keyfinder Pro 3000 niveau max : Tier 1 50% / Tier 2 40% / Tier 3 10%
 
 > **Coffres Cosmiques du PASS**
 

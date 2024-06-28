@@ -8,7 +8,8 @@ Cette page a pour but de vous expliquer comment obtenir des objets (Armures & Ge
 
 Pour obtenir des objets, il vous suffit de miner dans votre mine, vous obtenez un objet en moyenne tous les 100 blocs minés. Vous obtenez aléatoirement une des six gemmes existantes (Rubis, Topaz, Améthyste, Saphire, Émeraude, Opale) ou une pièce d'armure.
 
-L'objet alors obtenu possédera une rareté, allant de Normal à Transcendant.
+L'objet alors obtenu possédera une rareté, allant de Normal à Transcendant.\
+Une rareté supérieur à transcendant pourrait voir le jour. On sait qu'elle ne s'appliquera pas aux objects que nous connaissons aujourd'hui.&#x20;
 
 {% hint style="success" %}
 Le scanner est l'outil définissant la rareté des objets que vous allez obtenir, pour en savoir plus, [cliquez ici](../tools/scanner.md).

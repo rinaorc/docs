@@ -58,7 +58,7 @@ Retrouvez ci-dessous la quantité de fragments requis pour améliorer votre scan
 | Niveau 25      | 20.80M | TRANSCENDANT    |
 | Niveau 26      | 30M    | TRANSCENDANT    |
 | Niveau 27      | 50M    | TRANSCENDANT    |
-| Niveau 28      | TBA    | TRANSCENDANT    |
+| Niveau 28      | 75M    | TRANSCENDANT    |
 | Niveau 29      | TBA    | TRANSCENDANT    |
 
 {% hint style="info" %}
