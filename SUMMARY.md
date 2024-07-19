@@ -36,6 +36,7 @@
   * [🧪 Invocations](jeux/prison/invocations/README.md)
     * [🐈 Pets](jeux/prison/invocations/pets.md)
     * [🤖 Robots](jeux/prison/invocations/robot.md)
+  * [⌛ Mines Temporels](jeux/prison/temporalmine.md)
   * [🖋️ Contributeurs](jeux/prison/contributeurs.md)
 
 ## 💻 Développeurs
