@@ -59,7 +59,7 @@ Retrouvez ci-dessous la quantité de fragments requis pour améliorer votre scan
 | Niveau 26      | 30M    | TRANSCENDANT    |
 | Niveau 27      | 50M    | TRANSCENDANT    |
 | Niveau 28      | 75M    | TRANSCENDANT    |
-| Niveau 29      | TBA    | TRANSCENDANT    |
+| Niveau 29      | 100M   | TRANSCENDANT    |
 
 {% hint style="info" %}
 On ne sait pas quand, mais il paraitrait qu'une rareté au-dessus de transcendant pourrait bientôt existé.
