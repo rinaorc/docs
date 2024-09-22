@@ -15,4 +15,5 @@
 ![](../ressources/exploration/planete_flora.png)
 
 La planète Flora vous permet d'accéder au monde de minage de l'exploration.
+
 Au sein de cette planète, pour pourrais trouver des trésors, farmer des blocs pour construire dans votre cellule, et améliorer votre multitool.
