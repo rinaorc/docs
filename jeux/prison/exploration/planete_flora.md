@@ -11,3 +11,7 @@
   {% endhint %}
 
   Pour accéder à la planète Flora, il vous suffit simplement d'effectuer la commande /explo, puis de cliquer sur la planète bleue.
+
+![](../ressources/exploration/planete_flora.png)
+
+La planète Flora vous permet d'accéder au monde de minage de l'exploration.
