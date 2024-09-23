@@ -12,3 +12,5 @@ Cette page recense les différentes personnes à avoir participé à la créatio
 * HeWaitsForAdrien
 * KneaXy
 * Voxid
+* ArzoxX_
+* Shadoower
