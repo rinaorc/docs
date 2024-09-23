@@ -16,4 +16,4 @@ Cette page a pour but de vous expliquer les loots disponibles en monde explorati
 
 * Les trésors ont une meilleure chance d'être trouvés à l'aide de l'enchantement [chercheur de trésor](enchantement.md).
 
-* Les trésors sont indispensable pour améliorer votre [sac de bloc](sac_bloc.md) et pour améliorer les compétences dans votre [gang](gang.md).
+* Les trésors sont indispensable pour améliorer votre [sac de bloc](exploration_bag.md) et pour améliorer les compétences dans votre [gang](gangs.md).
