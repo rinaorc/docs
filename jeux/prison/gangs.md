@@ -60,7 +60,7 @@ Cette compétence permet d'augmenter les stats que vous avez pour le PvE.
 
 ### Compétence Taille plot gang (SOON)
 
-Cette compétence permet d'aggrandir la taille de votre plot de gang.
+Cette compétence permet d'agrandir la taille de votre plot de gang.
 
 ### Compétence Vie supplémentaire (SOON)
 
