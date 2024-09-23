@@ -12,9 +12,7 @@ Cette page a pour but de présenter les différents enchantements possible pour 
 | Efficacité          | 100            | Permet de casser les blocs plus rapidement.                                                                                 |
 | Chercheur de trésors    | 10         | Permet de casser une zone autour de vous. |                                               
 
-{% hint style="info"%}
 Vous obtenez 1 niveau d'enchantement de votre choix pour fortune, efficacité et excavation, tout les 10 niveaux de votre pioche.
-{% endhint %}
 
 ## **➺** Enchantements disponibles avec des prestiges
 
