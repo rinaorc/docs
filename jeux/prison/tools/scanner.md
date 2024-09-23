@@ -1,7 +1,7 @@
 # 🪀 Scanner
 
 {% hint style="info" %}
-Le scanner est un outil utilisable en utilisant la commande /scanner. Il permet d'obtenir des objets rares (armures ou gemmes) ainsi que des schémas de robots, des ADN d'oeufs et des coffres cosmiques.
+Le scanner est un outil utilisable en utilisant la commande /scanner. Il permet d'obtenir des objets rares (armures ou gemmes).
 {% endhint %}
 
 ## **➺** Comment l'améliorer ?
@@ -62,5 +62,5 @@ Retrouvez ci-dessous la quantité de fragments requis pour améliorer votre scan
 | Niveau 29      | 100M   | TRANSCENDANT    |
 
 {% hint style="info" %}
-On ne sait pas quand, mais il paraitrait qu'une rareté au-dessus de transcendant pourrait bientôt existé.
+On ne sait pas quand, mais il paraitrait qu'une rareté au-dessus de transcendant pourrait bientôt exister.
 {% endhint %}
