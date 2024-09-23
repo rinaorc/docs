@@ -19,4 +19,4 @@ Vous obtenez 1 niveau d'enchantement de votre choix pour fortune, efficacité et
 | Enchantement        | Niveau max disponible | Description                                                                                                              |
 | ------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Chercheur de clés   | 10             | Permet d'obtenir des clés de coffres cosmiques en minant.                                                                                                                             |
-| Excavation          | 2             | Permet de casser une zone autour de vous.                                                   
+| Excavation          | 2             | Permet de casser une zone autour de vous. |                                                  
