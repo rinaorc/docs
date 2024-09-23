@@ -10,10 +10,10 @@
   L'exploration est accessible à partir du niveau 50.
   {% endhint %}
 
-  Pour accéder à la planète Flora, il vous suffit simplement d'effectuer la commande /explo, puis de cliquer sur la planète bleue.
+  Pour accéder à la planète Flora, il vous suffit d'effectuer la commande /exploration ou /explo, puis de cliquer sur la planète bleue.
 
 ![](../ressources/exploration/planete_flora.png)
 
 La planète Flora vous permet d'accéder au monde de minage de l'exploration.
 
-Au sein de cette planète, vous pourrez trouver des trésors, farmer des blocs pour construire dans votre cellule, et améliorer votre multitool.
+Au sein de cette planète, vous pourrez trouver des trésors, améliorer votre multitool et collecter des blocs pour construire dans votre cellule.
