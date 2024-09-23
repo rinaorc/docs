@@ -7,7 +7,7 @@
   ## **➺** Comment accéder à la planète Flora ?
 
   {%hint style ="warning"%}
-  L"exploration ne s'effectue qu'à partir du niveau 50.
+  L'exploration est accessible à partir du niveau 50.
   {% endhint %}
 
   Pour accéder à la planète Flora, il vous suffit simplement d'effectuer la commande /explo, puis de cliquer sur la planète bleue.
