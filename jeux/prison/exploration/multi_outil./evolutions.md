@@ -1,7 +1,7 @@
 # 💎 Évolutions
 
 {% hint style="info" %}
-Votre multi-outil d'exploration peut être amenée à évoluer à différents moments, cette page a pour but de vous expliquer quels sont les bénéfices de l'évolution et quand elle évolue.
+Votre multi-outil d'exploration peut être amené à évoluer à différents moments, cette page a pour but de vous expliquer quels sont les bénéfices de l'évolution et quand elle évolue.
 {% endhint %}
 
 {%hint style="info"%}
