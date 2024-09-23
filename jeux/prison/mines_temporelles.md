@@ -3,10 +3,12 @@
 
 ### **Les mines temporelles, c'est quoi?**
 
-Les **mines temproelles** sont des défis contre-la-montre qui se déroulent dans votre mine. Il existe **20 niveaux** de mines temporelles, de Tatooth (la plus petite mine) à Quartzara (la mine la plus grande). Pour arrêter le chronomètre et inscrire votre score, vous devez miner **75% de votre  
+Les **mines temproelles** sont des défis contre-la-montre qui se déroulent dans votre mine. Il existe **20 niveaux** de mines temporelles, de Tatooth (la plus petite mine) à Quartzara (la mine la plus grande). Pour arrêter le chronomètre et inscrire votre score, vous devez miner **90% de votre  
 mine** à l'aide de vos enchantements. **Vous pouvez réinitialiser le chronomètre en réinitialisant votre mine** *(/mine reset)*.
 
-Il existe 4  classifications pour chaque mine:
+Il existe 6  classifications pour chaque mine:
+- Médaille de Légende : mine terminée en moins de **30 secondes**
+- Médaille de Diamant : mine terminée en moins de **1 minute**
 - Médaille  d'Or: mine terminée en moins de **2 minutes**.
 - Médaille d'Argent: mine terminée en moins de **3 minutes**.
 - Médaille de Bronze: mine terminée en moins de **5 minutes**.
