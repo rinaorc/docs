@@ -10,6 +10,8 @@ Cette page a pour but de vous expliquer les loots disponibles en monde explorati
 
 *  **TNT** : La TNT créée une petite explosion dans une zone de 3 x 3. Elle agit tel un projectile, elle est projeté dans la direction que vous pointez au moment du clique droit
 
+![](../ressources/exploration/creeper.png)   ![](../ressources/exploration/tnt.png)
+
 ## **➺** Trésor
 
 * Ils se trouvent dans le monde exploration. Les trésors permettent d'améliorer vos [cellules](COMPLETER).
@@ -17,3 +19,5 @@ Cette page a pour but de vous expliquer les loots disponibles en monde explorati
 * Les trésors ont une meilleure chance d'être trouvés à l'aide de l'enchantement [chercheur de trésor](mo/enchantements.md).
 
 * Les trésors sont indispensables pour améliorer votre [sac de bloc](exploration_bag.md) et pour améliorer les compétences dans votre [gang](../gangs.md).
+
+![](../ressources/exploration/tresor.png)
