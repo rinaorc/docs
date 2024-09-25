@@ -6,18 +6,21 @@ Cette page a pour but de vous expliquer comment obtenir des pets, comment procé
 
 ## **➺** Comment obtenir des pets ?
 
-Pour obtenir des pets, vous avez besoin d'obtenir premièrement des "ADN d'Oeuf", ils permettent d'invoquer de nouveaux pets à partir de la commande /voeux.\
-Vous pouvez en invoquer 5 en cliquant dessus avec le clic gauche, et 15 avec le clic droit.
+Vous pouvez les obtenirs directement dans les crates (/crates).
+Les crates donne pas des pets aléatoire:
 
-{% hint style="success" %}
-Néanmoins, nous vous conseillons d'attendre d'avoir 13 ADN pour économiser.
+| Crates      | Pets obtenable           |
+| ------------ | ---------------- |
+| Vote       | Moustique, Cochon   |
+| Lunaire         | Souris, Pigeon, Grenouille, Hibou arc-en-ciel    |
+| Astral       | Panda, Lapin    |
+| Nébuleux   | Tortue, Taupe, Renard |
+| Familiers  | Renard, Tortue, Taupe, Gorille, Chat, Requin, Pengouin, Phoenix, Abeille, Ours, Mamouth, Wumpus, Axolotl, Rocket, Doge, Elephant cosmique, Loup Enflammé  |
+
+{% hint style="warning" %}
+&#x20;Les crates Familiers peuvent uniquement s'obtenir dans les coffres cosmiques (peut importe lequel) ainsi que dans le pass galactique
 {% endhint %}
 
-![](../ressources/pets/VoeuxPetsRedem.png)
-
-Vous pouvez obtenir ces derniers en minant, dans les coffres cosmiques, mais aussi dans le /afk et dans le /pass. Une fois invoqués, les pets seront dans votre inventaire.
-
-![](../ressources/pets/PetsINVRedem.png)
 
 **Pour les rendre actifs, il faut les faire rentrer dans l'enclos (/pet) ↓**
 
@@ -33,9 +36,6 @@ Une fois les pets absorbés dans l'enclos, un message s'afficheras dans le chat:
 
 ## **➺** Comment améliorer des pets ?
 
-Comme pour les objets, les robots possèdent, eux aussi, une rareté. En augmentant son niveau d'expertise dans le /voeux à force de créer de nouveaux robots, la rareté des robots obtenables augmente (la rareté fonctionne de manière similaire à celle du scanner).
-
-\
 Pour améliorer le niveaux des pets, vous pouvez augmenter leur expérience en minant (1 à 3 pets selon votre rang (/rang) dans l'incubateur du menu /pet) ou en mettant dans l'enclos un pet que vous avez déjà, cela lui fera gagner de l'xp.
 
 ## **➺** Quels sont les différences entre chaque pets ?
