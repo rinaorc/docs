@@ -10,7 +10,10 @@ Cette page a pour but de vous expliquer les loots disponibles en monde explorati
 
 *  **TNT** : La TNT créée une petite explosion dans une zone de 3 x 3. Elle agit tel un projectile, elle est projeté dans la direction que vous pointez au moment du clique droit
 
-![](../ressources/exploration/creeper.png)   ![](../ressources/exploration/tnt.png)
+*  **Quake Gun** : Cette houe vous permet de lancer des rayons qui détruisent les blocs que vous visés. La houe a une durabilité de 8.
+
+![](../ressources/exploration/creeper.png)   ![](../ressources/exploration/tnt.png)  
+![](../ressources/exploration/Quakegun.png)
 
 ## **➺** Trésor
 
