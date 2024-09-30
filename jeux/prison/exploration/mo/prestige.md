@@ -35,5 +35,5 @@ Votre multi-outil va également evoluer en fonction du niveau d'xp maximum qu'il
 Votre multi-outil va pouvoir gagner en [prestige](prestige.md) à la fin de chaque niveau maximum.
 
 {%hint style="warning"%}
-Vous ne perdez ni vos enchantements, ni vos niveaux de multi-outil quand vous améliorer celui-ci de prestige.
+Vous ne perdez ni vos enchantements, ni vos niveaux de multi-outil quand vous améliorez celui-ci de prestige.
 {% endhint %}
