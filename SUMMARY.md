@@ -30,6 +30,7 @@
       * [🧬 Artéfacts](jeux/prison/tools/pioche/artefacts.md)
     * [🪀 Scanner](jeux/prison/tools/scanner.md)
     * [🔑 Sac de clefs](jeux/prison/tools/key_bag.md)
+  * [👥 Gangs](jeux/prison/gangs.md)
   * [🌍 Exploration](jeux/prison/exploration/README.md)
     * [⛏️ Multi-Outil](jeux/prison/exploration/mo/README.md)
       * [📖 Catalogue](jeux/prison/exploration/mo/catalogue.md) 
