@@ -5,33 +5,12 @@
 
 | Blocks      | XP (pioche) |Trésors |TNT Exploration|Creeper|Quake Gun|
 | ------------ | --------- |---------|---------|---------|---------|
-|Lianes  
-Terre   
-Bloc d'herbe 
-Feuilles 
-Sable
-Champignon
-Cactus
-Neige
-Verre|    1XP    | 0.005%  |  0.015% | 0.00375%| 0.00187%|
-
-|Roche
-Pierres
-Laine
-Argile
-Glace
-Gravier
-Mycélium|    2XP    | 0.01%   |  0.03%  | 0.0075% | 0.00375%|
-
-|Éponge  
-Grès  |    3XP    | 0.015%  |  0.045% | 0.01125%| 0.00562%|
-
+|Lianes, Terre, Bloc d'herbe, Feuilles, Sable, Champignon, Cactus, Neige, Verre|    1XP    | 0.005%  |  0.015% | 0.00375%| 0.00187%|
+|Roche, Pierres, Laine, Argile, Glace, Gravier, Mycélium|    2XP    | 0.01%   |  0.03%  | 0.0075% | 0.00375%|
+|Éponge, Grès  |    3XP    | 0.015%  |  0.045% | 0.01125%| 0.00562%|
 |Glace Compactée|    5XP    | 0.025%  |  0.075% | 0.01875%| 0.00938%|
 |Argile durcie |    8XP    |  0.04%  |  0.12%  | 0.03%   | 0.015%  |
-
-|Pierres moussues
-Bois |   10XP  |  0.05%  |  0.15%  | 0.0375% | 0.01875%|
-
+|Pierres moussues, Bois |   10XP  |  0.05%  |  0.15%  | 0.0375% | 0.01875%|
 |Minerais de charbon| 15XP |  0.075% | 0.225%  | 0.05625%| 0.02812%|
 |Minerais de fer|   20XP   |  0.1%   | 0.3%    | 0.075%  | 0.0375% |
 |Minerais d'or |    25XP   |  0.125% | 0.375%  | 0.09375%| 0.04688%|
