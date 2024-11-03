@@ -13,10 +13,8 @@
 |Pierres moussues, Bois |   10XP  |  0.05%  |  0.15%  | 0.0375% | 0.01875%|
 |Minerais de charbon| 15XP |  0.075% | 0.225%  | 0.05625%| 0.02812%|
 |Minerais de fer|   20XP   |  0.1%   | 0.3%    | 0.075%  | 0.0375% |
-|Minerais d'or |    25XP   |  0.125% | 0.375%  | 0.09375%| 0.04688%|
-|Minerais Redstone|           |         |         |         |         |
-|Minerais Lapis-lazuli|           |         |         |         |         |
+|Minerais d'or, Minerais Redstone, Minerais Lapis-lazuli |    25XP   |  0.125% | 0.375%  | 0.09375%| 0.04688%|
 |Minerais de diamants| 50XP| 0.25%   | 0.75%   | 0.1875% | 0.09375%|
 |Minerais d'émeraude|  75XP| 0.375%  | 1.125%  | 0.28125%| 0.14062%|
 |Obsidienne    |  100XP    | 0.5%    | 1.5%    | 0.375%  | 0.1875% |
-|              |           |         |         |         |         |
+
