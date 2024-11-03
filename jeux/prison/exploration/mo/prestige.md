@@ -19,7 +19,7 @@ Vous gagnez 1 niveau d'[enchantement](enchantement.md) tous les 10 niveaux de vo
 
 ## **➺** A quel moment mon multi-outil évolue-t-il ?
 
-Votre multi-outil possède une barre de progression d'xp qui évolue en fonction des blocs cassés. (voir le [catalogue des Blocs d'Exploration](catalogue_explo.md)
+Votre multi-outil possède une barre de progression d'xp qui évolue en fonction des blocs cassés. (voir le [catalogue des Blocs d'Exploration](catalogue_explo.md))
 
 Votre multi-outil va également evoluer en fonction du niveau d'xp maximum qu'il aura atteint :
 
