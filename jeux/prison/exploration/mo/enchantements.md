@@ -10,8 +10,7 @@ Cette page a pour but de présenter les différents enchantements possible pour 
 | ------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Fortune             | 10             | Permet d'obtenir plus de blocs en minant                                                                                    |
 | Efficacité          | 100            | Permet de casser les blocs plus rapidement.                                                                                 |
-| Chercheur de trésors    | 10         | Permet d'augmenter votre chance d'obtenir des trésors.
-                                          |                                               
+| Chercheur de trésors    | 10         | Permet d'augmenter votre chance d'obtenir des trésors. |                                               
 
 Vous obtenez 1 niveau d'enchantement de votre choix pour fortune, efficacité, chercheur de trésors ainsi que enchantements de prestige tout les 10 niveaux de votre pioche.
 
