@@ -1,4 +1,5 @@
 # 👥 Gangs
+{% hint style="info" %} Cette page a pour but d'expliquer le principe des gangs {% endhint %}
 ## Introduction
 
 Un **gang** est un groupe structuré de joueurs qui se réunissent pour collaborer et progresser ensemble dans le jeu. Chaque gang peut compter jusqu'à **8 membres** au départ, mais ce nombre peut être augmenté à **16** grâce à des améliorations spécifiques.
