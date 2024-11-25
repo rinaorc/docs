@@ -17,7 +17,7 @@ Cette page a pour but de vous expliquer les loots disponibles en monde explorati
 
 ## **➺** Trésor
 
-* Ils se trouvent dans le monde exploration. Les trésors permettent d'améliorer votre [cellule](COMPLETER).
+* Ils se trouvent dans le monde exploration. Les trésors permettent d'améliorer votre [cellule](jeux/prison/cellule.md).
 
 * Les trésors ont une meilleure chance d'être trouvés à l'aide de l'enchantement [chercheur de trésor](mo/enchantements.md).
 
