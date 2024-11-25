@@ -6,7 +6,7 @@ Cette page a pour but de vous expliquer les loots disponibles en monde explorati
 
 ## **➺** Loot consommable
 
-* **L'oeuf de creeper** : L'œuf de creeper génère une explosion semblable à celle de l'excavation. L'explosion génère une zone de 11 x 11 x 11. L'œuf de creeper se pose au sol, il est nécessaire d'avoir 2 blocks de hauteur au-dessus du block sur lequel vous faites spawn le creeper
+* **L'oeuf de creeper** : L'œuf de creeper génère une explosion semblable à celle de l'excavation. L'explosion génère une zone de 11 x 11 x 11. L'œuf de creeper se pose au sol, il est nécessaire d'avoir 2 blocs de hauteur au-dessus du bloc sur lequel vous faites spawn le creeper
 
 *  **TNT** : La TNT créée une petite explosion dans une zone de 3 x 3. Elle agit tel un projectile, elle est projeté dans la direction que vous pointez au moment du clique droit
 
