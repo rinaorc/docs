@@ -1,9 +1,9 @@
 # 🌳​ Catalogue de l'exploration
 
-{%hint style ="info"%} Cette page a pour but de présenter les différents blocks qui rapportent de l'XP & des trésors dans le monde d'exploration {% endhint %}
+{%hint style ="info"%} Cette page a pour but de présenter les différents blocs qui rapportent de l'XP & des trésors dans le monde d'exploration {% endhint %}
 
 
-| Blocks      | XP (pioche) |Trésors |TNT Exploration|Creeper|Quake Gun|
+| blocs      | XP (pioche) |Trésors |TNT Exploration|Creeper|Quake Gun|
 | ------------ | --------- |---------|---------|---------|---------|
 |Lianes, Terre, Bloc d'herbe, Feuilles, Sable, Champignon, Cactus, Neige, Verre|    1XP    | 0.005%  |  0.015% | 0.00375%| 0.00187%|
 |Roche, Pierres, Laine, Argile, Glace, Gravier, Mycélium|    2XP    | 0.01%   |  0.03%  | 0.0075% | 0.00375%|
