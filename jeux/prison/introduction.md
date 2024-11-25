@@ -23,7 +23,7 @@ Avant de rentrer dans les détails de ce mode, il faut savoir qu'il possède un 
 
 ➺ Une fois les bases acquises, entrons dans le vif du sujet. Il existe différents moyens d'augmenter ses statistiques afin de gagner davantage de RinaCoins/Tokens, mais également d'autres bonus utiles. Les voici :
 
-- **Les objets (armures/gemmes)** : En minant, vous allez obtenir des armures et des gemmes. Ce sont des objets qui permettent d'augmenter vos statistiques (que vous pouvez voir grâce à la commande /stat ou encore dans le tab du jeu). Ils peuvent vous donner un ou plusieurs bonus (dépendant de la rareté de l'objet). Ils peuvent augmenter votre bonus de RinaCoins, de Tokens, d'XP de Pioche, de Chances Critique d'Enchants ou encore de Mana. Pour plus de détails sur les objets, [cliquez-ici](rsc/objects.md).
+- **Les objets (armures/gemmes)** : En minant, vous allez obtenir des armures et des gemmes. Ce sont des objets qui permettent d'augmenter vos statistiques (que vous pouvez voir grâce à la commande /stat ou encore dans le tab du jeu). Ils peuvent vous donner un ou plusieurs bonus (dépendant de la rareté de l'objet). Ils peuvent augmenter votre bonus de RinaCoins, de Tokens, d'XP de Pioche, de Chances Critique d'Enchants ou encore de Mana. Pour plus de détails sur les objets.
 
 Pour obtenir des objets plus rares, il suffit d'améliorer son scanner. Pour plus de détails sur le scanner, [cliquez-ici](tools/scanner.md).  
 
