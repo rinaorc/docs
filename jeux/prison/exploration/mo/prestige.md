@@ -12,7 +12,7 @@ Dans cette partie du wiki concernant le multi-outil d'exploration, nous mentionn
 
 Lorsque votre multi-outil évolue vous gagner des avantages conséquents.
 
-Vous gagnez 1 niveau d'[enchantement](enchantement.md) tous les 10 niveaux de votre multi-outil. Vous commencez avec efficacité niveau 5, fortune niveau 1 et chercheur de trésors niveau 1.
+Vous gagnez 1 niveau d'[enchantement](enchantements.md) tous les 10 niveaux de votre multi-outil. Vous commencez avec efficacité niveau 5, fortune niveau 1 et chercheur de trésors niveau 1.
 
 ![](../ressources/exploration/multitool_evo.png)
 
