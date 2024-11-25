@@ -10,7 +10,7 @@ Cette page à comme objectif de vous apprendre comment obtenir des coffres cosmi
 
 > **Les Coffres Cosmiques, c'est quoi?**
 
-Les **Coffres Cosmiques** sont des récompenses qui se stackent sous forme de **clés** dans le [Sac de clefs](../tools/key_bag.md). Ils ne peuvent être obtenus qu'en **minant** ou en achetant directement sur la [boutique Rinaorc](https://store.rinaorc.com/). L'obtention d'un coffre cosmique est basé sur un pourcentage de chance par block miné, le niveau de prestige influe sur ce pourcentage.
+Les **Coffres Cosmiques** sont des récompenses qui se stackent sous forme de **clés** dans le [Sac de clefs](../tools/key_bag.md). Ils ne peuvent être obtenus qu'en **minant** ou en achetant directement sur la [boutique Rinaorc](https://store.rinaorc.com/). L'obtention d'un coffre cosmique est basé sur un pourcentage de chance par bloc miné, le niveau de prestige influe sur ce pourcentage.
 
 > **Récompenses**
 
