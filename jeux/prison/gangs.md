@@ -14,7 +14,7 @@ Il est possible d'améliorer ces compétences grâce à des **items obtenus dans
 ### Compétence de saturation (SOON)
 
 Cette compétence n'est pas encore fonctionnel, elle sera bientôt disponible.
-| Niveau de compétence | Perk                        | Coût Trésors | Coût Beacons |
+| Niveau de compétence | Compétence                        | Coût Trésors | Coût Beacons |
 |----------------------|-----------------------------|--------------|--------------|
 |                    1 | 10% de saturation en moins  |           15 |         3000 |
 |                    2 | 20% de saturation en moins  |           30 |         6000 |
@@ -30,7 +30,7 @@ Cette compétence n'est pas encore fonctionnel, elle sera bientôt disponible.
 ### Compétence Extra Slot
 
 Cette compétence permet d'augmenter la limite maximum de membres dans le gang.
-| Niveau de compétence | Perk              | Coût Beacons | Coût RinaCoins |
+| Niveau de compétence | Compétence              | Coût Beacons | Coût RinaCoins |
 |----------------------|-------------------|--------------|----------------|
 |                    1 | 1 membre en plus  |        15000 | 1T             |
 |                    2 | 1 membre en plus  |        30000 | 10T            |
@@ -41,7 +41,7 @@ Cette compétence permet d'augmenter la limite maximum de membres dans le gang.
 ### Compétence Générateur de blocs (SOON)
 
 Cette compétence permet d'augmenter le nombre de blocs produit afin de pouvoir construire votre plot de gang.
-| Niveau de compétence | Perk                             | Coût Beacons | Coût Trésors |
+| Niveau de compétence | Compétence                             | Coût Beacons | Coût Trésors |
 |----------------------|----------------------------------|--------------|--------------|
 |                    1 | Production de 5 blocs par heure  |         5000 |           20 |
 |                    2 | Production de 10 blocs par heure |        10000 |           40 |
