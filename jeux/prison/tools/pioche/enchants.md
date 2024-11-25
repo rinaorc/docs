@@ -63,7 +63,7 @@ Pour savoir comment obtenir des orbes de prestige, rendez-vous sur cette page : 
 | Geyser                | 1               | Permet de faire apparaïtre des colonnes d'eau dans votre mine qui cassent les blocks sur leurs chemins                                                       |
 | Filon Astral          | 2               | Permet de faire apparaître des filon de blocs de verre qui une fois cassé vous rapporte des fragments d'étoiles, le bénéfice dépend du niveau de votre mine. |
 | Creeper à Retardement | 3               | Permet de faire apparaître un creeper dont l'explosion dépend du nombre de blocks que vous minez entre son apparition et son explosion (3 secondes)          |
-| Votrex de Glace       | 4               | Permet de faire apparaïtre des blocks de glace qui quand ils sont cassés rapportent plus de ressources que les blocks normaux (Rinacoins, Tokens, XP pioche) |
+| Votrex de Glace       | 4               | Permet de faire apparaître des blocs de glace qui, quand ils sont cassés, rapportent plus de ressources que les blocs normaux (Rinacoins, Tokens, XP pioche) |
 | Trinité Cosmique      | 5               | Permet de déclencher 3 enchantements aléatoires débloquer sur votre pioche                                                                                   |
 | Snifer                | 10              | Permet d'obtenir un coffre cosmique lorsque vous minez                                                                                                       |
 
