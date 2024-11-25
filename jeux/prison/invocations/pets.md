@@ -6,15 +6,26 @@ Cette page a pour but de vous expliquer comment obtenir des pets, comment procé
 
 ## **➺** Comment obtenir des pets ?
 
-Vous pouvez les obtenirs directement dans les crates (/crates). Les crates donne pas des pets aléatoire:
+Vous pouvez les obtenirs dans les crates (/crates). 
+Les crates donne pas des pets aléatoire:
 
 | Crates    | Pets obtenable                                                                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Vote      | Moustique, Cochon                                                                                                                                        |
 | Lunaire   | Souris, Pigeon, Grenouille, Hibou arc-en-ciel                                                                                                            |
-| Astral    | Panda, Lapin                                                                                                                                             |
+| Astral    | Panda, Lapin, Singe                                                                                                                           |
 | Nébuleux  | Tortue, Taupe, Renard                                                                                                                                    |
-| Familiers | Renard, Tortue, Taupe, Gorille, Chat, Requin, Pengouin, Phoenix, Abeille, Ours, Mamouth, Wumpus, Axolotl, Rocket, Doge, Elephant cosmique, Loup Enflammé |
+| Familiers | Renard, Tortue, Chat, Phoenix, Pengouin, Abeille, Mamouth, Wumpus, Doge, Rocket, Loup Enflammé |
+
+Certians pets sont obtenables uniquement lors de certains event (/event):
+
+| Event    | Pets obtenable                                                                                                                                           |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bloc Communautaire      | Ours, Gorille                                                    |
+| Loterie des Contrebandiers   | Axolotl, Elephant cosmique                                                        |
+| Gâteau au Spawn    | Requin, Taupe                                                                               |
+
+
 
 {% hint style="warning" %}
 Les crates Familiers peuvent uniquement s'obtenir dans les coffres cosmiques (peut importe lequel) ainsi que dans le pass galactique
