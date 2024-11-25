@@ -1,10 +1,10 @@
 # 🔑 Sac de clés
 
 {% hint style="danger" %}
-&#x20;Si vous continuez à obtenir des clefs alors que votre sac à clef est remplit, vous perdrez vos clefs. 
+&#x20;Si vous continuez à obtenir des clés alors que votre sac à clés est rempli, vous perdrez vos clés. 
 {% endhint %}
 
-Le **sac de clés** permet de stocker les clés obtenues en minant ainsi que le pass galactique. Il peut être amélioré pour augmenter sa capacité maximale, permettant ainsi de conserver un plus grand nombre de clés.
+Le **sac de clés** permet de stocker les clés obtenues en minant ainsi que dans le pass galactique. Il peut être amélioré pour augmenter sa capacité maximale, permettant ainsi de conserver un plus grand nombre de clés.
 | Niveau du sac de clés | Stockage de clés | Prix Beacon |
 |-----------------------|------------------|-------------|
 |                     1 |               10 |           0 |
