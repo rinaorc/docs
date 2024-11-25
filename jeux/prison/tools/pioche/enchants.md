@@ -52,7 +52,7 @@ Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur c
 | KeyFinder Pro 3000       | ?                         | Permet d'augmenter les probabilités d'obtenir des clés plus rares.                                                   |
 | StellarClean X5000       | ?                         | Permet de faure apparaître des mini-balises qui permettent de vendre automatiquement une partie des blocs de votre inventaire|
 
-## **➺** Enchantements nécessitant des orbes de prestige et un niveau de prestige définit
+## **➺** Enchantements nécessitant des orbes de prestige et un niveau de prestige défini
 
 {% hint style="info" %}
 Pour savoir comment obtenir des orbes de prestige, rendez-vous sur cette page : [Noyaux](noyaux.md)
