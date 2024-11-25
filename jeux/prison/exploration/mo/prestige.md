@@ -12,7 +12,7 @@ Dans cette partie du wiki concernant le multi-outil d'exploration, nous mentionn
 
 Lorsque votre multi-outil évolue vous gagner des avantages conséquents.
 
-Vous gagnez 1 niveau d'[enchantement](enchantement.md) tous les 10 niveaux de votre multi-outil. Vous commencez avec niveau 5 en efficacité, niveau 1 en fortune et 1 niveau en chercheur de trésors.
+Vous gagnez 1 niveau d'[enchantement](enchantement.md) tous les 10 niveaux de votre multi-outil. Vous commencez avec efficacité niveau 5, fortune niveau 1 et chercheur de trésors niveau 1.
 
 ![](../ressources/exploration/multitool_evo.png)
 
@@ -21,7 +21,7 @@ Vous gagnez 1 niveau d'[enchantement](enchantement.md) tous les 10 niveaux de vo
 
 Votre multi-outil possède une barre de progression d'xp qui évolue en fonction des blocs cassés. (voir le [catalogue des Blocs d'Exploration](catalogue_explo.md))
 
-Votre multi-outil va également evoluer en fonction du niveau d'xp maximum qu'il aura atteint :
+Votre multi-outil va également évoluer en fonction du niveau d'xp maximum qu'il aura atteint :
 
 | Rareté Multi-outil | Niveau max Multi-outil |
 |--------------------|------------------------|
