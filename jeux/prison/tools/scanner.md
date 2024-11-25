@@ -60,7 +60,5 @@ Retrouvez ci-dessous la quantité de fragments requis pour améliorer votre scan
 | Niveau 27      | 50M    | TRANSCENDANT    |
 | Niveau 28      | 75M    | TRANSCENDANT    |
 | Niveau 29      | 100M   | TRANSCENDANT    |
+| Niveau 30      | 130M   | AURORE    |
 
-{% hint style="info" %}
-On ne sait pas quand, mais il paraitrait qu'une rareté au-dessus de transcendant pourrait bientôt exister.
-{% endhint %}
