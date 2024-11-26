@@ -3,10 +3,9 @@
 
 ### **Les mines temporelles, c'est quoi?**
 
-Les **mines temproelles** sont des défis contre-la-montre qui se déroulent dans votre mine. Il existe **20 niveaux** de mines temporelles, de Tatooth (la plus petite mine) à Quartzara (la mine la plus grande). Pour arrêter le chronomètre et inscrire votre score, vous devez miner **90% de votre  
-mine** à l'aide de vos enchantements. **Vous pouvez réinitialiser le chronomètre en réinitialisant votre mine** *(/mine reset)*.
+Les **mines temporelles** sont des défis contre-la-montre qui se déroulent dans votre mine. Il existe **20 niveaux** de mines temporelles, de Tatooth (la plus petite mine) à Quartzara (la mine la plus grande). Pour arrêter le chronomètre et inscrire votre score, vous devez miner **90% de votre mine** à l'aide de vos enchantements. **Vous pouvez réinitialiser le chronomètre en réinitialisant votre mine** *(/mine reset)*.
 
-Il existe 6  classifications pour chaque mine:
+Il existe 6 classifications pour chaque mine:
 - Médaille de Légende : mine terminée en moins de **30 secondes**
 - Médaille de Diamant : mine terminée en moins de **1 minute**
 - Médaille  d'Or: mine terminée en moins de **2 minutes**.
@@ -28,7 +27,7 @@ Certaines **mines temporelles** octroient des boosts **au choix** lorsque vous o
 | Cryptolithe (10)   |   201x201    | Chances de Géophore / Blizzard / Pyroclaste doublées |
 | Ferraxon (12)      |   241x241    | 1% boost de Rinacoins / XP pioche / Tokens par 10 Mana (max 100%) |
 
-**Remarque** : Vous ne pouvez choisir qu'un seul des 3 boosts proposés. Si vous souhaitez changer de boost, il vous faudra débourser **10000 beacons.**
+**Remarque** : Vous ne pouvez choisir qu'un seul des 3 boosts proposés. Si vous souhaitez changer de boost, il vous faudra débourser **10.000 beacons.**
 
 ### Stratégies et coups de pouce
 
