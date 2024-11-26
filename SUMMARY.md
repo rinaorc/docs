@@ -33,7 +33,7 @@
   * [👥 Gangs](jeux/prison/gangs.md)
   * [🌍 Exploration](jeux/prison/exploration/README.md)
     * [⛏️ Multi-Outil](jeux/prison/exploration/mo/README.md)
-      * [📖 Catalogue](jeux/prison/exploration/mo/catalogue.md) 
+      * [📖 Catalogue](jeux/prison/exploration/mo/catalogue_explo.md) 
       * [💎 Prestiges](jeux/prison/exploration/mo/prestige.md)
       * [📚 Enchantements](jeux/prison/exploration/mo/enchantements.md)
     * [🎒 Sac d'exploration](jeux/prison/exploration/exploration_bag.md)
