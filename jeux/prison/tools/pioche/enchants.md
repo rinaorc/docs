@@ -50,7 +50,7 @@ Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur c
 | Gemmologue stellaire     | 200                       | Permet de débloquer la deuxième ligne de gemmes de votre pioche (1 emplacement de gemme supplémentaire par niveau). |
 | Transcendance Galactique | 500                       | Permet d'améliorer globalement les statistiques de votre pioche.                                                    |
 | KeyFinder Pro 3000       | ?                         | Permet d'augmenter les probabilités d'obtenir des clés plus rares.                                                   |
-| StellarClean X5000       | ?                         | Permet de faure apparaître des mini-balises qui permettent de vendre automatiquement une partie des blocs de votre inventaire|
+| StellarClean X5000       | ?                         | Permet de faire apparaître des mini-balises qui permettent de vendre automatiquement une partie des blocs de votre inventaire|
 
 ## **➺** Enchantements nécessitant des orbes de prestige et un niveau de prestige défini
 
