@@ -1,15 +1,15 @@
 # 🐈 Pets
 
 {% hint style="info" %}
-Cette page a pour but de vous expliquer comment obtenir des pets, comment procéder pour les améliorer et expliquer les différents pets disponibles.
+Cette page a pour but de vous expliquer comment obtenir des familiers, comment procéder pour les améliorer et expliquer les différents familiers disponibles.
 {% endhint %}
 
-## **➺** Comment obtenir des pets ?
+## **➺** Comment obtenir des familiers ?
 
 Vous pouvez les obtenirs dans les crates (/crates). 
-Les crates donne pas des pets aléatoire:
+Les crates donne des familiers aléatoire:
 
-| Crates    | Pets obtenable                                                                                                                                           |
+| Crates    | Familiers obtenable                                                                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Vote      | Moustique, Cochon                                                                                                                                        |
 | Lunaire   | Souris, Pigeon, Grenouille, Hibou arc-en-ciel                                                                                                            |
@@ -17,9 +17,9 @@ Les crates donne pas des pets aléatoire:
 | Nébuleux  | Tortue, Taupe, Renard                                                                                                                                    |
 | Familiers | Renard, Tortue, Chat, Phoenix, Pengouin, Abeille, Mamouth, Wumpus, Doge, Rocket, Loup Enflammé |
 
-Certians pets sont obtenables uniquement lors de certains event (/event):
+Certains familiers sont obtenables uniquement lors de certains évènements (/event):
 
-| Event    | Pets obtenable                                                                                                                                           |
+| Évènement    | Familiers obtenable                                                                                                                                           |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bloc Communautaire      | Ours, Gorille                                                    |
 | Loterie des Contrebandiers   | Axolotl, Elephant cosmique                                                        |
@@ -39,13 +39,13 @@ Et pour les rentrer, cliquez sur "Faire évoluer mes familiers"
 
 ![](../ressources/pets/EnclosEVOPetsRedem.png)
 
-Une fois les pets absorbés dans l'enclos, un message s'afficheras dans le chat:
+Une fois les familiers absorbés dans l'enclos, un message s'afficheras dans le chat:
 
 ![](../ressources/pets/PetsAbsoTchatRedem.png)
 
-## **➺** Comment améliorer des pets ?
+## **➺** Comment améliorer des familiers ?
 
-Pour améliorer le niveaux des pets, vous pouvez augmenter leur expérience en minant (1 à 3 pets selon votre rang (/rang) dans l'incubateur du menu /pet) ou en mettant dans l'enclos un pet que vous avez déjà, cela lui fera gagner de l'xp.
+Pour améliorer le niveau des familiers, vous pouvez augmenter leur expérience en minant (1 à 3 pets selon votre rang (/rang) dans l'incubateur du menu /pet) ou en mettant dans l'enclos un familier que vous avez déjà, cela lui fera gagner de l'xp.
 
 ## **➺** Quels sont les différences entre chaque pets ?
 
