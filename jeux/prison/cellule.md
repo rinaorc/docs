@@ -4,9 +4,9 @@
 En finisant le chapitre 17 (/voyage), vous pouvez créer votre cellule en fesant /plot.
 
 ## A quoi ça sert ?
-Votre cellule est un endoit dans le quel vous pouvez build ce que vous voulez avec les blocks que vous avez obtenu avec le [raffineur](jeux/prison/exploration/raffineur.md).
+Votre cellule est un endroit dans le quel vous pouvez build ce que vous voulez avec les blocs que vous avez obtenu avec le [raffineur](jeux/prison/exploration/raffineur.md).
 Vous pouvez également y aller pour ouvrir vos coffres (/bp)
 
 ## Amélioration
 Vous pouvez améliorer votre cellule directement dans le menu /plot.
-Cette amélioration vous couteras des Beacons et des Trésors d'exploration.
+Cette amélioration vous coûtera des Beacons et des Trésors d'exploration.
