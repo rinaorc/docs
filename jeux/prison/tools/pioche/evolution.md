@@ -27,3 +27,7 @@ Votre pioche sera amenée à évoluer à quelques reprises, elle évolue en fonc
 | Cosmique     | 6.190.000 blocs  |
 | Primordial   | 9.500.000 blocs  |
 | Transcendant | 16.550.000 blocs |
+
+{% hint style="danger" %}
+Suite à un bug au début de la deuxième version qui réinitialiser le nombre de blocs minés après un prestige, ces valeurs peuvent être faussées pour vous.&#x20;
+{% endhint %}

@@ -50,5 +50,21 @@ Si vous ne savez pas comment obtenir des noyaux d'étoiles renseignez-vous sur c
 | Gemmologue stellaire     | 200                       | Permet de débloquer la deuxième ligne de gemmes de votre pioche (1 emplacement de gemme supplémentaire par niveau). |
 | Transcendance Galactique | 500                       | Permet d'améliorer globalement les statistiques de votre pioche.                                                    |
 | KeyFinder Pro 3000       | ?                         | Permet d'augmenter les probabilités d'obtenir des clés plus rares.                                                   |
-| StellarClean X5000       | ?                         | Permet de faure apparaître des mini-balises qui permettent de vendre automatiquement une partie des blocks de votre inventaire|
+| StellarClean X5000       | ?                         | Permet de faire apparaître des mini-balises qui permettent de vendre automatiquement une partie des blocs de votre inventaire|
+
+## **➺** Enchantements nécessitant des orbes de prestige et un niveau de prestige défini
+
+{% hint style="info" %}
+Pour savoir comment obtenir des orbes de prestige, rendez-vous sur cette page : [Noyaux](noyaux.md)
+{% endhint %}
+
+| Enchantement          | Prestige requis | Description                                                                                                                                                  |
+|-----------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Geyser                | 1               | Permet de faire apparaïtre des colonnes d'eau dans votre mine qui cassent les blocs sur leurs chemins                                                       |
+| Filon Astral          | 2               | Permet de faire apparaître des filons de blocs de verre qui, une fois cassé, vous rapportent des fragments d'étoiles, le bénéfice dépend du niveau de votre mine. |
+| Creeper à Retardement | 3               | Permet de faire apparaître un creeper dont l'explosion dépend du nombre de blocs que vous minez entre son apparition et son explosion (3 secondes)          |
+| Votrex de Glace       | 4               | Permet de faire apparaître des blocs de glace qui, quand ils sont cassés, rapportent plus de ressources que les blocs normaux (Rinacoins, Tokens, XP pioche) |
+| Trinité Cosmique      | 5               | Permet de déclencher 3 enchantements aléatoires débloquer sur votre pioche                                                                                   |
+| Snifer                | 10              | Permet d'obtenir un coffre cosmique lorsque vous minez                                                                                                       |
+
 

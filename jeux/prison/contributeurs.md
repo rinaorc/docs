@@ -7,8 +7,10 @@ Cette page recense les différentes personnes à avoir participé à la créatio
 * Azerod
 * deadEwen
 * Fellnia
-* Tchouraa
+* Gregouillee
 * herliste
-* HeWaitsForAdrien
+* SheIsGood
 * KneaXy
 * Voxid
+* ArzoxX_
+* Shadower72

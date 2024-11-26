@@ -19,7 +19,6 @@ Cette page a comme objectif de vous présenter les différentes manières d'obte
 Une fois les beacons obtenus, il y a différentes façons de les utiliser :
 
 * **Acheter des niveaux de pass** : Pour pouvoir avancer plus rapidement dans le pass, et ainsi débloquer les récompenses plus vite, comme les grades Prison, vous pouvez acheter des niveaux de pass. 1 niveau du pass vaut 8.000 beacons.
-* **Acheter des ADN d'œufs et des schémas de robots** : Dans le cas où vous n'auriez pas assez d'ADN ou de schémas pour craft des familiers/robots, vous pouvez utiliser nos beacons pour les invoquer (150 Beacons = 1 ADN/schéma).
 * **Acheter de la durabilité** : Vous pouvez utiliser vos Beacons pour acheter de la durabilité sur vos armures/gemmes pour les améliorer, 5.000 beacons permettent d'obtenir 10 de durabilité.
 * **Temps d'amélioration du scanner** : Lorsque votre scanner est en cours d'amélioration, vous pouvez utiliser des beacons pour écourter le temps d'amélioration.
 * **Dans le shop** : Vous pouvez également utiliser vos beacons pour acheter des fragments d'étoiles, utile pour améliorer le scanner, ainsi que des booster primordiaux, utiles pour booster vos statistiques RC/Tokens/XP Pioche.

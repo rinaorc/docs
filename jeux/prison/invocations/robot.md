@@ -6,8 +6,8 @@ Cette page a pour but de vous expliquer comment obtenir des robots et aussi comm
 
 ## **➺** Comment obtenir des robots ?
 
-Pour obtenir des robots, vous avez besoin d'obtenir premièrement des schémas de robots. Ces schémas permettent de créer de nouveaux robots à partir de la commande /voeux.\
-Vous pouvez les obtenir en minant, dans les coffres cosmiques, mais aussi dans le /afk et dans le /pass.
+Vous pouvez les obtenirs directement dans les crates (/crates).
+Vous pouvez obtenir n'importe quelle rareté lors d'une ouverture.
 
 | Type de robot            | Bonus de Tokens                                        | Bonus de RinaCoins                                     | Bonus d'XP de pioche                                      |
 | ------------------------ | ------------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------------------- |
@@ -15,11 +15,9 @@ Vous pouvez les obtenir en minant, dans les coffres cosmiques, mais aussi dans l
 
 ## **➺** Comment améliorer les robots ?
 
-Comme pour les objets, les robots possèdent, eux aussi, une rareté. En augmentant son niveau d'expertise dans le /voeux à force de créer de nouveaux robots, la rareté des robots obtenables augmente (la rareté fonctionne de manière similaire à celle du scanner).
-
 Quand vous créez des robots, ils possèdent une étoile, vous pouvez améliorer les robots grâce aux **microprocesseurs**, qui s'obtiennent en recyclant des robots auprès du forgeron, ou via le **recyclage automatique**. Chaque robot peut êtrz amélioré jusqu'à 9 fois, pour un total de 10 étoiles.
 
-Pour améliorer un robot, placez le dans la forge de la même manière que les gemmes et armures et sélectionnez l'option "Améliorer le robot". Vous pouvez aussi **échanger le type d'un robot** *(exemple: passer d'un robot Rinacoins à un robot Tokens)* contre **25000 beacons** (attention le changement 
+Pour améliorer un robot, placez le dans la forge de la même manière que les gemmes et armures et sélectionnez l'option "Améliorer le robot". Vous pouvez aussi **échanger le type d'un robot** *(exemple: passer d'un robot Rinacoins à un robot Tokens)* contre **25 000 beacons** (attention le changement 
 est aléatoire, il est donc conseillé de ne changer de rareté de robot que sur un robot de haute rareté au vu du prix couteux de l'opération).
 
 ![](../ressources/robots/robots_forge.png)
