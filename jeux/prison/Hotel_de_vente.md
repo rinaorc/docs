@@ -1,7 +1,7 @@
 # ⛓💸​ Hotel de vente.
 {% hint style="info" %} Cette page a pour but de présenter l'hotel de vente (/ah){% endhint %}
 ## Introduction
-{% hint style="danger" %} Pour acceder a l'hotel de vente, vous devez être [Prestige](A METTRE) 1. {% endhint %}
+{% hint style="danger" %} Pour acceder a l'hotel de vente, vous devez être [raffineur](prestiges.md) 1. {% endhint %}
 Envis de vous faire des beacons ? l'hotel de vente est là !
 Vous pouvez y accéder en fesant /ah.
 
