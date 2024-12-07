@@ -1,8 +1,8 @@
 # ⚔️​ Niveau de épée
 {% hint style = "info" %} Cette page a pour but de vous présentez les niveaux de l'épée {% endhint %}
 
-Vous pouvez augmentez le niveau de votre épée en la mettant chez le forgeron (/forge)
-Pour cela vous aurez besoin d'Ames (Vous pouvez en obtenir en tuant les monstres ou dans la boutique de combat) et de livres d'amélioration d'épée qui correspond au niveau de rareté de votre épée.
+Vous pouvez augmentez le niveau de votre épée en la mettant chez le forgeron (/forge).
+Pour cela vous aurez besoin d'Ames (Vous pouvez en obtenir en tuant les monstres ou dans la boutique de combat) et de livres d'amélioration d'épée (obtenable en tuant des monstre) qui correspond au niveau de rareté de votre épée.
 
 ## Niveau de raretés
 
