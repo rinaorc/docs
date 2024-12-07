@@ -1,4 +1,4 @@
-# ⚔️​ Niveau de épée
+# ⚔️​ Niveau de l'épée
 {% hint style = "info" %} Cette page a pour but de vous présentez les niveaux de l'épée {% endhint %}
 
 Vous pouvez augmentez le niveau de votre épée en la mettant chez le forgeron (/forge).
