@@ -1,7 +1,7 @@
 # 🧟 PVE - Introduction
 
 Vous en avez marre de minez des blocks ?
-Maintenant allez tapez des monstres à fin d'augmenter vos statistiques de minages !
+Maintenant allez tapez des monstres !
 
 ## A quoi sa sert le PVE ?
 Le PVE (Player vs Entity) vous permet d'obtenir des cristeaux de rang.
