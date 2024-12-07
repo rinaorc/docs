@@ -11,6 +11,6 @@ Pour cela vous aurez besoin d'Ames (Vous pouvez en obtenir en tuant les monstres
 | Normal        | 10             | 5k Ames, 5 Fragements d'équipement commun      |
 | Commun        | 20             | 17.5k Ames, 5 Fragements d'équipement rare     |
 | Rare          | 30             | environ 1M Ames, 5 Fragements d'équipement épique|      
-| Épique        | 10             | | 
+| Épique        | 40             | | 
 
 {% hint style = "info" %} Pour avoir les fragements d'équipement commun, il faut détruire une pièce d'équipement de la même rareté chez le forgeron (/forge) {% endhint %}
