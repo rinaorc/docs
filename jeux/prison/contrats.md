@@ -4,6 +4,8 @@
 
 Les contrats sont là pour vous aidez a rattraper votre retard, ils vous offrent : de l'xp pour le pass galactique, 1000 beacons, 1 pièce de contrats et plus rarement 1 ou 2 fragements d'artéfacts.
 
+{% hint style="danger" %} Vous avez 1 jour pour accomplir un contrat, vous pouvez en accepter 1 parmis 3 proposition toutes les 3h {% endhint %}
+
 ## La boutique de contrats
 La boutique permet d'acheter des items avec les pièces de contrat que vous obtenez en les finissant.
 
