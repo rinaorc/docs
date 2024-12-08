@@ -1,0 +1,23 @@
+# 🧙‍♂️​ Aspects de l'épée
+{% hint style = "info" %} Cette page a pour but de vous présentez les aspects de l'épée. {% endhint %}
+
+Avec les aspects, vous pouvez combattre plus efficacement les monstre !
+
+## Comment les obtenirs ?
+Vous pouvez en obtenir via le coffre cosmique PVE (obtenable tout les 10 niveaux de combat)
+Il est aussi possible d'en fabriquer dans la boutique de combat.
+
+
+| Aspect                         | Description                    | Obtention                      |
+|--------------------------------|--------------------------------|--------------------------------|
+| Combustion                     | Mettre les monstres en feu, infligeant x% de vos dégâts chaque seconde| Boutique de combat (10k ames, 8 tête de zombie,8 tête de squelette, 5 etincelle de blaze) et aspect aléatoire, Coffre cosmique pve|
+| Flash                          | Vous téléporte à x blocs maximum, infligeant x% de vos dégâts de base aux mosntre autour de vous| Coffre cosmique pve, Boutique de combat (aspect aléatoire) |
+| Golem                          | Fait apparaître x golems qui vous aident au combat pendant 10s e, fesa,t 50% de vps dégâts| Coffre cosmique pve, Boutique de combat (aspect aléatoire)|
+| Provocation                    | Tout les monstres dans un rayon de x blocs vous aggro, réduit les dégâts qu'ils font de 10% | Coffre cosmique pve, Boutique de combat (aspect aléatoire)|
+| Bond                           | Vous êtes projeté en hauteur, léviter brièvement, puis retombez à l'endroit où vous regardez, en secouant le sol et infligeant x% de vos dégâts et étourdissant les montres pendant 1s| Coffre cosmique pveBoutique de combat (aspect aléatoire) |
+| Régéneration                   | Vous soigne de x% de vos PV MAX et soigne les joueurs autour de x% de leurs PVs| Coffre cosmique pve, Boutique de combat (aspect aléatoire) |
+| Stupeur                        | Assomme jusqu'a x adversaire(s) autour de vous pendant 3s| coffre cosmique pve, Boutique de combat (aspect aléatoire)|
+| Vitalité                       | Augmente vos PV de x% pendant 15s|Boutique de combat (10k ames, 8 tête de wither squelette, 4 Oeil d'enderman, 8 fil d'araignée, 5 etincelle de blaze) et aspect aléatoire, Coffre cosmique pve|
+| Onde                           | Repousse et ralentis les ennemis autour de vous de x blocs| Event zombie géant, coffre cosmique pve, Boutique de combat (aspect aléatoire) |
+| Vortex                         | Vous attirez tout les ennemis proche dans un rayon de x blocs|Boutique de combat (10k ames, 8 coeurs de zombie, 2 Oeil d'enderman, 8 os de squelette), et aspect aléatoire, Coffre cosmique pve |
+| Frappe de l'ombre              | Vous vous téléportez derrière le mosntre ciblé, augmentant vos dégâts de x% pendant 2s et l'assomant pendant 1s|Boutique de combat (10k ames, 8 tête de zombie, 8 tête de wither squelette, 8 os de squelette) et aspect aléatoire, Coffre cosmique pve|
