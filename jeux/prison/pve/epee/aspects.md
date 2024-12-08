@@ -15,7 +15,7 @@ Il est aussi possible d'en fabriquer dans la boutique de combat.
 | Flash                          | Vous téléporte à x blocs maximum, infligeant x% de vos dégâts de base aux mosntre autour de vous| Coffre cosmique pve, Boutique de combat (aspect aléatoire) |
 | Golem                          | Fait apparaître x golems qui vous aident au combat pendant 10s en fesant 50% de vos dégâts| Coffre cosmique pve, Boutique de combat (aspect aléatoire)|
 | Provocation                    | Tout les monstres dans un rayon de x blocs vous aggro, réduit les dégâts qu'ils font de 10% | Coffre cosmique pve, Boutique de combat (aspect aléatoire)|
-| Bond                           | Vous êtes projeté en hauteur, léviter brièvement, puis retombez à l'endroit où vous regardez, en secouant le sol et infligeant x% de vos dégâts et étourdissant les montres pendant 1s| Coffre cosmique pveBoutique de combat (aspect aléatoire) |
+| Bond                           | Vous êtes projeté en hauteur, léviter brièvement, puis retombez à l'endroit où vous regardez, en secouant le sol et infligeant x% de vos dégâts et étourdissant les montres pendant 1s| Coffre cosmique pve, Boutique de combat (aspect aléatoire) |
 | Régéneration                   | Vous soigne de x% de vos PV MAX et soigne les joueurs autour de x% de leurs PVs| Coffre cosmique pve, Boutique de combat (aspect aléatoire) |
 | Stupeur                        | Assomme jusqu'a x adversaire(s) autour de vous pendant 3s| coffre cosmique pve, Boutique de combat (aspect aléatoire)|
 | Vitalité                       | Augmente vos PV de x% pendant 15s|Boutique de combat (10k ames, 8 tête de wither squelette, 4 Oeil d'enderman, 8 fil d'araignée, 5 etincelle de blaze) et aspect aléatoire, Coffre cosmique pve|
