@@ -5,5 +5,13 @@ Cette page a pour but de présentez les grades disponibles du prison avec leur o
 Les Rangs sur le prison sont aux nombres de 7 : VOYAGEUR, SOLEIL, ETOILE, CELESTE, SUPERNOVA, GALACTIQUE et COSMIQUE
 
 ------------------------------------------------------------------
+|
+|
+|
+|
+|
+|
+
+
 
 
