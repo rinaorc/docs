@@ -6,6 +6,7 @@ Les donjons sont là pour vous permettre d'affrontez les monstres !
 Ils donnent des livres de compétences/épée/armure commun, rare ou épique selon le donjon dans le quel vous vous trouvez.
 
 {% hint style="success" %} Vous pouvez aller dans les différents donjon via le /warp {% endhint %}
+{% hint style="success" %} Vous pouvez voir les différents monstres dans le /bestiaire, il y a également des récompenses pour un certains nombre de monstre tuées. {% endhint %}
 
 # Liste des différents donjons
 
