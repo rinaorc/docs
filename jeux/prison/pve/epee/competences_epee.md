@@ -4,7 +4,7 @@
 Graces a de nombreuses compétences vous pouvez tuez les monstres plus efficacement !
 
 ## Compétences disponibles
-{% hint style = "info" %} Tout les 10 niveaux de compétence, il vous faudra des livres d'amélioration de la rareté supérieur (commun, rare, épique) pour améliorer ces dernières.  {% endhint %}
+{% hint style = "info" %} Tout les 10 niveaux de compétence, il vous faudra des livres d'amélioration de la rareté de votre compétence (commun, rare, épique) pour améliorer ces dernières.  {% endhint %}
 
 | Nom          | Niveau requis  |Description |
 | -------------| ------------- | ------------- | 
