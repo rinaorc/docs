@@ -16,6 +16,12 @@ Pour chaque sauvegardes que vous créer, elle auront chacune:
 - Rankup
 - Prestige
 
+### Comment créer une sauvegarde ?
+C'est simple ! Vous avez juste a allez dans le menu /prison et de cliquer sur le name tag à côté de la planette.
+vous aurez un menu ainsi qu'un bouton pour crée vos sauvegardes:
+
+![img.png](./ressources/saves/CreeSaves.png)
+
 Voici un exemple de 2 sauvegardes:
 
 ![img.png](./ressources/saves/Saves1.png)
