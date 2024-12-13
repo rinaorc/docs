@@ -1,4 +1,4 @@
-#🗿​ Compétences
+# 🗿​ Compétences
 {% hint style="info" %} Cette page a pour but de vous présentez les compétences de minage & combat. {% endhint %}
 
 Envie de gagner des statistiques rapidement ?
