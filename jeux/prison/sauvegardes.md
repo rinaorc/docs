@@ -22,6 +22,8 @@ vous aurez un menu ainsi qu'un bouton pour crée vos sauvegardes:
 
 ![img.png](./ressources/saves/CreeSaves.png)
 
+{% hint style="danger" %} Vous pouvez créer que 3 sauvegardes au total ! {% endhint %}
+
 Voici un exemple de 2 sauvegardes:
 
 ![img.png](./ressources/saves/Saves1.png)
