@@ -1,12 +1,12 @@
 # 🧟 PVE - Introduction
 
-Vous en avez marre de minez des blocks ?
-Maintenant allez tapez des monstres !
+Vous en avez marre de minez des blocs ?
+Maintenant, allez taper des monstres !
 
-## A quoi sa sert le PVE ?
-Le PVE (Player vs Entity) vous permet d'obtenir des cristeaux de rang.
+## À quoi ça sert le PVE ?
+Le PVE (Player vs Entity) vous permet d'obtenir des cristaux de rang.
 Mais pas que !
-Il y a des classement uniquement réserves aux PVE:
+Il y a des classements uniquement réservés aux PVE:
 - Top Puissance
 - Top Monstres tués
 
