@@ -34,8 +34,9 @@ Vous trouverez ci-dessous l'ensemble des actions à effectuer afin de compléter
 |    26 | Obtenez votre premier robot !                             | 2600 Beacons                                                       |
 |    27 | Equipez-vous d'une armure de minage complète Légendaire ! | 5 Clés Astrales et 2700 Beacons                                    |
 |    28 | Casser 100 minerais de diamant dans le mode exploration ! | 10000 Beacons                                                      |
-|    29 | Réaliser une Ascension de pioche.                         | 1 Booster de Tokens, RinaCoins, XP Pioche - EPIQUE et 3000 Beacons |
-|    30 | Crafter un Artéfact                                       | 100000 Fragments d'étoiles                                         |
+|    29 | Atteignez le rang 200 de mine (/rankup)                   | 5 Clés Astrales et 2900 Beacons                                    |
+|    30 | Réaliser une Ascension de pioche.                         | 1 Booster de Tokens, RinaCoins, XP Pioche - EPIQUE et 3000 Beacons |
+|    31 | Crafter un Artéfact                                       | 100000 Fragments d'étoiles                                         |
 
 
 ## Combat
@@ -66,5 +67,6 @@ Vous trouverez ci-dessous l'ensemble des actions à effectuer afin de compléter
 |    21 | Atteindre 2.000 de puissance en améliorant votre équipement.              | 1 Armure RARE aléatoire                     |
 |    22 | Récupérer vos récompenses de niveaux. (/skill)                            | 2500 âmes                                   |
 |    23 | Compléter un contrat (/contrats)                                          | 5 Pièces de contrats                        |
-|    24 | Trouver 15 failles temporelles.                                           | 5 Amélioration Epée Rare                    |
+|    24 | Acheter un Aspect dans la boutique de contrats (/contrats).               | 2500 âmes                                   |
+|    25 | Trouver 15 failles temporelles (/warp, /travel)                           | 5 Amélioration epée Rare                    |
 |    25 | Trouver une Rune et l'équiper sur votre épée !                            | 10 Amélioration Compétences Rare            |
