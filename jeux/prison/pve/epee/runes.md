@@ -1,15 +1,15 @@
 # 🧙​​ Runes
-{% hint style = "info" %} Cette page a pour but de vous présentez les runes de l'épée. {% endhint %}
+{% hint style = "info" %} Cette page a pour but de vous présenter les runes de l'épée. {% endhint %}
 
 Devenez plus fort en vous équipant de runes !
 
-{% hint style = "info" %} Vous pouvez obtenir toutes les runes en tuant des monstres et dans le coffre cosmique pve, les runes obtenus ont une statistique aléatoire qui est mis entre [] {% endhint %}
+{% hint style = "info" %} Vous pouvez obtenir toutes les runes en tuant des monstres et dans le coffre cosmique pve, les runes obtenues ont une statistique aléatoire qui est mise entre [] {% endhint %}
 | Nom          | Description  |
 | -------------| ------------- | 
-| conclave des cubes|Confère une augmentation de [50%-100%] des dégâtes à un type de monstre, change toutes les 5 secondes. | 
+| Conclave des cubes|Confère une augmentation de [50%-100%] des dégâts à un type de monstre, change toutes les 5 secondes. | 
 | Esquive de la mort| Lorsque vous êtes sur le point de mourir, vous récupérez instantanément [50%-100%] de vos points de vie. Cet effet ne peut se déclencher qu'une fois toutes les 10 minutes.| 
-| Embrasement| Chaque secondes sans subir de dégâtes augmente vos dégâts de [5%-15%], cumulable jusqu'à 10 fois.| 
-| Piège explosif|Lorsque vous tuez un monstre, à 10% de chance de faire apparaitre une TNT qui explose au boit de 1s et inflige [250%-1000%] de vos dégâts.| 
+| Embrasement| Chaque seconde sans subir de dégâts augmente vos dégâts de [5%-15%], cumulable jusqu'à 10 fois.| 
+| Piège explosif|Lorsque vous tuez un monstre, à 10% de chance de faire apparaitre une TNT qui explose au bout de 1s et inflige [250%-1000%] de vos dégâts.| 
 | Colère divine| Votre compétence Zeus s'étend et fait aussi tomber des éclairs sur les [1-10] monstres autour de la cible touchée.| 
 | Peste| L'effet hémoragie s'étend aux monstres aux alentours.| 
 | Coeur de magma| Permet d'aller dans la lave sans prendre de dégâts.| 
