@@ -1,5 +1,5 @@
 # 🕳️ Raffineur
-{% hint style = "info" %} Cette page a pour but de vous expliquer le fonctionnement du raffineur de sac a dos {% endhint %}
+{% hint style = "info" %} Cette page a pour but de vous expliquer le fonctionnement du raffineur de sac à dos {% endhint %}
 
 
 # Son but 
