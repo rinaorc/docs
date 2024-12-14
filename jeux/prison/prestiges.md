@@ -3,10 +3,10 @@
 Cette page a pour but de présenter les prestiges {% endhint %}
 
 ## Introduction
-Vous vouez gagnez plus de statistique de rinacoins/tokens/xp pioche ? Voir même augmenter vos chances d'obtentions de clés ?
+Vous voulez gagner plus de statistiques de RinaCoins/Tokens/XP Pioche ? Voir même augmenter vos chances d'obtention de clés ?
 Les prestiges sont là pour vous!
 
-Après avoir atteint un certain rang, vous pouvez prestige et améliorers vos statistiques globales.
+Après avoir atteint un certain rang, vous pouvez prestige et améliorer vos statistiques globales.
 
 {% hint style="danger" %} &#x20; Quand vous passez un prestige, cela réinitialise certaines de vos caractéristiques:
 Rang de minage (pas le grade).
@@ -14,7 +14,7 @@ Rinacoins, Tokens et Fragments d'étoiles
 Pioche, Scanner, Planètes
 Sac à dos des Mines.
 
-Les pièces d'armures et gemmes sur votre pioche vous seront envoyer par /mail.
+Les pièces d'armures et gemmes sur votre pioche vous seront envoyées par /mail.
 .{% endhint %}
 
 ## Liste des prestiges :
@@ -34,4 +34,4 @@ Les pièces d'armures et gemmes sur votre pioche vous seront envoyer par /mail.
 | 10 | Rang 15 000|
 
 {% hint style="info" %} Vous pouvez voir les avantages de chaque prestige dans le menu "/prestige".{% endhint %}
-{% hint style="danger" %} &#x20; Les avantages de temps d'amélioration du scanner, l'obtention des fragements d'étoiles/clés ne s'additionnent pas entre chaque prestige.{% endhint %}
+{% hint style="danger" %} &#x20; Les avantages de temps d'amélioration du scanner, l'obtention des fragments d'étoiles/clés ne s'additionnent pas entre chaque prestige.{% endhint %}
