@@ -11,7 +11,7 @@ Les crates donne des familiers aléatoire:
 
 | Crates    | Familiers obtenable                                                                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Vote      | Moustique, Cochon                                                                                                                                        |
+| Vote      | Moustique, Cochon, Epouventail                                                                                                                               |
 | Lunaire   | Souris, Pigeon, Grenouille, Hibou arc-en-ciel                                                                                                            |
 | Astral    | Panda, Lapin, Singe                                                                                                                           |
 | Nébuleux  | Tortue, Taupe, Renard                                                                                                                                    |
