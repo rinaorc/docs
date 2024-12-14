@@ -24,7 +24,7 @@ Tout les niveaux vous gagnez:
 - Attaque: +10
 - Défense: +10
 - Vie: +20
-Tout les 5 niveaux ⤵️ ​
+- Tout les 5 niveaux ⤵️ ​
 - Bonus de Tokens: +50% 
 - Bonus de RinaCoins: +50%
 - Bonus XP de Pioche: +7%
