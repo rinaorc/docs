@@ -1,10 +1,10 @@
 # ⚔️​ Compétences de l'épée
-{% hint style = "info" %} Cette page a pour but de vous présentez les différentes compétences de l'épée. {% endhint %}
+{% hint style = "info" %} Cette page a pour but de vous présenter les différentes compétences de l'épée. {% endhint %}
 
-Graces a de nombreuses compétences vous pouvez tuez les monstres plus efficacement !
+Grâce à de nombreuses compétences, vous pouvez tuer les monstres plus efficacement !
 
 ## Compétences disponibles
-{% hint style = "info" %} Tout les 10 niveaux de compétence, il vous faudra des livres d'amélioration de la rareté de votre compétence (commun, rare, épique) pour améliorer ces dernières.  {% endhint %}
+{% hint style = "info" %} Touts les 10 niveaux de compétence, il vous faudra des livres d'amélioration de la rareté de votre compétence (commun, rare, épique) pour améliorer ces dernières.  {% endhint %}
 
 | Nom          | Niveau requis  |Description |
 | -------------| ------------- | ------------- | 
