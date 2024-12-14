@@ -1,12 +1,12 @@
 # 🏰​​ Donjon
-{% hint style = "info" %} Cette page a pour but de vous présentez les différentes donjons. {% endhint %}
+{% hint style = "info" %} Cette page a pour but de vous présenter les différentes donjons. {% endhint %}
 
-# A quoi sa sert ?
-Les donjons sont là pour vous permettre d'affrontez les monstres !
-Ils donnent des livres de compétences/épée/armure commun, rare ou épique selon le donjon dans le quel vous vous trouvez.
+# A quoi ça sert ?
+Les donjons sont là pour vous permettre d'affronter les monstres !
+Ils donnent des livres de compétences/épée/armure commun, rare ou épique selon le donjon dans lequel vous vous trouvez.
 
-{% hint style="success" %} Vous pouvez aller dans les différents donjon via le /warp {% endhint %}
-{% hint style="success" %} Vous pouvez voir les différents monstres dans le /bestiaire, il y a également des récompenses pour un certains nombre de monstre tuées. {% endhint %}
+{% hint style="success" %} Vous pouvez aller dans les différents donjons via le /warp {% endhint %}
+{% hint style="success" %} Vous pouvez voir les différents monstres dans le /bestiaire, il y a également des récompenses pour un certain nombre de monstres tués. {% endhint %}
 
 # Liste des différents donjons
 
@@ -23,4 +23,4 @@ Ils donnent des livres de compétences/épée/armure commun, rare ou épique sel
 | Hauts Plateaux des Conifères| 84-94|Equipement epique|15|
 | Purgatoire Brisé| 95-100|Equipement epique|20|
 
-{% hint style="danger" %} Dans les 3 derniers donjon, les monstres vous attaquent automatiquement. {% endhint %}
+{% hint style="danger" %} Dans les 3 derniers donjons, les monstres vous attaquent automatiquement. {% endhint %}
