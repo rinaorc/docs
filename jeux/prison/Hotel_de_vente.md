@@ -1,14 +1,14 @@
-# 💸​ Hotel de vente
+# 💸​ Hôtel de vente
 
-{% hint style="info" %} Cette page a pour but de présenter l'hotel de vente (/ah){% endhint %}
+{% hint style="info" %} Cette page a pour but de présenter l'hôtel de vente (/ah){% endhint %}
 ## Introduction
-{% hint style="danger" %} Pour acceder a l'hotel de vente, vous devez être [Prestige](prestiges.md) 1. {% endhint %}
-Envis de vous faire des beacons ? l'hotel de vente est là !
-Vous pouvez y accéder en fesant /ah.
+{% hint style="danger" %} Pour accéder à l'hôtel de vente, vous devez être [Prestige](prestiges.md) 1. {% endhint %}
+Envie de vous faire des beacons ? l'hôtel de vente est là !
+Vous pouvez y accéder en faisant /ah.
 
 ## Comment vendre ?
-Pour ventre il suffit de faire la commande "/ah sell <prix en beacons>" avec l'objet que vous voulez vendre dans votre main.
-{% hint style="info" %} Les objets mis en vente reste maximum 7 jours, une fois se délais dépasser ils vous seront automatiquement retourner via le /mail {% endhint %}
+Pour vendre il suffit de faire la commande "/ah sell <prix en beacons>" avec l'objet que vous voulez vendre dans votre main.
+{% hint style="info" %} Les objets mis en vente restent maximum 7 jours, une fois ce délai dépassé ils vous seront automatiquement retournés via le /mail {% endhint %}
 
 ## Comment retirer un objet de la vente ?
 C'est super simple !
