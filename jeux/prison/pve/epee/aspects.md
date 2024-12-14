@@ -4,10 +4,10 @@
 Avec les aspects, vous pouvez combattre plus efficacement les monstres !
 
 ## Comment les obtenir ?
-Vous pouvez en obtenir via le coffre cosmique PVE (obtenable touss les 10 niveaux de combat)
+Vous pouvez en obtenir via le coffre cosmique PVE (obtenable tous les 10 niveaux de combat)
 Il est aussi possible d'en fabriquer dans la boutique de combat.
 
-{% hint style = "info" %} Chaque aspect peut être améliorer 20 fois. {% endhint %}
+{% hint style = "info" %} Chaque aspect peut être amélioré 20 fois. {% endhint %}
 
 | Aspect                         | Description                    | Obtention                      |
 |--------------------------------|--------------------------------|--------------------------------|
@@ -21,4 +21,4 @@ Il est aussi possible d'en fabriquer dans la boutique de combat.
 | Vitalité                       | Augmente vos PV de x% pendant 15s|Boutique de combat (10k ames, 8 tête de wither squelette, 4 Oeil d'enderman, 8 fil d'araignée, 5 etincelle de blaze) et aspect aléatoire, Coffre cosmique pve|
 | Onde                           | Repousse et ralentis les ennemis autour de vous de x blocs| Event zombie géant, coffre cosmique pve, Boutique de combat (aspect aléatoire) |
 | Vortex                         | Vous attirez tous les ennemis proche dans un rayon de x blocs|Boutique de combat (10k ames, 8 coeurs de zombie, 2 Oeil d'enderman, 8 os de squelette), et aspect aléatoire, Coffre cosmique pve |
-| Frappe de l'ombre              | Vous vous téléportez derrière le mosntre ciblé, augmentant vos dégâts de x% pendant 2s et l'assomant pendant 1s|Boutique de combat (10k ames, 8 tête de zombie, 8 tête de wither squelette, 8 os de squelette) et aspect aléatoire, Coffre cosmique pve|
+| Frappe de l'ombre              | Vous vous téléportez derrière le monstre ciblé, augmentant vos dégâts de x% pendant 2s et l'assomant pendant 1s|Boutique de combat (10k ames, 8 tête de zombie, 8 tête de wither squelette, 8 os de squelette) et aspect aléatoire, Coffre cosmique pve|
