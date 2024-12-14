@@ -1,10 +1,10 @@
 # 📅​ Contrats
 
-{% hint style="info" %} Cette page a pour but de vous présentez les contrats. {% endhint %}
+{% hint style="info" %} Cette page a pour but de vous présenter les contrats. {% endhint %}
 
-Les contrats sont là pour vous aidez a rattraper votre retard, ils vous offrent : de l'xp pour le pass galactique, 1000 beacons, 1 pièce de contrats et plus rarement 1 ou 2 fragements d'artéfacts.
+Les contrats sont là pour vous aider à rattraper votre retard, ils vous offrent : de l'XP pour le pass galactique, 1000 beacons, 1 pièce de contrats et plus rarement 1 ou 2 fragments d'artéfacts.
 
-{% hint style="danger" %} Vous avez 1 jour pour accomplir un contrat, vous pouvez en accepter 1 parmis 3 proposition toutes les 3h {% endhint %}
+{% hint style="danger" %} Vous avez 1 jour pour accomplir un contrat, vous pouvez en accepter 1 parmi 3 propositions toutes les 3h {% endhint %}
 
 ## La boutique de contrats
 La boutique permet d'acheter des items avec les pièces de contrat que vous obtenez en les finissant.
