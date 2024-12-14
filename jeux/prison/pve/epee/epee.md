@@ -1,4 +1,4 @@
-# ⚔️​ Epée
+# ⚔️​ Épée
 {% hint style = "info" %} Cette page a pour but de vous présentez l'épée {% endhint %}
 
 # A quoi elle sert ?
