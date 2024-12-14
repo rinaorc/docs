@@ -1,4 +1,5 @@
-# 💸​ Hotel de vente.
+# 💸​ Hotel de vente
+
 {% hint style="info" %} Cette page a pour but de présenter l'hotel de vente (/ah){% endhint %}
 ## Introduction
 {% hint style="danger" %} Pour acceder a l'hotel de vente, vous devez être [Prestige](prestiges.md) 1. {% endhint %}
