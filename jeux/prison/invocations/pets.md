@@ -15,7 +15,7 @@ Les crates donne des familiers aléatoire:
 | Lunaire   | Souris, Pigeon, Grenouille, Hibou arc-en-ciel                                                                                                            |
 | Astral    | Panda, Lapin, Singe                                                                                                                           |
 | Nébuleux  | Tortue, Taupe, Renard                                                                                                                                    |
-| Familiers | Renard, Tortue, Chat, Phoenix, Pengouin, Abeille, Mamouth, Wumpus, Doge, Rocket, Loup Enflammé |
+| Familiers | Taupe, Renard, Tortue, Chat, Gorille, Requin, Phoenix, Pengouin, Abeille, Ours, Chien des enfers, Mamouth, Axolotl, Wumpus, Doge, Rocket, Loup Enflammé, Elephant cosmique, Epouventail |
 
 Certains familiers sont obtenables uniquement lors de certains évènements (/event):
 
