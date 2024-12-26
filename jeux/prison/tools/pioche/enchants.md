@@ -19,7 +19,7 @@ Cette page a pour but de vous présenter les différents enchantements possibles
 | Excavation          | 55            | Permet de casser une zone autour de vous.                                                                                |
 | Laser               | 60            | Permet de faire apparaître des lasers dans votre mine qui cassent des colonnes de blocs.                                 |
 | Vitesse             | 70            | Permet de vous déplacer plus vite.                                                                                       |
-| Détecteur de mana   | 85            | Permet de générer du mana pendant que vous minez.                                                                        |
+| Mana Amplificateur  | 85            | Vous octroie un bonus de Rinacoins/XP/Tokens % en fonction de votre Mana (max 1 000 mana)                                |
 | Fracture            | 90            | Permet de créer des éclairs dans votre mine qui provoquent des explosions.                                               |
 | Trou noir           | 125           | Permet de détruire une zone arrondie autour de vous.                                                                     |
 | Haste               | 150           | Permet de miner de manière nettement plus rapide.                                                                        |
@@ -64,7 +64,7 @@ Pour savoir comment obtenir des orbes de prestige, rendez-vous sur cette page : 
 | Filon Astral          | 2               | Permet de faire apparaître des filons de blocs de verre qui, une fois cassé, vous rapportent des fragments d'étoiles, le bénéfice dépend du niveau de votre mine. |
 | Creeper à Retardement | 3               | Permet de faire apparaître un creeper dont l'explosion dépend du nombre de blocs que vous minez entre son apparition et son explosion (3 secondes)          |
 | Votrex de Glace       | 4               | Permet de faire apparaître des blocs de glace qui, quand ils sont cassés, rapportent plus de ressources que les blocs normaux (Rinacoins, Tokens, XP pioche) |
-| Trinité Cosmique      | 5               | Permet de déclencher 3 enchantements aléatoires débloquer sur votre pioche                                                                                   |
+| Trinité Cosmique      | 5               | Permet de déclencher 3 enchantements aléatoires débloquer sur votre pioche et donne un boost de niveau sur ces derniers                                      |
 | Snifer                | 10              | Permet d'obtenir un coffre cosmique lorsque vous minez                                                                                                       |
 
 
