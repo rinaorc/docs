@@ -55,9 +55,9 @@ Cette compétence permet d'augmenter le nombre de blocs produit afin de pouvoir 
 |                    9 | Production de 50 blocs par heure |        50000 |          200 |
 |                   10 | Production de 70 blocs par heure |        75000 |          300 |
 
-### Compétence Buff stats PvE (SOON)
+### Compétence Buff stats PvE / Minage
 
-Cette compétence permet d'augmenter les stats que vous avez pour le PvE.
+Cette compétence permet d'augmenter les stats que vous avez pour le PvE et le Minage.
 
 ### Compétence Taille plot gang (SOON)
 
