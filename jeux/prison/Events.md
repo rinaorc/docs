@@ -28,8 +28,7 @@ L'objectif est de ramasser le plus de tickets de contrebandiers possible pendant
 Vous devez déposer minimum 10 tickets pour obtenir les récompenses.
 
 Récompenses disponibles:
-1 Fragment Galactique pour 1 participant
-1 Fragment Soleil pour 1 participant
+1 fragmenet galactique ou soleil pour 1 participant
 1 Familier Mamouth pour 1 participant
 1 Familier Axololt pour 1 participant
 6 clés lunaire
@@ -49,12 +48,12 @@ Récompenses disponibles:
 |10 Beacons|2.50 %          |
 |1 Fragment Céleste| 0.05 %  |
 |1 Familier Taupe | 0.05 %   |
-|1 Fragment Suernova| 0.01 % |
+|1 Fragment Supernova| 0.01 % |
 |1 Familier Requin| 0.01 %   |
 
 ### Gâteau au spawn
-Emplacement: au spawn (/spawn) ou warp pvp (/warp pvp), l'emplacement est annoncé dans le tchat.
+Emplacement: au spawn (/spawn) ou warp pvp (/warp pvp), l'emplacement est annoncé dans le chat.
 
-L'objectif est de tuer le zombie géant (2.5000.000.0 HP) avec votre stuff PvE.
+L'objectif est de tuer le zombie géant (2.500.000 HP) avec votre stuff PvE.
 Récompenses possibles:
 1 Aspect aléatoire.
