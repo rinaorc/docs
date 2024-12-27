@@ -57,7 +57,7 @@ Cette compétence permet d'augmenter le nombre de blocs produit afin de pouvoir 
 
 ### Compétence Buff stats PvE / Minage
 
-Cette compétence permet d'augmenter les stats que vous avez pour le PvE et le Minage.
+Cette compétence permet d'augmenter les stats que vous avez pour le PvE et le Minage (Attaque, Vie, Défense, bonus Tokens, Rinacoins, XP pioche).
 
 ### Compétence Taille plot gang (SOON)
 
