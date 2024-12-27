@@ -6,7 +6,7 @@
 Avec le système de sauvegardes (accessible depuis le menu /prison, puis en cliquant sur le name tag à côté de la planète), vous pouvez vous créer plusieurs profils.
 Vous pouvez donc ainsi faire plusieurs aventures sur le prison !
 
-Il y a plusieurs "type" de sauvegarde:
+Il y a plusieurs "types" de sauvegarde:
 
 ### Normal
 Réglages par défaut, expérience de jeu classique.
@@ -14,8 +14,8 @@ Réglages par défaut, expérience de jeu classique.
 ### Chill (Solo SSF)
 Jouez en solo, sans interaction, échange ou coopération avec d'autres joueurs.
 Modifications:
-Hôtel des ventes désactivés.
-Echange entre joueurs désactivé.
+Hôtel des ventes désactivé.
+Échange entre joueurs désactivé.
 Mines publiques désactivées.
 
 ### Hardcore
@@ -25,7 +25,7 @@ Vos statistiques sont divisées par 10.
 En cas de mort, votre sauvegarde redevient normale.
 Pas de bonus d'effet NOOB.
 Hôtel des ventres désactivé.
-Echange entre joueurs désactivé.
+Échange entre joueurs désactivé.
 Mines publiques désactivées.
 
 ## Les sauvegardes
