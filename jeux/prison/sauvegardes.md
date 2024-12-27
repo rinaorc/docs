@@ -15,17 +15,17 @@ Réglages par défaut, expérience de jeu classique.
 Jouez en solo, sans interaction, échange ou coopération avec d'autres joueurs.
 Modifications:
 Hôtel des ventes désactivés.
-Echange entre joueurs désactivés.
+Echange entre joueurs désactivé.
 Mines publiques désactivées.
 
 ### Hardcore
-Difficulté renforcée pour une expérence de jeu plus intense.
+Difficulté renforcée pour une expérience de jeu plus intense.
 Modificateurs:
 Vos statistiques sont divisées par 10.
 En cas de mort, votre sauvegarde redevient normale.
-PAs de bonus d'effet NOOB.
+Pas de bonus d'effet NOOB.
 Hôtel des ventres désactivé.
-Echange entre joueurs désacrivé.
+Echange entre joueurs désactivé.
 Mines publiques désactivées.
 
 ## Les sauvegardes
