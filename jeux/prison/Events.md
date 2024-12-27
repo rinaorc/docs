@@ -1,18 +1,18 @@
 # 🎉​ Événements
 {% hint style="info" %} Cette page a pour but de vous présenter les différents événements. {% endhint %}
 
-Les événements sont là pour vous apportez différents loots.
+Les événements sont là pour vous apporter différents loots.
 
-{% hint style="success" %} Vous obtenez les récompenses a la fin de l'événement. Si vous êtes pas connecté lors de la distribution de ces dernières, elles seront envoyer dans votre /mail{% endhint %}}
+{% hint style="success" %} Vous obtenez les récompenses à la fin de l'événement. Si vous n'êtes pas connecté lors de la distribution de ces dernières, elles seront envoyées dans votre /mail{% endhint %}}
 ## Événements disponibles⤵️
 
 ### Bloc communautaire
 Emplacement: au spawn (/spawn)
-L'objectif est de casser le plus de fois le blocs pendant 10 minutes pour obtenir des récompenses.
+L'objectif est de casser le plus de fois le bloc pendant 10 minutes pour obtenir des récompenses.
 
 Vous devez miner le bloc minimum 1000 fois afin d'obtenir les récompenses.
 
-Liste des paliers de récompenses en fonciton des blocs cassés:
+Liste des paliers de récompenses en fonction des blocs cassés:
 15 000 - 250 beacons
 25 000 - 6 clés lunaire
 40 000 - 3 clés astrales
@@ -22,7 +22,7 @@ Liste des paliers de récompenses en fonciton des blocs cassés:
 130 000 - 1 000 beacons + 1 participant gagne 1 fragement d'étoile ou cosmique
 
 ### Loterie des contrebandiers
-Empalcement: Zone pvp (/warp pvp)
+Emplacement: Zone pvp (/warp pvp)
 L'objectif est de ramasser le plus de tickets de contrebandiers possible pendant 10 minutes et de les ramener au bloc au début du warp pvp.
 
 Vous devez déposer minimum 10 tickets pour obtenir les récompenses.
