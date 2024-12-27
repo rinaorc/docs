@@ -28,7 +28,7 @@ L'objectif est de ramasser le plus de tickets de contrebandiers possible pendant
 Vous devez déposer minimum 10 tickets pour obtenir les récompenses.
 
 Récompenses disponibles:
-1 fragmenet galactique ou soleil pour 1 participant
+1 fragment galactique ou soleil pour 1 participant
 1 Familier Mamouth pour 1 participant
 1 Familier Axololt pour 1 participant
 6 clés lunaire
