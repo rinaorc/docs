@@ -17,9 +17,9 @@ Liste des paliers de récompenses en fonction des blocs cassés:
 25 000 - 6 clés lunaire
 40 000 - 3 clés astrales
 60 000 - 500 beacons + 1 participant gagne 1 familier Gorille
-75 000 2 - 2 clés nébuleuses
+75 000 2 - 2 clés nébuleuses + 1 participant gagne 1 fragement de rang aléatoire
 100 000 - 750 beacons + 1 participant gagne 1 familier Ours
-130 000 - 1 000 beacons + 1 participant gagne 1 fragement de rang aléatoire
+130 000 - 1 000 beacons 
 
 ### Loterie des contrebandiers
 Emplacement: Zone pvp (/warp pvp)
