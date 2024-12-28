@@ -12,21 +12,9 @@ Faire partie d'un gang assure aussi un accès privilégié à des ressources exc
 
 Il est possible d'améliorer ces compétences grâce à des **items obtenus dans le monde exploration**, à vos **Rinacoins** et à vos **Beacons**
 
-### Compétence de saturation (SOON)
+### Compétence XPlorateurs
 
-Cette compétence n'est pas encore fonctionnel, elle sera bientôt disponible.
-| Niveau de compétence | Compétence                        | Coût Trésors | Coût Beacons |
-|----------------------|-----------------------------|--------------|--------------|
-|                    1 | 10% de saturation en moins  |           15 |         3000 |
-|                    2 | 20% de saturation en moins  |           30 |         6000 |
-|                    3 | 30% de saturation en moins  |           45 |         9000 |
-|                    4 | 40% de saturation en moins  |           60 |        12000 |
-|                    5 | 50% de saturation en moins  |           90 |        17000 |
-|                    6 | 60% de saturation en moins  |          120 |        22000 |
-|                    7 | 70% de saturation en moins  |          150 |        27000 |
-|                    8 | 80% de saturation en moins  |          225 |        35000 |
-|                    9 | 90% de saturation en moins  |          300 |        45000 |
-|                   10 | 100% de saturation en moins |          600 |        60000 |
+Augmente votre gain d'xp de votre pioche d'exploration
 
 ### Compétence Extra Slot
 
