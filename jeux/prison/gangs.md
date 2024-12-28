@@ -15,6 +15,18 @@ Il est possible d'améliorer ces compétences grâce à des **items obtenus dans
 ### Compétence XPlorateurs
 
 Augmente votre gain d'xp de votre pioche d'exploration
+| Niveau de compétence | Compétence                        | Coût Trésors | Coût Beacons |
+|----------------------|-----------------------------|--------------|--------------|
+|                    1 | 1% d'xp en plus             |           15 |         3000 |
+|                    2 | 3% d'xp en plus             |           30 |         6000 |
+|                    3 | 5% d'xp en plus             |           45 |         9000 |
+|                    4 | 7% d'xp en plus             |           60 |        12000 |
+|                    5 | 9% d'xp en plus             |           90 |        17000 |
+|                    6 | 12% d'xp en plus            |          120 |        22000 |
+|                    7 | 15% d'xp en plus            |          150 |        27000 |
+|                    8 | 18% d'xp en plus            |          225 |        35000 |
+|                    9 | 22% d'xp en plus            |          300 |        45000 |
+|                   10 | 25% d'xp en plus            |          600 |        60000 |
 
 ### Compétence Extra Slot
 
