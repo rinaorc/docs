@@ -45,7 +45,14 @@ Une fois les familiers absorbés dans l'enclos, un message s'afficheras dans le 
 
 ## **➺** Comment améliorer des familiers ?
 
+{% hint style="info" %} Vous pouvez obtenir des boosters d'XP (25%, 50%, 75%, 100% et 150%) familiers dans les crates (/crates) {% endhint %}
 Pour améliorer le niveau des familiers, vous pouvez augmenter leur expérience en minant (1 à 3 pets selon votre rang (/rang) dans l'incubateur du menu /pet) ou en mettant dans l'enclos un familier que vous avez déjà, cela lui fera gagner de l'xp.
+
+## **➺** Études Zoologiques
+Vous pouvez voir votre niveau d'étude sur le petit diamants dans le menu /pet en bas a droite.
+Collectionnez et faites évoluer vos familiers pour débloquer des bonus de statistiques !
+
+Tous les 100 niveaux d'enclos, vous obtenez un bonus supplémentaire de +5% Bonus XP Familiers !
 
 ## **➺** Quels sont les différences entre chaque pets ?
 
