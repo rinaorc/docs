@@ -13,13 +13,13 @@ L'objectif est de casser le plus de fois le bloc pendant 10 minutes pour obtenir
 Vous devez miner le bloc minimum 1000 fois afin d'obtenir les récompenses.
 
 Liste des paliers de récompenses en fonction des blocs cassés:
-15 000 - 250 beacons
-25 000 - 6 clés lunaire
-40 000 - 3 clés astrales
-60 000 - 500 beacons + 1 participant gagne 1 familier Gorille
-75 000 2 - 2 clés nébuleuses + 1 participant gagne 1 fragement de rang aléatoire
-100 000 - 750 beacons + 1 participant gagne 1 familier Ours
-130 000 - 1 000 beacons 
+10 000 - 250 beacons
+20 000 - 6 clés lunaire
+35 000 - 3 clés astrales
+45 000 - 500 beacons + 1 participant gagne 1 familier Gorille
+65 000 2 - 2 clés nébuleuses + 1 participant gagne 1 fragement de rang aléatoire
+85 000 - 750 beacons + 1 participant gagne 1 familier Ours
+100 000 - 1 000 beacons 
 
 ### Loterie des contrebandiers
 Emplacement: Zone pvp (/warp pvp)
