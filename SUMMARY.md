@@ -51,6 +51,7 @@
       * [🧙‍♂️​ Runes](jeux/prison/pve/epee/runes.md)
   * [🌍​ Voyages](jeux/prison/voyages.md)
   * [🗿​ Compétences](jeux/prison/competences.md)
+  * [🎉​ Événements](jeux/prison/Events.md)
   * [📅​ Contrats](jeux/prison/contrats.md)
   * [⛓️ Cellule](jeux/prison/cellule.md)
   * [🛒 Ressources](jeux/prison/rsc/README.md)

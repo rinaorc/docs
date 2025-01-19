@@ -12,21 +12,22 @@ Faire partie d'un gang assure aussi un accès privilégié à des ressources exc
 
 Il est possible d'améliorer ces compétences grâce à des **items obtenus dans le monde exploration**, à vos **Rinacoins** et à vos **Beacons**
 
-### Compétence de saturation (SOON)
+### Compétence XPlorateurs
 
-Cette compétence n'est pas encore fonctionnel, elle sera bientôt disponible.
-| Niveau de compétence | Compétence                        | Coût Trésors | Coût Beacons |
+Augmente votre gain d'xp de votre multi-outil d'exploration
+
+| Niveau de compétence | Compétence                  | Coût Trésors | Coût Beacons |
 |----------------------|-----------------------------|--------------|--------------|
-|                    1 | 10% de saturation en moins  |           15 |         3000 |
-|                    2 | 20% de saturation en moins  |           30 |         6000 |
-|                    3 | 30% de saturation en moins  |           45 |         9000 |
-|                    4 | 40% de saturation en moins  |           60 |        12000 |
-|                    5 | 50% de saturation en moins  |           90 |        17000 |
-|                    6 | 60% de saturation en moins  |          120 |        22000 |
-|                    7 | 70% de saturation en moins  |          150 |        27000 |
-|                    8 | 80% de saturation en moins  |          225 |        35000 |
-|                    9 | 90% de saturation en moins  |          300 |        45000 |
-|                   10 | 100% de saturation en moins |          600 |        60000 |
+|                    1 | 1% d'xp en plus             |           15 |         3000 |
+|                    2 | 3% d'xp en plus             |           30 |         6000 |
+|                    3 | 5% d'xp en plus             |           45 |         9000 |
+|                    4 | 7% d'xp en plus             |           60 |        12000 |
+|                    5 | 9% d'xp en plus             |           90 |        17000 |
+|                    6 | 12% d'xp en plus            |          120 |        22000 |
+|                    7 | 15% d'xp en plus            |          150 |        27000 |
+|                    8 | 18% d'xp en plus            |          225 |        35000 |
+|                    9 | 22% d'xp en plus            |          300 |        45000 |
+|                   10 | 25% d'xp en plus            |          600 |        60000 |
 
 ### Compétence Extra Slot
 
@@ -55,9 +56,9 @@ Cette compétence permet d'augmenter le nombre de blocs produit afin de pouvoir 
 |                    9 | Production de 50 blocs par heure |        50000 |          200 |
 |                   10 | Production de 70 blocs par heure |        75000 |          300 |
 
-### Compétence Buff stats PvE (SOON)
+### Compétence Buff stats PvE / Minage
 
-Cette compétence permet d'augmenter les stats que vous avez pour le PvE.
+Cette compétence permet d'augmenter les stats que vous avez pour le PvE et le Minage (Attaque, Vie, Défense, bonus Tokens, Rinacoins, XP pioche).
 
 ### Compétence Taille plot gang (SOON)
 
