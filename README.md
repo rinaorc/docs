@@ -1,3 +1,3 @@
 # 🏠 Accueil
 
-![](.gitbook/assets/logo\_1000px.png)
+![](<.gitbook/assets/R_rina_zoomed (1).png>)

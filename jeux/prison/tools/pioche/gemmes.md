@@ -1,4 +1,4 @@
-# ⛏️ Gemmes
+# 💍 Gemmes
 
 {% hint style="info" %}
 Cette page a pour but de vous faire comprendre le fonctionnement des gemmes.
@@ -6,7 +6,7 @@ Cette page a pour but de vous faire comprendre le fonctionnement des gemmes.
 
 ## **➺** Comment obtenir des gemmes ?
 
-Pour savoir comment obtenir des gemmes, il suffit de [cliquer ici](../../rsc/objects.md)
+Pour savoir comment obtenir des gemmes, il suffit de [cliquer ici](broken-reference)
 
 ## **➺** Comment équiper les gemmes ?
 

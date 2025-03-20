@@ -9,7 +9,7 @@ Cette page a pour but de vous expliquer comment obtenir des objets (Armures & Ge
 Pour obtenir des objets, il vous suffit de miner dans votre mine, vous obtenez un objet en moyenne tous les 100 blocs minés. Vous obtenez aléatoirement une des six gemmes existantes (Rubis, Topaz, Améthyste, Saphire, Émeraude, Opale) ou une pièce d'armure.
 
 L'objet alors obtenu possédera une rareté, allant de Normal à Transcendant.\
-Une rareté supérieur à transcendant pourrait voir le jour. On sait qu'elle ne s'appliquera pas aux objets que nous connaissons aujourd'hui.&#x20;
+Une rareté supérieur à transcendant pourrait voir le jour. On sait qu'elle ne s'appliquera pas aux objets que nous connaissons aujourd'hui.
 
 {% hint style="success" %}
 Le scanner est l'outil définissant la rareté des objets que vous allez obtenir, pour en savoir plus, [cliquez ici](../tools/scanner.md).
@@ -20,11 +20,11 @@ Le scanner est l'outil définissant la rareté des objets que vous allez obtenir
 Chaque objet a une chance de posséder **une ou plusieurs étoile(s)** lors de son obtention. Elles s'attachent à une statistique aléatoire de votre pioche (une étoile par statistique). Elles octroient un bonus de **50%** de statistiques basé sur le tier 1 de l'affixe sur lequel elles sont attachées. Les étoiles ne peuvent pas être ajoutées ou retirées.
 
 {% hint style="danger" %}
-&#x20;Le boost octroyé n'est pas global, mais équivalent à 50% de votre statistique lorsque vous **obtenez l'objet** (tier 1 à 3).
+Le boost octroyé n'est pas global, mais équivalent à 50% de votre statistique lorsque vous **obtenez l'objet** (tier 1 à 3).
 {% endhint %}
 
 _**Exemple:** si le boost était global, sur une statistique tier 6 à 1000%, l'étoile octroierait un boost de 500% (50% de 1000), soit **1500%**_\
-_Avec le boost étoilé, le boost de 50% ne s'applique que sur **le tier d'obtention de l'objet:** si vous avez obtenu une statistique de tier 1 à 100%, elle passera à 150%. La montée jusqu'au t6 se passera de façon conventionnelle en additionnant simplement ces 50% qui eux n'augmenteront pas. En reprenant la même statistique maximum de 1000% sur le premier exemple, cela amène à une statistique à 1050% lors du tier 6._
+&#xNAN;_&#x41;vec le boost étoilé, le boost de 50% ne s'applique que sur **le tier d'obtention de l'objet:** si vous avez obtenu une statistique de tier 1 à 100%, elle passera à 150%. La montée jusqu'au t6 se passera de façon conventionnelle en additionnant simplement ces 50% qui eux n'augmenteront pas. En reprenant la même statistique maximum de 1000% sur le premier exemple, cela amène à une statistique à 1050% lors du tier 6._
 
 ![img.png](../ressources/etoile.png)
 

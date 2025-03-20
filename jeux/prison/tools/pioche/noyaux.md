@@ -17,5 +17,5 @@ Notez qu'à partir du niveau 100 vous obtenez un bonus additionnel de 1% par tra
 ![](../../ressources/noyau.png) ![](../../ressources/sacrifice.png)
 
 {% hint style="warning" %}
-### Nous vous conseillons d'attendre le niveau 150 avant votre premier sacrifice de niveaux afin de débloquer l'enchantement "Astre Céleste".
+#### Nous vous conseillons d'attendre le niveau 150 avant votre premier sacrifice de niveaux afin de débloquer l'enchantement "Astre Céleste".
 {% endhint %}
